@@ -7,7 +7,9 @@ https://github.com/rusefi/hellen72
 
 New board:
 
-1) PCB outline and 64 pin connector layout to match https://github.com/rusefi/rusefi/tree/master/hardware/frankenso
+1) PCB outline to match hw_48_na and 64 pin connector location to match https://github.com/rusefi/rusefi/tree/master/hardware/frankenso
+
+1.5) hw_48_na outline is an improved frankenso. While older frankenso has proper 64 pin header location, newew hw_48_na has minor shape corrections.  
 
 2) Same pinout on 22 and 26 sections as https://github.com/rusefi/hw_48_na same jumpers to switch between https://github.com/rusefi/rusefi/wiki/Mazda-Miata-1990 and https://github.com/rusefi/rusefi/wiki/Mazda-Miata-1994 vehicles
 
