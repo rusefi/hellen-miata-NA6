@@ -4,6 +4,7 @@ https://github.com/andreika-git/hellen-one - https://rusefi.com/forum/viewtopic.
 
 See https://github.com/rusefi/hellen72
 See https://github.com/rusefi/hellen121vag
+See https://github.com/rusefi/hw_microRusEfi
 
 New board:
 
