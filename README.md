@@ -34,3 +34,14 @@ https://rusefi.com/docs/ibom/hw48na_V0.4.html
 https://rusefi.com/docs/ibom/hellen72b-ibom.html
 
 https://rusefi.com/docs/ibom/frankenso_latest.html
+
+
+
+
+Actionable items
+
+1) start from https://github.com/rusefi/hw_48_na
+
+2) place 64 into physical location like on https://github.com/rusefi/rusefi/tree/master/hardware/frankenso
+
+3) identidy NA jumpers VS functional areas
