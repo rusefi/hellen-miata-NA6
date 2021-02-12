@@ -10,3 +10,5 @@ Same pinout on 22 and 26 sections as https://github.com/rusefi/hw_48_na same jum
 More on jumpers at https://github.com/rusefi/rusefi/wiki/Miata-NA-48-pin-board-for-MRE
 
 Middle 16 pin plug to become https://github.com/mck1117/wideband module
+
+PCB outline and connector layout to match https://github.com/rusefi/rusefi/tree/master/hardware/frankenso
