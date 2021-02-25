@@ -20,12 +20,13 @@ More on jumpers at https://github.com/rusefi/rusefi/wiki/Miata-NA-48-pin-board-f
 
 3) Middle 16 pin plug to become https://github.com/mck1117/wideband Hellen-style module
 
+# Wideband
 
 This brings us to "make https://github.com/mck1117/wideband Hellen-style module" subtask:
 
 1) start from https://github.com/mck1117/wideband/tree/master/board_module
 
-2) add TBD SWD header
+2) add TC2030 SWD header
 
 3) replace vias with board edge connectivity
 
