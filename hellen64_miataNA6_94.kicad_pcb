@@ -4207,7 +4207,7 @@
 
   (footprint "rusefi_lib:MPX-4_MAP" (layer "F.Cu")
     (tedit 5EC3B7D8) (tstamp 4d284b08-5bac-4ec7-951b-dc34698ec85b)
-    (at 206.15 87.3)
+    (at 202.35 79.5)
     (property "Sheetfile" "hellen64_miataNA6_94.kicad_sch")
     (property "Sheetname" "")
     (path "/1cbb74cf-6235-4f4d-8098-2396d25ebebb")
