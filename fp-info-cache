@@ -1,4 +1,4 @@
-19543760462143980
+19545382555552443
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84713,6 +84713,13 @@ ST Morpho Connector 144 STLink
 0
 148
 148
+rusefi_lib
+TAG_TC2030-IDC-NL
+
+
+0
+6
+6
 rusefi_lib
 TE_776266-1
 
