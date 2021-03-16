@@ -1,4 +1,4 @@
-19545382555552443
+19546998483822280
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84175,6 +84175,13 @@ LOGO
 0
 0
 hellen-one-common
+M600
+
+
+0
+21
+12
+hellen-one-common
 PAD-0805-PAD
 
 
@@ -84321,6 +84328,13 @@ stlink
 0
 17
 7
+hellen-one-wbo-0.1
+wbo
+
+
+0
+20
+10
 rusefi_lib
 8-1393476-0
 
@@ -84713,13 +84727,6 @@ ST Morpho Connector 144 STLink
 0
 148
 148
-rusefi_lib
-TAG_TC2030-IDC-NL
-
-
-0
-6
-6
 rusefi_lib
 TE_776266-1
 
