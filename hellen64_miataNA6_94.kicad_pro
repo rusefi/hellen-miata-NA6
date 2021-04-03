@@ -48,7 +48,13 @@
           "min_clearance": 0.15239999999999998
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [],
       "meta": {
         "filename": "board_design_settings.json",
@@ -112,22 +118,22 @@
         "solder_mask_clearance": 7.599999999999999e-05,
         "solder_mask_min_width": 0.0,
         "solder_paste_clearance": 0.0,
-        "solder_paste_margin_ratio": 0.0
+        "solder_paste_margin_ratio": -0.0
       },
       "track_widths": [
         0.0,
-        0.2032,
-        0.2159,
-        0.2159,
-        0.3048,
-        0.4064,
-        0.55,
+        0.2,
+        0.254,
+        0.3,
+        0.4,
+        0.508,
         0.6,
-        1.0668,
-        1.651,
-        1.6764,
-        2.7178,
-        3.3528
+        0.8,
+        1.0,
+        1.5,
+        2.0,
+        2.5,
+        3.0
       ],
       "via_dimensions": [
         {
@@ -420,8 +426,6 @@
           "/1R",
           "/1U",
           "/1V",
-          "/2E",
-          "/2G",
           "/2H",
           "/2I",
           "/2J",
@@ -429,13 +433,8 @@
           "/2M",
           "/2N",
           "/2O",
-          "/2P",
-          "/2Q",
           "/2S",
           "/2T",
-          "/2U",
-          "/2V",
-          "/2W",
           "/2X",
           "/INJ3",
           "/INJ4",
@@ -518,7 +517,7 @@
   },
   "sheets": [
     [
-      "77a9c8bd-2aa4-426e-b33b-c3e75fde3c34",
+      "505c9513-6ca2-434d-9041-7b6be1f9aaec",
       ""
     ]
   ],
