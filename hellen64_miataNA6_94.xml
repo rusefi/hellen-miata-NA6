@@ -1,0 +1,3914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Work\rusefi\github\hellen64_miataNA6_94\hellen64_miataNA6_94.kicad_sch</source>
+    <date>09.04.2021 20:08:36</date>
+    <tool>Eeschema (5.99.0-10192-g8d0191151d)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>hellen64 miataNA6 94</title>
+        <company>rusEFI</company>
+        <rev>R0.1</rev>
+        <date>2021-03-28</date>
+        <source>hellen64_miataNA6_94.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value="http://rusefi.com/s/hellenNA6"/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100nF</value>
+      <footprint>hellen-one-common:C0603</footprint>
+      <fields>
+        <field name="LCSC">C14663</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
+      <property name="LCSC" value="C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0430b0de-3d04-43bb-b242-60b3811ae13e</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>hellen-one-common:C0603</footprint>
+      <fields>
+        <field name="LCSC">C14663</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
+      <property name="LCSC" value="C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e47e7c78-59b0-46ac-9242-3c2f486cfa82</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100nF</value>
+      <footprint>hellen-one-common:C0603</footprint>
+      <fields>
+        <field name="LCSC">C14663</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
+      <property name="LCSC" value="C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5d857e95-d97f-4578-be38-fa3dad35e792</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED-COLOR-0805</value>
+      <footprint>hellen-one-common:LED-0805</footprint>
+      <fields>
+        <field name="Comment">LED-GREEN-0805</field>
+        <field name="LCSC">C2297</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="LED" description="WHITE LED"/>
+      <property name="LCSC" value="C2297"/>
+      <property name="Comment" value="LED-GREEN-0805"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>de2ce4ca-d6bd-4540-915d-0de7f61572ea</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED-COLOR-0805</value>
+      <footprint>hellen-one-common:LED-0805</footprint>
+      <fields>
+        <field name="Comment">LED-GREEN-0805</field>
+        <field name="LCSC">C2297</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="LED" description="WHITE LED"/>
+      <property name="LCSC" value="C2297"/>
+      <property name="Comment" value="LED-GREEN-0805"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>426d0b4f-cae4-4ad7-a9b6-4b8226ee7039</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED_0603</value>
+      <footprint>hellen-one-common:LED-0603</footprint>
+      <fields>
+        <field name="Comment">LED-BLUE-0603</field>
+        <field name="LCSC">C72041</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="LED_0603" description=""/>
+      <property name="LCSC" value="C72041"/>
+      <property name="Comment" value="LED-BLUE-0603"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>45d8c7f1-b59d-4424-aa7f-470108b5743e</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED_0603</value>
+      <footprint>hellen-one-common:LED-0603</footprint>
+      <fields>
+        <field name="Comment">LED-BLUE-0603</field>
+        <field name="LCSC">C72041</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="LED_0603" description=""/>
+      <property name="LCSC" value="C72041"/>
+      <property name="Comment" value="LED-BLUE-0603"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>199ea69a-bd52-443e-9a9a-670975d784c8</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>1N4148WS</value>
+      <footprint>hellen-one-common:SOD-323</footprint>
+      <fields>
+        <field name="LCSC">C2128</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
+      <property name="LCSC" value="C2128"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>005a2ec4-486e-4e75-bf38-c08ed2701508</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>LED_0603</value>
+      <footprint>hellen-one-common:LED-0603</footprint>
+      <fields>
+        <field name="Comment">LED-RED-0603</field>
+        <field name="LCSC">C2286</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="LED_0603" description=""/>
+      <property name="LCSC" value="C2286"/>
+      <property name="Comment" value="LED-RED-0603"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a97a4ce0-6e9d-405d-9ea9-0c97c858353b</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>LED_0603</value>
+      <footprint>hellen-one-common:LED-0603</footprint>
+      <fields>
+        <field name="Comment">LED-RED-0603</field>
+        <field name="LCSC">C2286</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="LED_0603" description=""/>
+      <property name="LCSC" value="C2286"/>
+      <property name="Comment" value="LED-RED-0603"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>95a2af8c-453f-422a-b525-b74bab555973</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>LED_0603</value>
+      <footprint>hellen-one-common:LED-0603</footprint>
+      <fields>
+        <field name="Comment">LED-RED-0603</field>
+        <field name="LCSC">C2286</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="LED_0603" description=""/>
+      <property name="LCSC" value="C2286"/>
+      <property name="Comment" value="LED-RED-0603"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f9e7fe5e-a389-402d-9068-03f420772551</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>LED_0603</value>
+      <footprint>hellen-one-common:LED-0603</footprint>
+      <fields>
+        <field name="Comment">LED-RED-0603</field>
+        <field name="LCSC">C2286</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="LED_0603" description=""/>
+      <property name="LCSC" value="C2286"/>
+      <property name="Comment" value="LED-RED-0603"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dda915e0-8197-45c1-ba5e-650f9c98f0b2</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>LED_0603</value>
+      <footprint>hellen-one-common:LED-0603</footprint>
+      <fields>
+        <field name="Comment">LED-GREEN-0603</field>
+        <field name="LCSC">C72043</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="LED_0603" description=""/>
+      <property name="LCSC" value="C72043"/>
+      <property name="Comment" value="LED-GREEN-0603"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d82e063f-36b7-4e6b-b4bf-1b0383a1434d</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>LED-COLOR-0805</value>
+      <footprint>hellen-one-common:LED-0805</footprint>
+      <fields>
+        <field name="Comment">LED-GREEN-0805</field>
+        <field name="LCSC">C2297</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="LED" description="WHITE LED"/>
+      <property name="LCSC" value="C2297"/>
+      <property name="Comment" value="LED-GREEN-0805"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>306499df-be46-4cfd-bfb3-1b380d4bd004</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>1N4148WS</value>
+      <footprint>hellen-one-common:SOD-323</footprint>
+      <fields>
+        <field name="LCSC">C2128</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
+      <property name="LCSC" value="C2128"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56a53c7d-c6f5-40be-9803-0f8ff371cf12</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>1N4148WS</value>
+      <footprint>hellen-one-common:SOD-323</footprint>
+      <fields>
+        <field name="LCSC">C2128</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
+      <property name="LCSC" value="C2128"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0fdeb32-10a6-4bc2-b50a-c828407d17d7</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>1N4148WS</value>
+      <footprint>hellen-one-common:SOD-323</footprint>
+      <fields>
+        <field name="LCSC">C2128</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
+      <property name="LCSC" value="C2128"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>07c2999e-a03f-4775-880e-7045f018547b</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>1N4148WS</value>
+      <footprint>hellen-one-common:SOD-323</footprint>
+      <fields>
+        <field name="LCSC">C2128</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
+      <property name="LCSC" value="C2128"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3392e4e-cbf1-4d2d-a62d-25dbd93569cc</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>LED_0603</value>
+      <footprint>hellen-one-common:LED-0603</footprint>
+      <fields>
+        <field name="Comment">LED-WHITE-0603</field>
+        <field name="LCSC">C2290</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="LED_0603" description=""/>
+      <property name="LCSC" value="C2290"/>
+      <property name="Comment" value="LED-WHITE-0603"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9d9e92a5-5515-48bb-a34e-0276c2576f12</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>LED_0603</value>
+      <footprint>hellen-one-common:LED-0603</footprint>
+      <fields>
+        <field name="Comment">LED-WHITE-0603</field>
+        <field name="LCSC">C2290</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="LED_0603" description=""/>
+      <property name="LCSC" value="C2290"/>
+      <property name="Comment" value="LED-WHITE-0603"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>11422bdb-8a1d-4522-a94c-3bf39be2c507</tstamps>
+    </comp>
+    <comp ref="D18">
+      <value>LED_0603</value>
+      <footprint>hellen-one-common:LED-0603</footprint>
+      <fields>
+        <field name="Comment">LED-WHITE-0603</field>
+        <field name="LCSC">C2290</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="LED_0603" description=""/>
+      <property name="LCSC" value="C2290"/>
+      <property name="Comment" value="LED-WHITE-0603"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>278ff8a9-4134-43d8-bb69-c36e67173722</tstamps>
+    </comp>
+    <comp ref="D19">
+      <value>LED_0603</value>
+      <footprint>hellen-one-common:LED-0603</footprint>
+      <fields>
+        <field name="Comment">LED-WHITE-0603</field>
+        <field name="LCSC">C2290</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="LED_0603" description=""/>
+      <property name="LCSC" value="C2290"/>
+      <property name="Comment" value="LED-WHITE-0603"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b6b99cff-1245-4e69-93af-336326e0ee46</tstamps>
+    </comp>
+    <comp ref="D20">
+      <value>1N4148WS</value>
+      <footprint>hellen-one-common:SOD-323</footprint>
+      <fields>
+        <field name="LCSC">C2128</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
+      <property name="LCSC" value="C2128"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc4d4a97-53f5-4150-9523-70faabf8d743</tstamps>
+    </comp>
+    <comp ref="D21">
+      <value>1N4148WS</value>
+      <footprint>hellen-one-common:SOD-323</footprint>
+      <fields>
+        <field name="LCSC">C2128</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
+      <property name="LCSC" value="C2128"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1acc6e27-a091-4d03-801b-c1754415d7a3</tstamps>
+    </comp>
+    <comp ref="D22">
+      <value>1N4148WS</value>
+      <footprint>hellen-one-common:SOD-323</footprint>
+      <fields>
+        <field name="LCSC">C2128</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
+      <property name="LCSC" value="C2128"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b438491-5d94-4aa4-86c7-a679cb51c4e5</tstamps>
+    </comp>
+    <comp ref="D23">
+      <value>1N4148WS</value>
+      <footprint>hellen-one-common:SOD-323</footprint>
+      <fields>
+        <field name="LCSC">C2128</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
+      <property name="LCSC" value="C2128"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a017f77-e109-4114-8574-a3bca21ebc02</tstamps>
+    </comp>
+    <comp ref="D24">
+      <value>D_TVS_Array_4</value>
+      <footprint>hellen-one-common:SOT23-6</footprint>
+      <fields>
+        <field name="LCSC">C85364</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="D_TVS_Array_4" description="TVS Diode Array"/>
+      <property name="LCSC" value="C85364"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>44ec3c18-4322-44c0-b9c2-d190992bc10c</tstamps>
+    </comp>
+    <comp ref="D26">
+      <value>LED_0603</value>
+      <footprint>hellen-one-common:LED-0603</footprint>
+      <fields>
+        <field name="Comment">LED-WHITE-0603</field>
+        <field name="LCSC">C2290</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="LED_0603" description=""/>
+      <property name="LCSC" value="C2290"/>
+      <property name="Comment" value="LED-WHITE-0603"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f096d8de-e91a-4419-adc0-d9abde139fd8</tstamps>
+    </comp>
+    <comp ref="D27">
+      <value>LED_0603</value>
+      <footprint>hellen-one-common:LED-0603</footprint>
+      <fields>
+        <field name="Comment">LED-WHITE-0603</field>
+        <field name="LCSC">C2290</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="LED_0603" description=""/>
+      <property name="LCSC" value="C2290"/>
+      <property name="Comment" value="LED-WHITE-0603"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69903a75-99ea-47d8-ad43-f8f464909b9a</tstamps>
+    </comp>
+    <comp ref="D29">
+      <value>1N4148WS</value>
+      <footprint>hellen-one-common:SOD-323</footprint>
+      <fields>
+        <field name="LCSC">C2128</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
+      <property name="LCSC" value="C2128"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b46d374-7173-4af4-a358-28961a795c53</tstamps>
+    </comp>
+    <comp ref="D30">
+      <value>1N4148WS</value>
+      <footprint>hellen-one-common:SOD-323</footprint>
+      <fields>
+        <field name="LCSC">C2128</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
+      <property name="LCSC" value="C2128"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2096de03-965e-4c9e-8466-a874c8fd40f1</tstamps>
+    </comp>
+    <comp ref="G1">
+      <value>LOGO</value>
+      <footprint>rusefi_lib:LOGO</footprint>
+      <libsource lib="logo" part="LOGO" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005fc9579d</tstamps>
+    </comp>
+    <comp ref="G2">
+      <value>DISCLAIMER</value>
+      <footprint>rusefi_lib:Off_Road_Disclaimer</footprint>
+      <libsource lib="Off_Road_Disclaimer" part="Disclaimer" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f60e663</tstamps>
+    </comp>
+    <comp ref="G3">
+      <value>LOGO</value>
+      <footprint>hellen-one-common:LOGO</footprint>
+      <libsource lib="hellen-one-common" part="LOGO" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cdd8f5f5-f75b-417b-8555-805ef5c38350</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>USB_B_Mini</value>
+      <footprint>hellen-one-common:USB-MINI-B-VERTICAL</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C13453</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="USB_B_Mini" description="USB Mini Type B connector"/>
+      <property name="LCSC" value="C13453"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>af907853-1b11-4836-8bf0-53e02c942215</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x05_Male</value>
+      <footprint>Connector_Molex:Molex_SPOX_5267-05A_1x05_P2.50mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x05_Male" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d58a929-e024-4f3a-8b28-e2bbd83b6a35</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x06</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x06" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6aa321a6-af89-4106-8dab-5049a056c4bb</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_02x12_Odd_Even</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x12_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_02x12_Odd_Even" description="Generic connector, double row, 02x12, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a73c9bfe-6b19-47cd-8a47-b0140dfc9eca</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x06</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x06" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d49deca6-c95f-4320-ab5e-be4d9bce33f9</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Conn_01x08</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x08" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aea7f98f-a823-4712-880c-a40103b97087</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>Conn_01x04</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9838bb45-2321-4202-8950-984c36b981ca</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>Conn_01x06</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x06" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3d56eca-e6ae-490e-a0cd-f5f82f9e231c</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>Conn_01x08</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x08" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5fae987d-3776-4e0b-a45d-da292a53e1e8</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>Conn_01x06</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x06" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c1530fc9-bde4-4472-b583-fd20e59fb69a</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>Conn_01x01</value>
+      <footprint>MountingHole:MountingHole_4.5mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c467b6a1-0ecf-4233-9937-9acba863c9f6</tstamps>
+    </comp>
+    <comp ref="J12">
+      <value>Conn_01x01</value>
+      <footprint>MountingHole:MountingHole_4.5mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b6b17510-f2fd-4be9-af2b-0ed340671ca7</tstamps>
+    </comp>
+    <comp ref="J13">
+      <value>Conn_01x01</value>
+      <footprint>MountingHole:MountingHole_4.5mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ffccce6a-be03-48d4-af6d-019854539260</tstamps>
+    </comp>
+    <comp ref="J14">
+      <value>Conn_01x01</value>
+      <footprint>MountingHole:MountingHole_4.5mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2156b89-a8b2-4d5e-a8c2-bdec14767258</tstamps>
+    </comp>
+    <comp ref="J15">
+      <value>Conn_01x01</value>
+      <footprint>MountingHole:MountingHole_4.5mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>29b0b782-a465-4378-9ffc-414784be4fd3</tstamps>
+    </comp>
+    <comp ref="J16">
+      <value>Conn_01x01</value>
+      <footprint>MountingHole:MountingHole_4.5mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c779b2d-b873-4fd9-833f-c1ac4e283db5</tstamps>
+    </comp>
+    <comp ref="J17">
+      <value>Conn_01x01</value>
+      <footprint>MountingHole:MountingHole_4.5mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b071a9f3-95cd-4732-82c7-2d419ca96271</tstamps>
+    </comp>
+    <comp ref="J18">
+      <value>Conn_01x01</value>
+      <footprint>MountingHole:MountingHole_4.5mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>297cb064-b85c-4512-9bd4-e6a9315f74ca</tstamps>
+    </comp>
+    <comp ref="M1">
+      <value>Module-input-0.1</value>
+      <footprint>hellen-one-input-0.1:input</footprint>
+      <libsource lib="hellen-one-input-0.1" part="Module-input-0.1" description="Hellen-One Analog/Digital Inputs Module"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c6559d2-4917-4b4c-a303-ee1f7b860890fc785f9a-2387-411e-8d67-2468786060dbadd902ba-cdc9-417e-9822-b096323af09923a6f52c-cc5e-4e18-9bf5-824e949d461f</tstamps>
+    </comp>
+    <comp ref="M2">
+      <value>Module-ign8-0.1</value>
+      <footprint>hellen-one-ign8-0.1:ign8</footprint>
+      <libsource lib="hellen-one-ign8-0.1" part="Module-ign8-0.1" description="Hellen-One 8-ch Ignition Module"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81ee17ea-736f-40b1-a449-cf245d023f6e</tstamps>
+    </comp>
+    <comp ref="M3">
+      <value>Module-mcu-0.1</value>
+      <footprint>hellen-one-mcu-0.1:mcu</footprint>
+      <libsource lib="hellen-one-mcu-0.1" part="Module-mcu-0.1" description="Hellen One MCU Module"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b97f6d8b-ab00-4f6e-923f-1a10aadc2e78c3f3a610-1e4e-437f-9a01-66c9af7d2af4ec9edfab-e667-437a-b9cf-45eac676962ab6169874-3754-4d71-849b-a9e1d0cd948c</tstamps>
+    </comp>
+    <comp ref="M4">
+      <value>Module-sd-0.1</value>
+      <footprint>hellen-one-sd-0.1:sd</footprint>
+      <libsource lib="hellen-one-sd-0.1" part="Module-sd-0.1" description="Hellen-One microSD Card Module"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>46c92d79-ab77-4cea-933a-f95fdcee2757</tstamps>
+    </comp>
+    <comp ref="M5">
+      <value>Module-output-0.1</value>
+      <footprint>hellen-one-output-0.1:output</footprint>
+      <libsource lib="hellen-one-output-0.1" part="Module-output-0.1" description="Hellen-One Outputs Module"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ecac1373-e246-4b02-a35e-9e26eaa02328104c06f4-daee-4e9b-96ca-94cabb40b9a5</tstamps>
+    </comp>
+    <comp ref="M6">
+      <value>Module-can-0.1</value>
+      <footprint>hellen-one-can-0.1:can</footprint>
+      <libsource lib="hellen-one-can-0.1" part="Module-can-0.1" description="Hellen-One CAN Module"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bff2fea1-91ac-4c5b-b14b-3e6f4f2815c0</tstamps>
+    </comp>
+    <comp ref="M7">
+      <value>Module-stlink-0.1</value>
+      <footprint>hellen-one-stlink-0.1:stlink</footprint>
+      <libsource lib="hellen-one-stlink-0.1" part="Module-stlink-0.1" description="Hellen-One ST/Link Module"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98c5f032-eb5d-4a47-8741-2ec3d9656714</tstamps>
+    </comp>
+    <comp ref="M8">
+      <value>Module-can-0.1</value>
+      <footprint>hellen-one-can-0.1:can</footprint>
+      <libsource lib="hellen-one-can-0.1" part="Module-can-0.1" description="Hellen-One CAN Module"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a8f6c2f1-497a-4a13-89ec-a0e142da7ff1</tstamps>
+    </comp>
+    <comp ref="M9">
+      <value>Module-knock-0.1</value>
+      <footprint>hellen-one-knock-0.1:knock</footprint>
+      <libsource lib="hellen-one-knock-0.1" part="Module-knock-0.1" description="Hellen-One Knock Pre-amplifier Module"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>068cc533-be7b-4c88-b94a-4d2745a8714e</tstamps>
+    </comp>
+    <comp ref="M10">
+      <value>Module-power12-0.1</value>
+      <footprint>hellen-one-power12-0.1:power12</footprint>
+      <libsource lib="hellen-one-power12-0.1" part="Module-power12-0.1" description="Hellen-One Power-12V Module"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4868d026-8527-45b2-b1de-2038e2c67ade</tstamps>
+    </comp>
+    <comp ref="M11">
+      <value>Module-power5-0.1</value>
+      <footprint>hellen-one-power5-0.1:power5</footprint>
+      <libsource lib="hellen-one-power5-0.1" part="Module-power5-0.1" description="Hellen-One Power-5V Module"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b4651809-2deb-42cb-9885-1016b9858d48</tstamps>
+    </comp>
+    <comp ref="M12">
+      <value>Module-wbo-0.1</value>
+      <footprint>hellen-one-wbo-0.1:wbo</footprint>
+      <libsource lib="hellen-one-wbo-0.1" part="Module-wbo-0.1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f525532a-558c-4719-a7a6-948398967fce</tstamps>
+    </comp>
+    <comp ref="P1">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eddb3020-1c76-4de8-9d80-6e511d942a47</tstamps>
+    </comp>
+    <comp ref="P2">
+      <value>176122-6_2nd</value>
+      <footprint>rusefi_lib:176122-6_2nd</footprint>
+      <datasheet>DOCUMENTATION</datasheet>
+      <libsource lib="176122-6" part="176122-6_2nd" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>795890df-a6bd-4dfa-9f2a-3a4a16e2521dc0df41d0-9820-47d3-a152-f0ffc6d8b5601b56c00b-60da-490b-b4d1-bf16e46a6558</tstamps>
+    </comp>
+    <comp ref="P22">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0721ada1-34a4-4988-b373-642671617a74</tstamps>
+    </comp>
+    <comp ref="P23">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f6cd249e-bfc8-4ad0-b958-7cd85c57196a</tstamps>
+    </comp>
+    <comp ref="P24">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f69b463a-5cd1-4f12-89f1-91fe3d1b9f6d</tstamps>
+    </comp>
+    <comp ref="P25">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>695fb95a-f798-4bce-b749-a21a5e7fecd8</tstamps>
+    </comp>
+    <comp ref="P26">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a384c404-a24e-441c-9026-99ab08ed52c6</tstamps>
+    </comp>
+    <comp ref="P27">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dae39639-e3f8-4be6-acae-68dc1c00eda2</tstamps>
+    </comp>
+    <comp ref="P28">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2fa3247e-54f3-43e4-9c17-53104c2baff1</tstamps>
+    </comp>
+    <comp ref="P46">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>481307ad-2cf8-4ffe-b57f-8373bbd7074f</tstamps>
+    </comp>
+    <comp ref="P47">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ac33deeb-a70a-48a3-a2ef-fad980054c14</tstamps>
+    </comp>
+    <comp ref="P48">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2b4105c-394e-4060-8e66-c1e74ff22fcd</tstamps>
+    </comp>
+    <comp ref="P49">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>394e3014-e655-436d-a0e1-1bb118b33c7c</tstamps>
+    </comp>
+    <comp ref="P50">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a056be7f-4573-4718-909b-c870b26e2211</tstamps>
+    </comp>
+    <comp ref="P51">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad14af89-8a39-4132-819d-42dd8c9a597c</tstamps>
+    </comp>
+    <comp ref="P52">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>40b74c39-ab96-4cc2-b6c4-33353469ff34</tstamps>
+    </comp>
+    <comp ref="P53">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb22aec2-846d-47b0-b77a-ed43d6df8ea7</tstamps>
+    </comp>
+    <comp ref="P54">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>809d6650-1aa4-4013-84fb-cd10724bb7d3</tstamps>
+    </comp>
+    <comp ref="P55">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6a43c797-22dd-41c6-8068-27aab26a8aa8</tstamps>
+    </comp>
+    <comp ref="P56">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aaaef47a-227e-400c-ba1f-2493900eacc7</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>Res_Array_4</value>
+      <footprint>hellen-one-common:R0603-4</footprint>
+      <fields>
+        <field name="Comment">470</field>
+        <field name="LCSC">C25510</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Res_Array_4" description="Resistor"/>
+      <property name="LCSC" value="C25510"/>
+      <property name="Comment" value="470"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0600dd87-6f7f-46de-80ee-f42da1aa3147</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>Res_Array_4</value>
+      <footprint>hellen-one-common:R0603-4</footprint>
+      <fields>
+        <field name="Comment">470</field>
+        <field name="LCSC">C25510</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Res_Array_4" description="Resistor"/>
+      <property name="LCSC" value="C25510"/>
+      <property name="Comment" value="470"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>99affe89-7566-4260-88eb-ae5b701b53d7</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>Res</value>
+      <footprint>hellen-one-common:R0603</footprint>
+      <fields>
+        <field name="Comment">4.7k</field>
+        <field name="LCSC">C23162</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
+      <property name="LCSC" value="C23162"/>
+      <property name="Comment" value="4.7k"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e2da074-66e5-4ba8-834b-f9e3ed1d166a</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>Res</value>
+      <footprint>hellen-one-common:R0603</footprint>
+      <fields>
+        <field name="Comment">1k</field>
+        <field name="LCSC">C21190</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
+      <property name="LCSC" value="C21190"/>
+      <property name="Comment" value="1k"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df784fdb-fb2c-4fd0-bb21-48d95d4841df</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>Res_Array_4</value>
+      <footprint>hellen-one-common:R0603-4</footprint>
+      <fields>
+        <field name="Comment">4.7k</field>
+        <field name="LCSC">C1980</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Res_Array_4" description="Resistor"/>
+      <property name="LCSC" value="C1980"/>
+      <property name="Comment" value="4.7k"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d1fb63b6-3849-4516-8dd5-4c05294e9e3c</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>Res_Array_4</value>
+      <footprint>hellen-one-common:R0603-4</footprint>
+      <fields>
+        <field name="Comment">4.7k</field>
+        <field name="LCSC">C1980</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Res_Array_4" description="Resistor"/>
+      <property name="LCSC" value="C1980"/>
+      <property name="Comment" value="4.7k"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9f14f47e-b778-4a91-b1fc-1af37d1963ea</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>Res_Array_4</value>
+      <footprint>hellen-one-common:R0603-4</footprint>
+      <fields>
+        <field name="Comment">4.7k</field>
+        <field name="LCSC">C1980</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Res_Array_4" description="Resistor"/>
+      <property name="LCSC" value="C1980"/>
+      <property name="Comment" value="4.7k"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>748616ae-58a7-48a4-bf40-2ce97386df41</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>Res_Array_4</value>
+      <footprint>hellen-one-common:R0603-4</footprint>
+      <fields>
+        <field name="Comment">10k</field>
+        <field name="LCSC">C29718</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Res_Array_4" description="Resistor"/>
+      <property name="LCSC" value="C29718"/>
+      <property name="Comment" value="10k"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fdd1632e-5936-4ab6-a665-02b90ae21695</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>Res_Array_4</value>
+      <footprint>hellen-one-common:R0603-4</footprint>
+      <fields>
+        <field name="Comment">680k</field>
+        <field name="LCSC">C145776</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Res_Array_4" description="Resistor"/>
+      <property name="LCSC" value="C145776"/>
+      <property name="Comment" value="680k"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b6876c90-22b1-470f-b61c-ee54868289b2</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>28151a1e-fee9-4595-b167-08878697b4cb</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a31313ab-03f6-485d-b186-999cbf1ae7a1</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7c57a5fa-3bb1-40e8-bb0d-27ce4d41695f</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>Res</value>
+      <footprint>hellen-one-common:R0603</footprint>
+      <fields>
+        <field name="Comment">0</field>
+        <field name="LCSC">C21189</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
+      <property name="LCSC" value="C21189"/>
+      <property name="Comment" value="0"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>323e46b3-b8f1-4ea8-bb6b-c8441098e3fa</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>Res</value>
+      <footprint>hellen-one-common:R0603</footprint>
+      <fields>
+        <field name="Comment">0</field>
+        <field name="LCSC">C21189</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
+      <property name="LCSC" value="C21189"/>
+      <property name="Comment" value="0"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>466d0dfd-4435-4623-ae14-1f4329cc69e0</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>Res_Array_4</value>
+      <footprint>hellen-one-common:R0603-4</footprint>
+      <fields>
+        <field name="Comment">470</field>
+        <field name="LCSC">C25510</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Res_Array_4" description="Resistor"/>
+      <property name="LCSC" value="C25510"/>
+      <property name="Comment" value="470"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df901c77-496c-49d1-9f7f-9d8129b018c4</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f2ff3b3-d118-47a1-bb02-efe78bc23eee</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d700931d-8cac-4ed6-a5d2-2481bc6c195e</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>576d958d-ff99-4aa9-b929-0ad7c936e81c</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>47a2b4f2-552a-492d-a820-2d2d74ef3f36</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>Res</value>
+      <footprint>hellen-one-common:R0603</footprint>
+      <fields>
+        <field name="Comment">1k</field>
+        <field name="LCSC">C21190</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
+      <property name="LCSC" value="C21190"/>
+      <property name="Comment" value="1k"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d41c3d6f-0ee5-42a6-8495-84471b976697</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>Res</value>
+      <footprint>hellen-one-common:R0603</footprint>
+      <fields>
+        <field name="Comment">10k</field>
+        <field name="LCSC">C25804</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
+      <property name="LCSC" value="C25804"/>
+      <property name="Comment" value="10k"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>472b8b94-9d69-4181-bab2-5e85c9031d3c</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>Res</value>
+      <footprint>hellen-one-common:R0603</footprint>
+      <fields>
+        <field name="Comment">10k</field>
+        <field name="LCSC">C25804</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
+      <property name="LCSC" value="C25804"/>
+      <property name="Comment" value="10k"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6478bf42-879f-46d4-b67b-ec1ab7a529d2</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b204e65-1159-43b2-b60a-8f9bea35581e</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9cfcacca-8600-4de7-ab49-284b0064a2fa</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>96107467-ac40-4da0-87fb-db96f5d8e1eb</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b5763b6-669c-4aa5-ac74-8b903db1b7b2</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>86b657d2-b8b2-4d5d-a34d-33aa38948fb9</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>30d86c48-19ff-4768-939f-98ea97a9a045</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e6c6a38-f3b4-466d-b421-c983399fe083</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>75a9bd5f-33ab-4c2d-8105-9e411aa75d82</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d80e0873-ca79-4d33-8992-9c0e66b94d1a</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>07ef1493-d44e-4243-806b-f0deda762455</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>47177d61-30b3-408c-9b0e-a86d686cf350</tstamps>
+    </comp>
+    <comp ref="R35">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>39eefd32-0e02-4a9e-8646-e8bb0c32bc39</tstamps>
+    </comp>
+    <comp ref="R36">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>82825365-b22d-42de-8414-238f9e1bab9d</tstamps>
+    </comp>
+    <comp ref="R37">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e13b044-c84a-4669-a3f1-51b1b8090f2c</tstamps>
+    </comp>
+    <comp ref="R38">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5168a998-fe09-48a2-b5f5-eeecb1b4bffa</tstamps>
+    </comp>
+    <comp ref="R39">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>960b0df4-e061-42ee-b2cc-3ff90dfb076b</tstamps>
+    </comp>
+    <comp ref="R40">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a33e8d5e-7e08-4789-b68e-c3ff24c44ffb</tstamps>
+    </comp>
+    <comp ref="R41">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6da741da-3be9-4566-95c3-09878ffd6554</tstamps>
+    </comp>
+    <comp ref="R42">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5749fa8a-d3cd-4453-840b-e76a615f2939</tstamps>
+    </comp>
+    <comp ref="R43">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b143ef2c-1512-4117-8786-ed5bd10af872</tstamps>
+    </comp>
+    <comp ref="R44">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c88e3a3-db8b-43d1-bfe5-fc33c887c02f</tstamps>
+    </comp>
+    <comp ref="R45">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b11d84a6-ce80-4162-a9e3-bf3ac88f2cdb</tstamps>
+    </comp>
+    <comp ref="R46">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a656c6b3-7b76-4ee5-b47c-b768d1adbc1a</tstamps>
+    </comp>
+    <comp ref="R47">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>239108ff-e1c4-445c-9105-52f7df047085</tstamps>
+    </comp>
+    <comp ref="R48">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>30a0c881-646b-48be-a667-be782eec8420</tstamps>
+    </comp>
+    <comp ref="R49">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cd70a374-5099-4c30-8160-b6e0526a3d9a</tstamps>
+    </comp>
+    <comp ref="S1">
+      <value>Button_SPST</value>
+      <footprint>hellen-one-common:SMD-2_2.9x3.9x1.7</footprint>
+      <fields>
+        <field name="LCSC">C115357</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Button_SPST" description="Single-Pole, Single-Throw Switch"/>
+      <property name="LCSC" value="C115357"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a889d3b-aa62-4c96-b36a-6a6b129cb1b3</tstamps>
+    </comp>
+    <comp ref="S2">
+      <value>Button_SPST</value>
+      <footprint>hellen-one-common:SMD-2_2.9x3.9x1.7</footprint>
+      <fields>
+        <field name="LCSC">C115357</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Button_SPST" description="Single-Pole, Single-Throw Switch"/>
+      <property name="LCSC" value="C115357"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f5cf27f5-0f5a-41ca-bd1a-78dcac84a3d5</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>QMA7981</value>
+      <footprint>Package_LGA:LGA-12_2x2mm_P0.5mm</footprint>
+      <fields>
+        <field name="LCSC">C457290</field>
+      </fields>
+      <libsource lib="QMA7981" part="QMA7981" description="3-Axis Accelerometer"/>
+      <property name="LCSC" value="C457290"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c73208ea-6415-4833-b059-69da1ba03173</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>MPX4_MAP</value>
+      <footprint>rusefi_lib:MPX-4_MAP</footprint>
+      <libsource lib="MPX-4_MAP" part="MPX4_MAP" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1cbb74cf-6235-4f4d-8098-2396d25ebebb</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="176122-6" part="176122-6_2nd">
+      <docs>DOCUMENTATION</docs>
+      <footprints>
+        <fp>176122-6_2nd</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">176122-6_2nd</field>
+        <field name="Footprint">rusefi_lib:176122-6_2nd</field>
+        <field name="Datasheet">DOCUMENTATION</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1A" type="passive"/>
+        <pin num="2" name="1C" type="passive"/>
+        <pin num="3" name="1E" type="passive"/>
+        <pin num="4" name="1G" type="passive"/>
+        <pin num="5" name="1I" type="passive"/>
+        <pin num="6" name="1K" type="passive"/>
+        <pin num="7" name="1M" type="passive"/>
+        <pin num="8" name="1O" type="passive"/>
+        <pin num="9" name="1Q" type="passive"/>
+        <pin num="10" name="1S" type="passive"/>
+        <pin num="11" name="1U" type="passive"/>
+        <pin num="12" name="1B" type="passive"/>
+        <pin num="13" name="1D" type="passive"/>
+        <pin num="14" name="1F" type="passive"/>
+        <pin num="15" name="1H" type="passive"/>
+        <pin num="16" name="1J" type="passive"/>
+        <pin num="17" name="1L" type="passive"/>
+        <pin num="18" name="1N" type="passive"/>
+        <pin num="19" name="1P" type="passive"/>
+        <pin num="20" name="1R" type="passive"/>
+        <pin num="21" name="1T" type="passive"/>
+        <pin num="22" name="1V" type="passive"/>
+        <pin num="23" name="2A" type="passive"/>
+        <pin num="24" name="2C" type="passive"/>
+        <pin num="25" name="2E" type="passive"/>
+        <pin num="26" name="2G" type="passive"/>
+        <pin num="27" name="2I" type="passive"/>
+        <pin num="28" name="2K" type="passive"/>
+        <pin num="29" name="2M" type="passive"/>
+        <pin num="30" name="2O" type="passive"/>
+        <pin num="31" name="2B" type="passive"/>
+        <pin num="32" name="2D" type="passive"/>
+        <pin num="33" name="2F" type="passive"/>
+        <pin num="34" name="2H" type="passive"/>
+        <pin num="35" name="2J" type="passive"/>
+        <pin num="36" name="2L" type="passive"/>
+        <pin num="37" name="2N" type="passive"/>
+        <pin num="38" name="2P" type="passive"/>
+        <pin num="39" name="3A" type="passive"/>
+        <pin num="40" name="3C" type="passive"/>
+        <pin num="41" name="3E" type="passive"/>
+        <pin num="42" name="3G" type="passive"/>
+        <pin num="43" name="3I" type="passive"/>
+        <pin num="44" name="3K" type="passive"/>
+        <pin num="45" name="3M" type="passive"/>
+        <pin num="46" name="3O" type="passive"/>
+        <pin num="47" name="3Q" type="passive"/>
+        <pin num="48" name="3S" type="passive"/>
+        <pin num="49" name="3U" type="passive"/>
+        <pin num="50" name="3W" type="passive"/>
+        <pin num="51" name="3Y" type="passive"/>
+        <pin num="52" name="3B" type="passive"/>
+        <pin num="53" name="3D" type="passive"/>
+        <pin num="54" name="3F" type="passive"/>
+        <pin num="55" name="3H" type="passive"/>
+        <pin num="56" name="3J" type="passive"/>
+        <pin num="57" name="3L" type="passive"/>
+        <pin num="58" name="3N" type="passive"/>
+        <pin num="59" name="3P" type="passive"/>
+        <pin num="60" name="3R" type="passive"/>
+        <pin num="61" name="3T" type="passive"/>
+        <pin num="62" name="3V" type="passive"/>
+        <pin num="63" name="3X" type="passive"/>
+        <pin num="64" name="3Z" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x05_Male">
+      <description>Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x05_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x01">
+      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x06">
+      <description>Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x06</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x08">
+      <description>Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x08</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x12_Odd_Even">
+      <description>Generic connector, double row, 02x12, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x12_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+        <pin num="17" name="Pin_17" type="passive"/>
+        <pin num="18" name="Pin_18" type="passive"/>
+        <pin num="19" name="Pin_19" type="passive"/>
+        <pin num="20" name="Pin_20" type="passive"/>
+        <pin num="21" name="Pin_21" type="passive"/>
+        <pin num="22" name="Pin_22" type="passive"/>
+        <pin num="23" name="Pin_23" type="passive"/>
+        <pin num="24" name="Pin_24" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MPX-4_MAP" part="MPX4_MAP">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MPX4_MAP</field>
+        <field name="Footprint">rusefi_lib:MPX-4_MAP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VOUT" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="VCC" type="passive"/>
+        <pin num="4" name="V1" type="passive"/>
+        <pin num="5" name="V2" type="passive"/>
+        <pin num="6" name="V_EX" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Off_Road_Disclaimer" part="Disclaimer">
+      <fields>
+        <field name="Reference">G</field>
+        <field name="Value">Disclaimer</field>
+      </fields>
+    </libpart>
+    <libpart lib="QMA7981" part="QMA7981">
+      <description>3-Axis Accelerometer</description>
+      <footprints>
+        <fp>LGA*2x2mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">QMA7981</field>
+        <field name="Footprint">Package_LGA:LGA-12_2x2mm_P0.5mm</field>
+        <field name="LCSC">C457290</field>
+      </fields>
+      <pins>
+        <pin num="1" name="AD0/SDO" type="bidirectional"/>
+        <pin num="2" name="SDA/SDI/SDIO" type="bidirectional"/>
+        <pin num="3" name="VDD_IO" type="power_in"/>
+        <pin num="4" name="RESV1" type="passive"/>
+        <pin num="5" name="INT1" type="output"/>
+        <pin num="6" name="INT2" type="output"/>
+        <pin num="7" name="VDD" type="power_in"/>
+        <pin num="8" name="GNDIO" type="power_in"/>
+        <pin num="9" name="GND" type="power_in"/>
+        <pin num="10" name="~CS~/SENB" type="input"/>
+        <pin num="11" name="RESV2" type="passive"/>
+        <pin num="12" name="SCL" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-can-0.1" part="Module-can-0.1">
+      <description>Hellen-One CAN Module</description>
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">Module-can-0.1</field>
+        <field name="Footprint">hellen-one-can-0.1:can</field>
+      </fields>
+      <pins>
+        <pin num="E1" name="GND" type="passive"/>
+        <pin num="S1" name="CANL" type="passive"/>
+        <pin num="S2" name="CANH" type="passive"/>
+        <pin num="V1" name="V5" type="passive"/>
+        <pin num="V2" name="CAN_VIO" type="passive"/>
+        <pin num="V5" name="CAN_TX" type="passive"/>
+        <pin num="V6" name="CAN_RX" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-common" part="1N4148WS">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N4148WS</field>
+        <field name="Footprint">hellen-one-common:SOD-323</field>
+        <field name="LCSC">C2128</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-common" part="Button_SPST">
+      <description>Single-Pole, Single-Throw Switch</description>
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">Button_SPST</field>
+        <field name="Footprint">hellen-one-common:SMD-2_2.9x3.9x1.7</field>
+        <field name="LCSC">C115357</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-common" part="Cap">
+      <description>Capacitor</description>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">Cap</field>
+        <field name="Footprint">hellen-one-common:C0603</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-common" part="D_TVS_Array_4">
+      <description>TVS Diode Array</description>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_TVS_Array_4</field>
+        <field name="Footprint">hellen-one-common:SOT23-6</field>
+        <field name="LCSC">C85364</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-common" part="Jumper-Pad-Pad">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">Jumper-Pad-Pad</field>
+        <field name="Footprint">hellen-one-common:PAD-0805-PAD</field>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-common" part="LED">
+      <description>WHITE LED</description>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED-COLOR-0805</field>
+        <field name="Footprint">hellen-one-common:LED-0805</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="K" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-common" part="LED_0603">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_0603</field>
+        <field name="Footprint">hellen-one-common:LED-0603</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="K" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-common" part="LOGO">
+      <fields>
+        <field name="Reference">G</field>
+        <field name="Value">LOGO</field>
+        <field name="Footprint">hellen-one-common:LOGO</field>
+      </fields>
+    </libpart>
+    <libpart lib="hellen-one-common" part="Pad">
+      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">Pad</field>
+        <field name="Footprint">hellen-one-common:PAD-TH</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-common" part="Res">
+      <description>Resistor</description>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">Res</field>
+        <field name="Footprint">hellen-one-common:R0603</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-common" part="Res_Array_4">
+      <description>Resistor</description>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">Res_Array_4</field>
+        <field name="Footprint">hellen-one-common:R0603-4</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="7" name="" type="passive"/>
+        <pin num="8" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-common" part="USB_B_Mini">
+      <description>USB Mini Type B connector</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>USB*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_B_Mini</field>
+        <field name="Footprint">hellen-one-common:USB-MINI-B-VERTICAL</field>
+        <field name="Datasheet">~</field>
+        <field name="LCSC">C13453</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBUS" type="power_out"/>
+        <pin num="2" name="D-" type="passive"/>
+        <pin num="3" name="D+" type="passive"/>
+        <pin num="4" name="ID" type="passive"/>
+        <pin num="5" name="GND" type="power_out"/>
+        <pin num="6" name="Shield" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-ign8-0.1" part="Module-ign8-0.1">
+      <description>Hellen-One 8-ch Ignition Module</description>
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">Module-ign8-0.1</field>
+        <field name="Footprint">hellen-one-ign8-0.1:ign8</field>
+      </fields>
+      <pins>
+        <pin num="G" name="GND" type="passive"/>
+        <pin num="S1" name="OUT_IGN8" type="passive"/>
+        <pin num="S2" name="OUT_IGN7" type="passive"/>
+        <pin num="S3" name="OUT_IGN6" type="passive"/>
+        <pin num="S4" name="OUT_IGN5" type="passive"/>
+        <pin num="S5" name="OUT_IGN4" type="passive"/>
+        <pin num="S6" name="OUT_IGN3" type="passive"/>
+        <pin num="S7" name="OUT_IGN2" type="passive"/>
+        <pin num="S8" name="OUT_IGN1" type="passive"/>
+        <pin num="V1" name="IGN8" type="passive"/>
+        <pin num="V2" name="IGN7" type="passive"/>
+        <pin num="V3" name="IGN6" type="passive"/>
+        <pin num="V4" name="IGN5" type="passive"/>
+        <pin num="V5" name="IGN4" type="passive"/>
+        <pin num="V6" name="IGN3" type="passive"/>
+        <pin num="V7" name="IGN2" type="passive"/>
+        <pin num="V8" name="IGN1" type="passive"/>
+        <pin num="V9" name="VCC" type="passive"/>
+        <pin num="V10" name="V33" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-input-0.1" part="Module-input-0.1">
+      <description>Hellen-One Analog/Digital Inputs Module</description>
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">Module-input-0.1</field>
+        <field name="Footprint">hellen-one-input-0.1:input</field>
+      </fields>
+      <pins>
+        <pin num="E1" name="GND" type="passive"/>
+        <pin num="E2" name="V5" type="passive"/>
+        <pin num="E3" name="WBO_O2S2" type="passive"/>
+        <pin num="E4" name="WBO_O2S" type="passive"/>
+        <pin num="E5" name="V5A" type="passive"/>
+        <pin num="J1" name="PULL_V5A" type="passive"/>
+        <pin num="J2" name="PULL_GNDA" type="passive"/>
+        <pin num="J3" name="PULL_RES2" type="passive"/>
+        <pin num="J4" name="PULL_O2S2" type="passive"/>
+        <pin num="J5" name="PULL_PPS" type="passive"/>
+        <pin num="J6" name="PULL_RES1" type="passive"/>
+        <pin num="J7" name="PULL_AUX4" type="passive"/>
+        <pin num="J8" name="PULL_AUX3" type="passive"/>
+        <pin num="J9" name="PULL_AUX2" type="passive"/>
+        <pin num="J10" name="PULL_AUX1" type="passive"/>
+        <pin num="J11" name="PULL_RES3" type="passive"/>
+        <pin num="J12" name="PULL_MAP3" type="passive"/>
+        <pin num="J13" name="PULL_MAP2" type="passive"/>
+        <pin num="J14" name="PULL_MAP1" type="passive"/>
+        <pin num="J15" name="PULL_IAT" type="passive"/>
+        <pin num="J16" name="PULL_CLT" type="passive"/>
+        <pin num="J17" name="PULL_CAM" type="passive"/>
+        <pin num="J18" name="PULL_VSS" type="passive"/>
+        <pin num="J19" name="PULL_TPS" type="passive"/>
+        <pin num="J20" name="PULL_O2S" type="passive"/>
+        <pin num="J21" name="PULL_CRANK" type="passive"/>
+        <pin num="J22" name="PULL_KNOCK" type="passive"/>
+        <pin num="J23" name="PULL_SENS4" type="passive"/>
+        <pin num="J24" name="PULL_SENS3" type="passive"/>
+        <pin num="J25" name="PULL_SENS2" type="passive"/>
+        <pin num="J26" name="PULL_SENS1" type="passive"/>
+        <pin num="N1" name="V5A" type="passive"/>
+        <pin num="N2" name="GNDA" type="passive"/>
+        <pin num="N3" name="RES2" type="passive"/>
+        <pin num="N4" name="O2S2" type="passive"/>
+        <pin num="N5" name="PPS" type="passive"/>
+        <pin num="N6" name="RES1" type="passive"/>
+        <pin num="N7" name="AUX4" type="passive"/>
+        <pin num="N8" name="AUX3" type="passive"/>
+        <pin num="N9" name="AUX2" type="passive"/>
+        <pin num="N10" name="AUX1" type="passive"/>
+        <pin num="N11" name="RES3" type="passive"/>
+        <pin num="N12" name="MAP3" type="passive"/>
+        <pin num="N13" name="MAP2" type="passive"/>
+        <pin num="N14" name="MAP1" type="passive"/>
+        <pin num="N15" name="IAT" type="passive"/>
+        <pin num="N16" name="CLT" type="passive"/>
+        <pin num="N17" name="TPS" type="passive"/>
+        <pin num="N18" name="O2S" type="passive"/>
+        <pin num="N19" name="CAM" type="passive"/>
+        <pin num="N20" name="VSS" type="passive"/>
+        <pin num="N21" name="CRANK" type="passive"/>
+        <pin num="N22" name="KNOCK" type="passive"/>
+        <pin num="N23" name="SENS4" type="passive"/>
+        <pin num="N24" name="SENS3" type="passive"/>
+        <pin num="N25" name="SENS2" type="passive"/>
+        <pin num="N26" name="SENS1" type="passive"/>
+        <pin num="S1" name="IN_SENS1" type="passive"/>
+        <pin num="S2" name="IN_SENS2" type="passive"/>
+        <pin num="S3" name="IN_SENS3" type="passive"/>
+        <pin num="S4" name="IN_SENS4" type="passive"/>
+        <pin num="S5" name="IN_CAM" type="passive"/>
+        <pin num="S6" name="IN_VSS" type="passive"/>
+        <pin num="S7" name="IN_KNOCK" type="passive"/>
+        <pin num="S8" name="IN_CRANK" type="passive"/>
+        <pin num="S9" name="IN_O2S" type="passive"/>
+        <pin num="S10" name="IN_TPS" type="passive"/>
+        <pin num="S11" name="IN_MAP1" type="passive"/>
+        <pin num="S12" name="IN_MAP2" type="passive"/>
+        <pin num="S13" name="VREF2" type="passive"/>
+        <pin num="S14" name="VREF1" type="passive"/>
+        <pin num="S15" name="IN_CLT" type="passive"/>
+        <pin num="S16" name="IN_IAT" type="passive"/>
+        <pin num="S17" name="IN_AUX1" type="passive"/>
+        <pin num="S18" name="IN_AUX2" type="passive"/>
+        <pin num="S19" name="IN_MAP3" type="passive"/>
+        <pin num="S20" name="IN_AUX3" type="passive"/>
+        <pin num="S21" name="IN_AUX4" type="passive"/>
+        <pin num="S22" name="IN_RES3" type="passive"/>
+        <pin num="S23" name="IN_RES1" type="passive"/>
+        <pin num="S24" name="IN_PPS" type="passive"/>
+        <pin num="S25" name="IN_O2S2" type="passive"/>
+        <pin num="S26" name="IN_RES2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-knock-0.1" part="Module-knock-0.1">
+      <description>Hellen-One Knock Pre-amplifier Module</description>
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">Module-knock-0.1</field>
+        <field name="Footprint">hellen-one-knock-0.1:knock</field>
+      </fields>
+      <pins>
+        <pin num="E1" name="V5A" type="passive"/>
+        <pin num="E2" name="GND" type="passive"/>
+        <pin num="E3" name="OUT_KNOCK" type="passive"/>
+        <pin num="W1" name="IN_KNOCK" type="passive"/>
+        <pin num="W2" name="VREF" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-mcu-0.1" part="Module-mcu-0.1">
+      <description>Hellen One MCU Module</description>
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">Module-mcu-0.1</field>
+        <field name="Footprint">hellen-one-mcu-0.1:mcu</field>
+      </fields>
+      <pins>
+        <pin num="E1" name="SPI1_SCK" type="passive"/>
+        <pin num="E2" name="SPI1_MISO" type="passive"/>
+        <pin num="E3" name="SPI1_MOSI" type="passive"/>
+        <pin num="E4" name="SPI1_CS1" type="passive"/>
+        <pin num="E5" name="SPI1_CS2" type="passive"/>
+        <pin num="E6" name="OUT_IO1" type="passive"/>
+        <pin num="E7" name="OUT_IO2" type="passive"/>
+        <pin num="E8" name="OUT_IO3" type="passive"/>
+        <pin num="E9" name="OUT_IO4" type="passive"/>
+        <pin num="E10" name="OUT_IO5" type="passive"/>
+        <pin num="E11" name="OUT_IO6" type="passive"/>
+        <pin num="E12" name="OUT_IO7" type="passive"/>
+        <pin num="E13" name="OUT_IO8" type="passive"/>
+        <pin num="E14" name="OUT_PWM1" type="passive"/>
+        <pin num="E15" name="OUT_PWM2" type="passive"/>
+        <pin num="E16" name="OUT_PWM3" type="passive"/>
+        <pin num="E17" name="OUT_PWM4" type="passive"/>
+        <pin num="E18" name="OUT_PWM5" type="passive"/>
+        <pin num="E19" name="OUT_PWM6" type="passive"/>
+        <pin num="E20" name="OUT_IO9" type="passive"/>
+        <pin num="E21" name="OUT_IO10" type="passive"/>
+        <pin num="E22" name="OUT_IO11" type="passive"/>
+        <pin num="E23" name="OUT_IO12" type="passive"/>
+        <pin num="E24" name="OUT_IO13" type="passive"/>
+        <pin num="E25" name="OUT_INJ1" type="passive"/>
+        <pin num="E26" name="OUT_INJ2" type="passive"/>
+        <pin num="E27" name="OUT_PWM7" type="passive"/>
+        <pin num="E28" name="OUT_PWM8" type="passive"/>
+        <pin num="E29" name="OUT_INJ3" type="passive"/>
+        <pin num="E30" name="OUT_INJ4" type="passive"/>
+        <pin num="E31" name="OUT_INJ5" type="passive"/>
+        <pin num="E32" name="OUT_INJ6" type="passive"/>
+        <pin num="E33" name="OUT_INJ7" type="passive"/>
+        <pin num="E34" name="OUT_INJ8" type="passive"/>
+        <pin num="N1" name="CAN_VIO" type="passive"/>
+        <pin num="N2" name="CAN_RX" type="passive"/>
+        <pin num="N3" name="CAN_TX" type="passive"/>
+        <pin num="N4" name="UART1_TX" type="passive"/>
+        <pin num="N5" name="UART1_RX" type="passive"/>
+        <pin num="N6" name="UART2_TX" type="passive"/>
+        <pin num="N7" name="UART2_RX" type="passive"/>
+        <pin num="N8" name="SPI3_CS" type="passive"/>
+        <pin num="N9" name="SPI3_SCK" type="passive"/>
+        <pin num="N10" name="SPI3_MISO" type="passive"/>
+        <pin num="N11" name="SPI3_MOSI" type="passive"/>
+        <pin num="N12" name="IO1" type="passive"/>
+        <pin num="N13" name="IO2" type="passive"/>
+        <pin num="N14" name="IO3" type="passive"/>
+        <pin num="N15" name="IO4" type="passive"/>
+        <pin num="N16" name="V33" type="passive"/>
+        <pin num="N17" name="VBAT" type="passive"/>
+        <pin num="N18" name="I2C_SDA" type="passive"/>
+        <pin num="N19" name="I2C_SCL" type="passive"/>
+        <pin num="N20" name="SPI2_SCK" type="passive"/>
+        <pin num="N21" name="SPI2_MISO" type="passive"/>
+        <pin num="N22" name="SPI2_MOSI" type="passive"/>
+        <pin num="N23" name="SPI2_CS" type="passive"/>
+        <pin num="N24" name="nReset" type="passive"/>
+        <pin num="N25" name="SWCLK" type="passive"/>
+        <pin num="N26" name="SWDIO" type="passive"/>
+        <pin num="N27" name="SWO" type="passive"/>
+        <pin num="N28" name="BOOT0" type="passive"/>
+        <pin num="N29" name="VBUS" type="passive"/>
+        <pin num="N30" name="USB1P" type="passive"/>
+        <pin num="N31" name="USB1M" type="passive"/>
+        <pin num="N32" name="USBI1D" type="passive"/>
+        <pin num="S1" name="V5" type="passive"/>
+        <pin num="S2" name="GND" type="passive"/>
+        <pin num="S3" name="IN_D1" type="passive"/>
+        <pin num="S4" name="IN_D2" type="passive"/>
+        <pin num="S5" name="IN_D3" type="passive"/>
+        <pin num="S6" name="IN_D4" type="passive"/>
+        <pin num="S7" name="VIGN" type="passive"/>
+        <pin num="S8" name="IN_SENS1" type="passive"/>
+        <pin num="S9" name="IN_SENS2" type="passive"/>
+        <pin num="S10" name="IN_SENS3" type="passive"/>
+        <pin num="S11" name="IN_SENS4" type="passive"/>
+        <pin num="S12" name="IN_KNOCK" type="passive"/>
+        <pin num="S13" name="IN_CRANK" type="passive"/>
+        <pin num="S14" name="IN_VSS" type="passive"/>
+        <pin num="S15" name="IN_CAM" type="passive"/>
+        <pin num="S16" name="IN_O2S" type="passive"/>
+        <pin num="S17" name="IN_TPS" type="passive"/>
+        <pin num="S18" name="IN_CLT" type="passive"/>
+        <pin num="S19" name="IN_IAT" type="passive"/>
+        <pin num="S20" name="IN_MAP1" type="passive"/>
+        <pin num="S21" name="IN_MAP2" type="passive"/>
+        <pin num="S22" name="IN_MAP3" type="passive"/>
+        <pin num="S23" name="IN_RES3" type="passive"/>
+        <pin num="S24" name="IN_AUX1" type="passive"/>
+        <pin num="S25" name="IN_AUX2" type="passive"/>
+        <pin num="S26" name="IN_AUX3" type="passive"/>
+        <pin num="S27" name="IN_AUX4" type="passive"/>
+        <pin num="S28" name="IN_RES1" type="passive"/>
+        <pin num="S29" name="IN_PPS" type="passive"/>
+        <pin num="S30" name="IN_O2S2" type="passive"/>
+        <pin num="S31" name="IN_RES2" type="passive"/>
+        <pin num="S32" name="GNDA" type="passive"/>
+        <pin num="S33" name="V5A" type="passive"/>
+        <pin num="W1" name="OUT_IGN1" type="passive"/>
+        <pin num="W2" name="OUT_IGN2" type="passive"/>
+        <pin num="W3" name="OUT_IGN3" type="passive"/>
+        <pin num="W4" name="OUT_IGN4" type="passive"/>
+        <pin num="W5" name="OUT_IGN5" type="passive"/>
+        <pin num="W6" name="OUT_IGN6" type="passive"/>
+        <pin num="W7" name="OUT_IGN7" type="passive"/>
+        <pin num="W8" name="OUT_IGN8" type="passive"/>
+        <pin num="W9" name="IGN_V5" type="passive"/>
+        <pin num="W10" name="IGN_V33" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-output-0.1" part="Module-output-0.1">
+      <description>Hellen-One Outputs Module</description>
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">Module-output-0.1</field>
+        <field name="Footprint">hellen-one-output-0.1:output</field>
+      </fields>
+      <pins>
+        <pin num="G" name="GND" type="passive"/>
+        <pin num="S1" name="OUT_SOLENOID_A1" type="passive"/>
+        <pin num="S2" name="OUT_SOLENOID_A2" type="passive"/>
+        <pin num="S3" name="GND" type="passive"/>
+        <pin num="S4" name="OUT_SOLENOID_B1" type="passive"/>
+        <pin num="S5" name="OUT_SOLENOID_B2" type="passive"/>
+        <pin num="S6" name="OUT_PP2" type="passive"/>
+        <pin num="S7" name="OUT_LOW1_DUAL" type="passive"/>
+        <pin num="S8" name="OUT_LOW8" type="passive"/>
+        <pin num="S9" name="OUT_HIGH2" type="passive"/>
+        <pin num="S10" name="OUT_LOW10" type="passive"/>
+        <pin num="S11" name="V12_RAW" type="passive"/>
+        <pin num="S12" name="OUT_LOW6_PULLUP" type="passive"/>
+        <pin num="S13" name="OUT_LOW11" type="passive"/>
+        <pin num="S14" name="OUT_LOW7" type="passive"/>
+        <pin num="S15" name="OUT_INJ6" type="passive"/>
+        <pin num="S16" name="OUT_INJ2" type="passive"/>
+        <pin num="S17" name="OUT_INJ3" type="passive"/>
+        <pin num="S18" name="OUT_INJ1" type="passive"/>
+        <pin num="W1" name="OUT_LOW12" type="passive"/>
+        <pin num="W2" name="OUT_LOW9" type="passive"/>
+        <pin num="W3" name="OUT_LOW4_DIODE" type="passive"/>
+        <pin num="W4" name="OUT_LOW2_DUAL" type="passive"/>
+        <pin num="W5" name="V12P" type="passive"/>
+        <pin num="W6" name="OUT_PP1" type="passive"/>
+        <pin num="W7" name="OUT_INJ4" type="passive"/>
+        <pin num="W8" name="OUT_HIGH1" type="passive"/>
+        <pin num="W9" name="OUT_LOW5_PULLUP" type="passive"/>
+        <pin num="W10" name="OUT_INJ5" type="passive"/>
+        <pin num="W11" name="OUT_INJ8" type="passive"/>
+        <pin num="W12" name="OUT_INJ7" type="passive"/>
+        <pin num="W13" name="OUT_LOW3_MAIN" type="passive"/>
+        <pin num="W14" name="V5" type="passive"/>
+        <pin num="W15" name="INJ8" type="passive"/>
+        <pin num="W16" name="INJ7" type="passive"/>
+        <pin num="W17" name="INJ6" type="passive"/>
+        <pin num="W18" name="INJ5" type="passive"/>
+        <pin num="W19" name="INJ4" type="passive"/>
+        <pin num="W20" name="INJ3" type="passive"/>
+        <pin num="W21" name="LOW8" type="passive"/>
+        <pin num="W22" name="PP2" type="passive"/>
+        <pin num="W23" name="INJ2" type="passive"/>
+        <pin num="W24" name="INJ1" type="passive"/>
+        <pin num="W25" name="LOW4_DIODE" type="passive"/>
+        <pin num="W26" name="LOW9" type="passive"/>
+        <pin num="W27" name="LOW7" type="passive"/>
+        <pin num="W28" name="PP1" type="passive"/>
+        <pin num="W29" name="LOW12" type="passive"/>
+        <pin num="W30" name="SOLENOID_B2" type="passive"/>
+        <pin num="W31" name="SOLENOID_B1" type="passive"/>
+        <pin num="W32" name="SOLENOID_A2" type="passive"/>
+        <pin num="W33" name="SOLENOID_A1" type="passive"/>
+        <pin num="W34" name="LOW2_DUAL" type="passive"/>
+        <pin num="W35" name="LOW10" type="passive"/>
+        <pin num="W36" name="LOW11" type="passive"/>
+        <pin num="W37" name="LOW6_HIGH2" type="passive"/>
+        <pin num="W38" name="LOW1_DUAL" type="passive"/>
+        <pin num="W39" name="LOW5_HIGH1" type="passive"/>
+        <pin num="W40" name="LOW3_MAIN" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-power12-0.1" part="Module-power12-0.1">
+      <description>Hellen-One Power-12V Module</description>
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">Module-power12-0.1</field>
+        <field name="Footprint">hellen-one-power12-0.1:power12</field>
+      </fields>
+      <pins>
+        <pin num="E1" name="V5" type="passive"/>
+        <pin num="E2" name="V12_RAW" type="passive"/>
+        <pin num="S1" name="GND" type="passive"/>
+        <pin num="V1" name="V12" type="passive"/>
+        <pin num="V2" name="VBAT" type="passive"/>
+        <pin num="V3" name="IN_VIGN" type="passive"/>
+        <pin num="V4" name="V12_PERM" type="passive"/>
+        <pin num="V5" name="VIGN" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-power5-0.1" part="Module-power5-0.1">
+      <description>Hellen-One Power-5V Module</description>
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">Module-power5-0.1</field>
+        <field name="Footprint">hellen-one-power5-0.1:power5</field>
+      </fields>
+      <pins>
+        <pin num="G" name="GND" type="passive"/>
+        <pin num="V1" name="V12" type="passive"/>
+        <pin num="V2" name="V5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-sd-0.1" part="Module-sd-0.1">
+      <description>Hellen-One microSD Card Module</description>
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">Module-sd-0.1</field>
+        <field name="Footprint">hellen-one-sd-0.1:sd</field>
+      </fields>
+      <pins>
+        <pin num="G" name="GND" type="passive"/>
+        <pin num="V1" name="V33" type="passive"/>
+        <pin num="V2" name="GND" type="passive"/>
+        <pin num="V3" name="GND" type="passive"/>
+        <pin num="V4" name="SD_CS" type="passive"/>
+        <pin num="V5" name="SD_MOSI" type="passive"/>
+        <pin num="V6" name="SD_SCK" type="passive"/>
+        <pin num="V7" name="SD_MISO" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-stlink-0.1" part="Module-stlink-0.1">
+      <description>Hellen-One ST/Link Module</description>
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">Module-stlink-0.1</field>
+        <field name="Footprint">hellen-one-stlink-0.1:stlink</field>
+      </fields>
+      <pins>
+        <pin num="G" name="GND" type="passive"/>
+        <pin num="N1" name="V5" type="passive"/>
+        <pin num="N2" name="V33" type="passive"/>
+        <pin num="N3" name="SWO" type="passive"/>
+        <pin num="N4" name="SWDIO" type="passive"/>
+        <pin num="N5" name="SWCLK" type="passive"/>
+        <pin num="N6" name="nReset" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-wbo-0.1" part="Module-wbo-0.1">
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">Module-wbo-0.1</field>
+        <field name="Footprint">hellen-one-wbo-0.1:wbo</field>
+      </fields>
+      <pins>
+        <pin num="E1" name="LSU_Un" type="passive"/>
+        <pin num="E2" name="LSU_Vm" type="passive"/>
+        <pin num="E3" name="LSU_Ip" type="passive"/>
+        <pin num="E4" name="LSU_Rtrim" type="passive"/>
+        <pin num="E5" name="LSU_H+" type="passive"/>
+        <pin num="E6" name="LSU_H-" type="passive"/>
+        <pin num="G" name="GND" type="passive"/>
+        <pin num="W1" name="5V_IN" type="passive"/>
+        <pin num="W2" name="CAN_VIO" type="passive"/>
+        <pin num="W3" name="CAN_RX" type="passive"/>
+        <pin num="W4" name="CAN_TX" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="logo" part="LOGO">
+      <fields>
+        <field name="Reference">#G</field>
+        <field name="Value">LOGO</field>
+      </fields>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="176122-6">
+      <uri>C:\Work\rusefi\github\hellen64_miataNA6_94/kicad-libraries/176122-6.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:/Program Files/KiCad/5.99/share/kicad/library/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:/Program Files/KiCad/5.99/share/kicad/library/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="MPX-4_MAP">
+      <uri>C:\Work\rusefi\github\hellen64_miataNA6_94/kicad-libraries/MPX-4_MAP.kicad_sym</uri>
+    </library>
+    <library logical="Off_Road_Disclaimer">
+      <uri>C:\Work\rusefi\github\hellen64_miataNA6_94/kicad-libraries/Off_Road_Disclaimer.kicad_sym</uri>
+    </library>
+    <library logical="QMA7981">
+      <uri>C:\Work\rusefi\github\hellen64_miataNA6_94/kicad-libraries/QMA7981.kicad_sym</uri>
+    </library>
+    <library logical="hellen-one-can-0.1">
+      <uri>C:\Work\rusefi\github\hellen64_miataNA6_94/hellen-one/modules/can/0.1/can.kicad_sym</uri>
+    </library>
+    <library logical="hellen-one-common">
+      <uri>C:\Work\rusefi\github\hellen64_miataNA6_94/hellen-one/kicad/hellen-one-common.kicad_sym</uri>
+    </library>
+    <library logical="hellen-one-ign8-0.1">
+      <uri>C:\Work\rusefi\github\hellen64_miataNA6_94/hellen-one/modules/ign8/0.1/ign8.kicad_sym</uri>
+    </library>
+    <library logical="hellen-one-input-0.1">
+      <uri>C:\Work\rusefi\github\hellen64_miataNA6_94/hellen-one/modules/input/0.1/input.kicad_sym</uri>
+    </library>
+    <library logical="hellen-one-knock-0.1">
+      <uri>C:\Work\rusefi\github\hellen64_miataNA6_94/hellen-one/modules/knock/0.1/knock.kicad_sym</uri>
+    </library>
+    <library logical="hellen-one-mcu-0.1">
+      <uri>C:\Work\rusefi\github\hellen64_miataNA6_94/hellen-one/modules/mcu/0.1/mcu.kicad_sym</uri>
+    </library>
+    <library logical="hellen-one-output-0.1">
+      <uri>C:\Work\rusefi\github\hellen64_miataNA6_94/hellen-one/modules/output/0.1/output.kicad_sym</uri>
+    </library>
+    <library logical="hellen-one-power12-0.1">
+      <uri>C:\Work\rusefi\github\hellen64_miataNA6_94/hellen-one/modules/power12/0.1/power12.kicad_sym</uri>
+    </library>
+    <library logical="hellen-one-power5-0.1">
+      <uri>C:\Work\rusefi\github\hellen64_miataNA6_94/hellen-one/modules/power5/0.1/power5.kicad_sym</uri>
+    </library>
+    <library logical="hellen-one-sd-0.1">
+      <uri>C:\Work\rusefi\github\hellen64_miataNA6_94/hellen-one/modules/sd/0.1/sd.kicad_sym</uri>
+    </library>
+    <library logical="hellen-one-stlink-0.1">
+      <uri>C:\Work\rusefi\github\hellen64_miataNA6_94/hellen-one/modules/stlink/0.1/stlink.kicad_sym</uri>
+    </library>
+    <library logical="hellen-one-wbo-0.1">
+      <uri>C:\Work\rusefi\github\hellen64_miataNA6_94/hellen-one/modules/wbo/0.1/wbo.kicad_sym</uri>
+    </library>
+    <library logical="logo">
+      <uri>C:\Work\rusefi\github\hellen64_miataNA6_94/kicad-libraries/logo.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J4" pin="19" pinfunction="Pin_19" pintype="passive"/>
+      <node ref="M3" pin="N16" pinfunction="V33" pintype="passive"/>
+      <node ref="M4" pin="V1" pinfunction="V33" pintype="passive"/>
+      <node ref="M7" pin="N2" pinfunction="V33" pintype="passive"/>
+      <node ref="S1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="VDD_IO" pintype="power_in"/>
+      <node ref="U1" pin="7" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="2" name="+3V3_IGN">
+      <node ref="M2" pin="V10" pinfunction="V33" pintype="passive"/>
+      <node ref="M3" pin="W10" pinfunction="IGN_V33" pintype="passive"/>
+    </net>
+    <net code="3" name="+5V">
+      <node ref="D1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="D24" pin="5" pintype="passive"/>
+      <node ref="J4" pin="21" pinfunction="Pin_21" pintype="passive"/>
+      <node ref="J4" pin="22" pinfunction="Pin_22" pintype="passive"/>
+      <node ref="M1" pin="E2" pinfunction="V5" pintype="passive"/>
+      <node ref="M10" pin="E1" pinfunction="V5" pintype="passive"/>
+      <node ref="M11" pin="V2" pinfunction="V5" pintype="passive"/>
+      <node ref="M12" pin="W1" pinfunction="5V_IN" pintype="passive"/>
+      <node ref="M3" pin="S1" pinfunction="V5" pintype="passive"/>
+      <node ref="M5" pin="W14" pinfunction="V5" pintype="passive"/>
+      <node ref="M6" pin="V1" pinfunction="V5" pintype="passive"/>
+      <node ref="M7" pin="N1" pinfunction="V5" pintype="passive"/>
+      <node ref="M8" pin="V1" pinfunction="V5" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R16" pin="3" pintype="passive"/>
+    </net>
+    <net code="4" name="+5VA">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="M1" pin="E5" pinfunction="V5A" pintype="passive"/>
+      <node ref="M1" pin="J1" pinfunction="PULL_V5A" pintype="passive"/>
+      <node ref="M1" pin="J10" pinfunction="PULL_AUX1" pintype="passive"/>
+      <node ref="M1" pin="J15" pinfunction="PULL_IAT" pintype="passive"/>
+      <node ref="M1" pin="J16" pinfunction="PULL_CLT" pintype="passive"/>
+      <node ref="M1" pin="J18" pinfunction="PULL_VSS" pintype="passive"/>
+      <node ref="M1" pin="J19" pinfunction="PULL_TPS" pintype="passive"/>
+      <node ref="M1" pin="J20" pinfunction="PULL_O2S" pintype="passive"/>
+      <node ref="M1" pin="J21" pinfunction="PULL_CRANK" pintype="passive"/>
+      <node ref="M1" pin="J24" pinfunction="PULL_SENS3" pintype="passive"/>
+      <node ref="M1" pin="J26" pinfunction="PULL_SENS1" pintype="passive"/>
+      <node ref="M1" pin="J3" pinfunction="PULL_RES2" pintype="passive"/>
+      <node ref="M1" pin="J5" pinfunction="PULL_PPS" pintype="passive"/>
+      <node ref="M1" pin="J6" pinfunction="PULL_RES1" pintype="passive"/>
+      <node ref="M1" pin="J7" pinfunction="PULL_AUX4" pintype="passive"/>
+      <node ref="M1" pin="J8" pinfunction="PULL_AUX3" pintype="passive"/>
+      <node ref="M1" pin="J9" pinfunction="PULL_AUX2" pintype="passive"/>
+      <node ref="M1" pin="N1" pinfunction="V5A" pintype="passive"/>
+      <node ref="M3" pin="S33" pinfunction="V5A" pintype="passive"/>
+      <node ref="M9" pin="E1" pinfunction="V5A" pintype="passive"/>
+      <node ref="P2" pin="44" pinfunction="3K" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="VCC" pintype="passive"/>
+    </net>
+    <net code="5" name="+5V_IGN">
+      <node ref="M2" pin="V9" pinfunction="VCC" pintype="passive"/>
+      <node ref="M3" pin="W9" pinfunction="IGN_V5" pintype="passive"/>
+    </net>
+    <net code="6" name="+12V">
+      <node ref="J4" pin="20" pinfunction="Pin_20" pintype="passive"/>
+      <node ref="M10" pin="V1" pinfunction="V12" pintype="passive"/>
+      <node ref="M11" pin="V1" pinfunction="V12" pintype="passive"/>
+    </net>
+    <net code="7" name="+12V_PERM">
+      <node ref="M10" pin="V4" pinfunction="V12_PERM" pintype="passive"/>
+      <node ref="R42" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="8" name="+12V_PROT">
+      <node ref="D11" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="M5" pin="W5" pinfunction="V12P" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R6" pin="3" pintype="passive"/>
+      <node ref="R6" pin="4" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R7" pin="3" pintype="passive"/>
+      <node ref="R7" pin="4" pintype="passive"/>
+    </net>
+    <net code="9" name="+12V_RAW">
+      <node ref="M10" pin="E2" pinfunction="V12_RAW" pintype="passive"/>
+      <node ref="M5" pin="S11" pinfunction="V12_RAW" pintype="passive"/>
+      <node ref="P2" pin="12" pinfunction="1B" pintype="passive"/>
+    </net>
+    <net code="10" name="/1A">
+      <node ref="P2" pin="1" pinfunction="1A" pintype="passive"/>
+      <node ref="R42" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="11" name="/1C">
+      <node ref="P2" pin="2" pinfunction="1C" pintype="passive"/>
+      <node ref="R41" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="12" name="/1D">
+      <node ref="P2" pin="13" pinfunction="1D" pintype="passive"/>
+      <node ref="R40" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="13" name="/1E">
+      <node ref="P2" pin="3" pinfunction="1E" pintype="passive"/>
+      <node ref="R39" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="14" name="/1F">
+      <node ref="P2" pin="14" pinfunction="1F" pintype="passive"/>
+      <node ref="R38" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="15" name="/1G">
+      <node ref="P2" pin="4" pinfunction="1G" pintype="passive"/>
+      <node ref="R37" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="16" name="/1H">
+      <node ref="P2" pin="15" pinfunction="1H" pintype="passive"/>
+      <node ref="R36" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="17" name="/1J">
+      <node ref="P2" pin="16" pinfunction="1J" pintype="passive"/>
+      <node ref="R35" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="18" name="/1L">
+      <node ref="P2" pin="17" pinfunction="1L" pintype="passive"/>
+      <node ref="R33" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="19" name="/1M">
+      <node ref="P2" pin="7" pinfunction="1M" pintype="passive"/>
+      <node ref="R32" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="20" name="/1N">
+      <node ref="R11" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="R31" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="21" name="/1O">
+      <node ref="P2" pin="8" pinfunction="1O" pintype="passive"/>
+      <node ref="P50" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="22" name="/1P">
+      <node ref="P2" pin="19" pinfunction="1P" pintype="passive"/>
+      <node ref="P49" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="23" name="/1Q">
+      <node ref="P2" pin="9" pinfunction="1Q" pintype="passive"/>
+      <node ref="R30" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="24" name="/1R">
+      <node ref="R19" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R29" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="25" name="/1U">
+      <node ref="P2" pin="11" pinfunction="1U" pintype="passive"/>
+      <node ref="P46" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="26" name="/1V">
+      <node ref="P2" pin="22" pinfunction="1V" pintype="passive"/>
+      <node ref="R28" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="27" name="/2F">
+      <node ref="P2" pin="54" pinfunction="3F" pintype="passive"/>
+      <node ref="R49" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="28" name="/2H">
+      <node ref="P2" pin="55" pinfunction="3H" pintype="passive"/>
+      <node ref="P56" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="29" name="/2I">
+      <node ref="P2" pin="43" pinfunction="3I" pintype="passive"/>
+      <node ref="R48" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="30" name="/2J">
+      <node ref="P2" pin="56" pinfunction="3J" pintype="passive"/>
+      <node ref="P55" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="31" name="/2L">
+      <node ref="P2" pin="57" pinfunction="3L" pintype="passive"/>
+      <node ref="P54" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="32" name="/2M">
+      <node ref="P2" pin="45" pinfunction="3M" pintype="passive"/>
+      <node ref="R47" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="33" name="/2N">
+      <node ref="P2" pin="58" pinfunction="3N" pintype="passive"/>
+      <node ref="R46" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="34" name="/2O">
+      <node ref="P2" pin="46" pinfunction="3O" pintype="passive"/>
+      <node ref="R45" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="35" name="/2R">
+      <node ref="P2" pin="60" pinfunction="3R" pintype="passive"/>
+      <node ref="P53" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="36" name="/2S">
+      <node ref="P2" pin="48" pinfunction="3S" pintype="passive"/>
+      <node ref="R44" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="37" name="/2T">
+      <node ref="P2" pin="61" pinfunction="3T" pintype="passive"/>
+      <node ref="R43" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="38" name="/2X">
+      <node ref="P2" pin="63" pinfunction="3X" pintype="passive"/>
+      <node ref="P52" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="39" name="/2Y">
+      <node ref="P2" pin="51" pinfunction="3Y" pintype="passive"/>
+      <node ref="R26" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="40" name="/2Z">
+      <node ref="P2" pin="64" pinfunction="3Z" pintype="passive"/>
+      <node ref="R25" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="41" name="/AC_PRESS">
+      <node ref="M1" pin="N10" pinfunction="AUX1" pintype="passive"/>
+      <node ref="M3" pin="S24" pinfunction="IN_AUX1" pintype="passive"/>
+    </net>
+    <net code="42" name="/AUX3">
+      <node ref="M1" pin="N8" pinfunction="AUX3" pintype="passive"/>
+      <node ref="M3" pin="S26" pinfunction="IN_AUX3" pintype="passive"/>
+    </net>
+    <net code="43" name="/AUX4">
+      <node ref="M1" pin="N7" pinfunction="AUX4" pintype="passive"/>
+      <node ref="M3" pin="S27" pinfunction="IN_AUX4" pintype="passive"/>
+    </net>
+    <net code="44" name="/BOOT0">
+      <node ref="M3" pin="N28" pinfunction="BOOT0" pintype="passive"/>
+      <node ref="S1" pin="1" pintype="passive"/>
+    </net>
+    <net code="45" name="/CAM">
+      <node ref="M1" pin="N19" pinfunction="CAM" pintype="passive"/>
+      <node ref="M3" pin="S15" pinfunction="IN_CAM" pintype="passive"/>
+    </net>
+    <net code="46" name="/CAN+">
+      <node ref="M6" pin="S2" pinfunction="CANH" pintype="passive"/>
+      <node ref="M8" pin="S2" pinfunction="CANH" pintype="passive"/>
+      <node ref="R40" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="47" name="/CAN-">
+      <node ref="M6" pin="S1" pinfunction="CANL" pintype="passive"/>
+      <node ref="M8" pin="S1" pinfunction="CANL" pintype="passive"/>
+      <node ref="R38" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="48" name="/CAN_RX">
+      <node ref="M3" pin="N3" pinfunction="CAN_TX" pintype="passive"/>
+      <node ref="M6" pin="V5" pinfunction="CAN_TX" pintype="passive"/>
+    </net>
+    <net code="49" name="/CAN_TX">
+      <node ref="M3" pin="N2" pinfunction="CAN_RX" pintype="passive"/>
+      <node ref="M6" pin="V6" pinfunction="CAN_RX" pintype="passive"/>
+    </net>
+    <net code="50" name="/CAN_VIO">
+      <node ref="M3" pin="N1" pinfunction="CAN_VIO" pintype="passive"/>
+      <node ref="M6" pin="V2" pinfunction="CAN_VIO" pintype="passive"/>
+    </net>
+    <net code="51" name="/CE">
+      <node ref="M3" pin="E22" pinfunction="OUT_IO11" pintype="passive"/>
+      <node ref="M5" pin="W25" pinfunction="LOW4_DIODE" pintype="passive"/>
+    </net>
+    <net code="52" name="/CLT">
+      <node ref="M1" pin="N16" pinfunction="CLT" pintype="passive"/>
+      <node ref="M3" pin="S18" pinfunction="IN_CLT" pintype="passive"/>
+    </net>
+    <net code="53" name="/CLUTCH">
+      <node ref="M1" pin="N9" pinfunction="AUX2" pintype="passive"/>
+      <node ref="M3" pin="S25" pinfunction="IN_AUX2" pintype="passive"/>
+    </net>
+    <net code="54" name="/CRANK">
+      <node ref="M1" pin="N21" pinfunction="CRANK" pintype="passive"/>
+      <node ref="M3" pin="S13" pinfunction="IN_CRANK" pintype="passive"/>
+    </net>
+    <net code="55" name="/D1">
+      <node ref="D24" pin="4" pintype="passive"/>
+      <node ref="M3" pin="S3" pinfunction="IN_D1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="R9" pin="8" pintype="passive"/>
+    </net>
+    <net code="56" name="/D2">
+      <node ref="D24" pin="6" pintype="passive"/>
+      <node ref="M3" pin="S4" pinfunction="IN_D2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="R9" pin="7" pintype="passive"/>
+    </net>
+    <net code="57" name="/D3">
+      <node ref="D24" pin="1" pintype="passive"/>
+      <node ref="M3" pin="S5" pinfunction="IN_D3" pintype="passive"/>
+      <node ref="R8" pin="3" pintype="passive"/>
+      <node ref="R9" pin="6" pintype="passive"/>
+    </net>
+    <net code="58" name="/D4">
+      <node ref="D24" pin="3" pintype="passive"/>
+      <node ref="M3" pin="S6" pinfunction="IN_D4" pintype="passive"/>
+      <node ref="R8" pin="4" pintype="passive"/>
+      <node ref="R9" pin="5" pintype="passive"/>
+    </net>
+    <net code="59" name="/ECF">
+      <node ref="M3" pin="E28" pinfunction="OUT_PWM8" pintype="passive"/>
+      <node ref="M5" pin="W21" pinfunction="LOW8" pintype="passive"/>
+    </net>
+    <net code="60" name="/EXT_I2C_SCL">
+      <node ref="J4" pin="17" pinfunction="Pin_17" pintype="passive"/>
+      <node ref="M3" pin="N19" pinfunction="I2C_SCL" pintype="passive"/>
+    </net>
+    <net code="61" name="/EXT_I2C_SDA">
+      <node ref="J4" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="M3" pin="N18" pinfunction="I2C_SDA" pintype="passive"/>
+    </net>
+    <net code="62" name="/EXT_IO1">
+      <node ref="J4" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="M3" pin="N12" pinfunction="IO1" pintype="passive"/>
+    </net>
+    <net code="63" name="/EXT_IO2">
+      <node ref="J4" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="M3" pin="N13" pinfunction="IO2" pintype="passive"/>
+    </net>
+    <net code="64" name="/EXT_IO3">
+      <node ref="J4" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="M3" pin="N14" pinfunction="IO3" pintype="passive"/>
+    </net>
+    <net code="65" name="/EXT_IO4">
+      <node ref="J4" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="M3" pin="N15" pinfunction="IO4" pintype="passive"/>
+    </net>
+    <net code="66" name="/EXT_SPI_CS2">
+      <node ref="J4" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="M3" pin="E5" pinfunction="SPI1_CS2" pintype="passive"/>
+    </net>
+    <net code="67" name="/EXT_SPI_MISO">
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="M3" pin="E2" pinfunction="SPI1_MISO" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="AD0/SDO" pintype="bidirectional"/>
+    </net>
+    <net code="68" name="/EXT_SPI_MOSI">
+      <node ref="J4" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="M3" pin="E3" pinfunction="SPI1_MOSI" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="SDA/SDI/SDIO" pintype="bidirectional"/>
+    </net>
+    <net code="69" name="/EXT_SPI_SCK">
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="M3" pin="E1" pinfunction="SPI1_SCK" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="70" name="/IAT">
+      <node ref="M1" pin="N15" pinfunction="IAT" pintype="passive"/>
+      <node ref="M3" pin="S19" pinfunction="IN_IAT" pintype="passive"/>
+    </net>
+    <net code="71" name="/IDLE">
+      <node ref="M3" pin="E18" pinfunction="OUT_PWM5" pintype="passive"/>
+      <node ref="M5" pin="W29" pinfunction="LOW12" pintype="passive"/>
+      <node ref="M5" pin="W35" pinfunction="LOW10" pintype="passive"/>
+    </net>
+    <net code="72" name="/IGN1">
+      <node ref="M2" pin="V8" pinfunction="IGN1" pintype="passive"/>
+      <node ref="M3" pin="W1" pinfunction="OUT_IGN1" pintype="passive"/>
+    </net>
+    <net code="73" name="/IGN2">
+      <node ref="M2" pin="V7" pinfunction="IGN2" pintype="passive"/>
+      <node ref="M3" pin="W2" pinfunction="OUT_IGN2" pintype="passive"/>
+    </net>
+    <net code="74" name="/IGN3">
+      <node ref="M2" pin="V6" pinfunction="IGN3" pintype="passive"/>
+      <node ref="M3" pin="W3" pinfunction="OUT_IGN3" pintype="passive"/>
+    </net>
+    <net code="75" name="/IGN4">
+      <node ref="M2" pin="V5" pinfunction="IGN4" pintype="passive"/>
+      <node ref="M3" pin="W4" pinfunction="OUT_IGN4" pintype="passive"/>
+    </net>
+    <net code="76" name="/IGN5">
+      <node ref="M2" pin="V4" pinfunction="IGN5" pintype="passive"/>
+      <node ref="M3" pin="W5" pinfunction="OUT_IGN5" pintype="passive"/>
+    </net>
+    <net code="77" name="/IGN6">
+      <node ref="M2" pin="V3" pinfunction="IGN6" pintype="passive"/>
+      <node ref="M3" pin="W6" pinfunction="OUT_IGN6" pintype="passive"/>
+    </net>
+    <net code="78" name="/IGN7">
+      <node ref="M2" pin="V2" pinfunction="IGN7" pintype="passive"/>
+      <node ref="M3" pin="W7" pinfunction="OUT_IGN7" pintype="passive"/>
+    </net>
+    <net code="79" name="/IGN8">
+      <node ref="M2" pin="V1" pinfunction="IGN8" pintype="passive"/>
+      <node ref="M3" pin="W8" pinfunction="OUT_IGN8" pintype="passive"/>
+    </net>
+    <net code="80" name="/INJ1">
+      <node ref="M3" pin="E25" pinfunction="OUT_INJ1" pintype="passive"/>
+      <node ref="M5" pin="W24" pinfunction="INJ1" pintype="passive"/>
+    </net>
+    <net code="81" name="/INJ2">
+      <node ref="M3" pin="E26" pinfunction="OUT_INJ2" pintype="passive"/>
+      <node ref="M5" pin="W23" pinfunction="INJ2" pintype="passive"/>
+    </net>
+    <net code="82" name="/INJ3">
+      <node ref="M3" pin="E29" pinfunction="OUT_INJ3" pintype="passive"/>
+      <node ref="M5" pin="W20" pinfunction="INJ3" pintype="passive"/>
+    </net>
+    <net code="83" name="/INJ4">
+      <node ref="M3" pin="E30" pinfunction="OUT_INJ4" pintype="passive"/>
+      <node ref="M5" pin="W19" pinfunction="INJ4" pintype="passive"/>
+    </net>
+    <net code="84" name="/INJ5">
+      <node ref="M3" pin="E31" pinfunction="OUT_INJ5" pintype="passive"/>
+      <node ref="M5" pin="W18" pinfunction="INJ5" pintype="passive"/>
+    </net>
+    <net code="85" name="/INJ6">
+      <node ref="M3" pin="E32" pinfunction="OUT_INJ6" pintype="passive"/>
+      <node ref="M5" pin="W17" pinfunction="INJ6" pintype="passive"/>
+    </net>
+    <net code="86" name="/INJ7">
+      <node ref="M3" pin="E33" pinfunction="OUT_INJ7" pintype="passive"/>
+      <node ref="M5" pin="W16" pinfunction="INJ7" pintype="passive"/>
+    </net>
+    <net code="87" name="/INJ8">
+      <node ref="M3" pin="E34" pinfunction="OUT_INJ8" pintype="passive"/>
+      <node ref="M5" pin="W15" pinfunction="INJ8" pintype="passive"/>
+    </net>
+    <net code="88" name="/IN_AC_PRESS">
+      <node ref="M1" pin="S17" pinfunction="IN_AUX1" pintype="passive"/>
+      <node ref="R35" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="89" name="/IN_AUX3">
+      <node ref="J6" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="M1" pin="S20" pinfunction="IN_AUX3" pintype="passive"/>
+    </net>
+    <net code="90" name="/IN_AUX4">
+      <node ref="J6" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="M1" pin="S21" pinfunction="IN_AUX4" pintype="passive"/>
+    </net>
+    <net code="91" name="/IN_CAM">
+      <node ref="M1" pin="S5" pinfunction="IN_CAM" pintype="passive"/>
+      <node ref="P2" pin="42" pinfunction="3G" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="92" name="/IN_CLT">
+      <node ref="M1" pin="S15" pinfunction="IN_CLT" pintype="passive"/>
+      <node ref="P2" pin="47" pinfunction="3Q" pintype="passive"/>
+    </net>
+    <net code="93" name="/IN_CLUTCH">
+      <node ref="M1" pin="S18" pinfunction="IN_AUX2" pintype="passive"/>
+      <node ref="R28" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="94" name="/IN_CRANK">
+      <node ref="M1" pin="S8" pinfunction="IN_CRANK" pintype="passive"/>
+      <node ref="P2" pin="41" pinfunction="3E" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+    </net>
+    <net code="95" name="/IN_D1">
+      <node ref="R30" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R8" pin="8" pintype="passive"/>
+    </net>
+    <net code="96" name="/IN_D2">
+      <node ref="P26" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R8" pin="7" pintype="passive"/>
+    </net>
+    <net code="97" name="/IN_D3">
+      <node ref="P27" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R8" pin="6" pintype="passive"/>
+    </net>
+    <net code="98" name="/IN_D4">
+      <node ref="P28" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R8" pin="5" pintype="passive"/>
+    </net>
+    <net code="99" name="/IN_IAT">
+      <node ref="M1" pin="S16" pinfunction="IN_IAT" pintype="passive"/>
+      <node ref="P2" pin="59" pinfunction="3P" pintype="passive"/>
+    </net>
+    <net code="100" name="/IN_KNOCK">
+      <node ref="M1" pin="S7" pinfunction="IN_KNOCK" pintype="passive"/>
+      <node ref="M9" pin="E3" pinfunction="OUT_KNOCK" pintype="passive"/>
+    </net>
+    <net code="101" name="/IN_KNOCK_RAW">
+      <node ref="M9" pin="W1" pinfunction="IN_KNOCK" pintype="passive"/>
+      <node ref="P1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="102" name="/IN_MAF">
+      <node ref="M1" pin="S11" pinfunction="IN_MAP1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R45" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="103" name="/IN_MAP2">
+      <node ref="J6" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="M1" pin="S12" pinfunction="IN_MAP2" pintype="passive"/>
+    </net>
+    <net code="104" name="/IN_MAP3">
+      <node ref="M1" pin="S19" pinfunction="IN_MAP3" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="VOUT" pintype="passive"/>
+    </net>
+    <net code="105" name="/IN_O2S">
+      <node ref="M1" pin="S9" pinfunction="IN_O2S" pintype="passive"/>
+      <node ref="R46" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="106" name="/IN_O2S2">
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="M1" pin="S25" pinfunction="IN_O2S2" pintype="passive"/>
+    </net>
+    <net code="107" name="/IN_PPS">
+      <node ref="J6" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="M1" pin="S24" pinfunction="IN_PPS" pintype="passive"/>
+    </net>
+    <net code="108" name="/IN_RES1">
+      <node ref="J6" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="M1" pin="S23" pinfunction="IN_RES1" pintype="passive"/>
+    </net>
+    <net code="109" name="/IN_RES2">
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="M1" pin="S26" pinfunction="IN_RES2" pintype="passive"/>
+    </net>
+    <net code="110" name="/IN_RES3">
+      <node ref="J6" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="M1" pin="S22" pinfunction="IN_RES3" pintype="passive"/>
+    </net>
+    <net code="111" name="/IN_SENS1">
+      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="M1" pin="S1" pinfunction="IN_SENS1" pintype="passive"/>
+    </net>
+    <net code="112" name="/IN_SENS2">
+      <node ref="J8" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="M1" pin="S2" pinfunction="IN_SENS2" pintype="passive"/>
+    </net>
+    <net code="113" name="/IN_SENS3">
+      <node ref="J8" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="M1" pin="S3" pinfunction="IN_SENS3" pintype="passive"/>
+    </net>
+    <net code="114" name="/IN_SENS4">
+      <node ref="J8" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="M1" pin="S4" pinfunction="IN_SENS4" pintype="passive"/>
+    </net>
+    <net code="115" name="/IN_TPS">
+      <node ref="M1" pin="S10" pinfunction="IN_TPS" pintype="passive"/>
+      <node ref="R10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R11" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="116" name="/IN_VIGN">
+      <node ref="D10" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="M10" pin="V3" pinfunction="IN_VIGN" pintype="passive"/>
+      <node ref="R41" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="117" name="/IN_VSS">
+      <node ref="J8" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="M1" pin="S6" pinfunction="IN_VSS" pintype="passive"/>
+    </net>
+    <net code="118" name="/IO7">
+      <node ref="M3" pin="E12" pinfunction="OUT_IO7" pintype="passive"/>
+      <node ref="P22" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="119" name="/IO8">
+      <node ref="M3" pin="E13" pinfunction="OUT_IO8" pintype="passive"/>
+      <node ref="P23" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="120" name="/IO12">
+      <node ref="M3" pin="E23" pinfunction="OUT_IO12" pintype="passive"/>
+      <node ref="P24" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="121" name="/IO13">
+      <node ref="M3" pin="E24" pinfunction="OUT_IO13" pintype="passive"/>
+      <node ref="P25" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="122" name="/KNOCK">
+      <node ref="M1" pin="N22" pinfunction="KNOCK" pintype="passive"/>
+      <node ref="M3" pin="S12" pinfunction="IN_KNOCK" pintype="passive"/>
+    </net>
+    <net code="123" name="/LOW1_DUAL">
+      <node ref="M3" pin="E8" pinfunction="OUT_IO3" pintype="passive"/>
+      <node ref="M5" pin="W38" pinfunction="LOW1_DUAL" pintype="passive"/>
+    </net>
+    <net code="124" name="/LOW2_DUAL">
+      <node ref="M3" pin="E11" pinfunction="OUT_IO6" pintype="passive"/>
+      <node ref="M5" pin="W34" pinfunction="LOW2_DUAL" pintype="passive"/>
+    </net>
+    <net code="125" name="/LOW3_DUAL">
+      <node ref="M3" pin="E6" pinfunction="OUT_IO1" pintype="passive"/>
+      <node ref="M5" pin="W40" pinfunction="LOW3_MAIN" pintype="passive"/>
+    </net>
+    <net code="126" name="/LOW5_HIGH1">
+      <node ref="M3" pin="E7" pinfunction="OUT_IO2" pintype="passive"/>
+      <node ref="M5" pin="W39" pinfunction="LOW5_HIGH1" pintype="passive"/>
+    </net>
+    <net code="127" name="/LOW6_HIGH2">
+      <node ref="M3" pin="E9" pinfunction="OUT_IO4" pintype="passive"/>
+      <node ref="M5" pin="W37" pinfunction="LOW6_HIGH2" pintype="passive"/>
+    </net>
+    <net code="128" name="/LOW9">
+      <node ref="M3" pin="E21" pinfunction="OUT_IO10" pintype="passive"/>
+      <node ref="M5" pin="W26" pinfunction="LOW9" pintype="passive"/>
+    </net>
+    <net code="129" name="/LOW11">
+      <node ref="M3" pin="E10" pinfunction="OUT_IO5" pintype="passive"/>
+      <node ref="M5" pin="W36" pinfunction="LOW11" pintype="passive"/>
+    </net>
+    <net code="130" name="/LSU_CALIBR_RES">
+      <node ref="M12" pin="E4" pinfunction="LSU_Rtrim" pintype="passive"/>
+      <node ref="P2" pin="25" pinfunction="2E" pintype="passive"/>
+    </net>
+    <net code="131" name="/LSU_HEAT-">
+      <node ref="M12" pin="E5" pinfunction="LSU_H+" pintype="passive"/>
+      <node ref="P2" pin="24" pinfunction="2C" pintype="passive"/>
+      <node ref="P2" pin="32" pinfunction="2D" pintype="passive"/>
+    </net>
+    <net code="132" name="/LSU_PUMP_I">
+      <node ref="M12" pin="E3" pinfunction="LSU_Ip" pintype="passive"/>
+      <node ref="P2" pin="33" pinfunction="2F" pintype="passive"/>
+    </net>
+    <net code="133" name="/LSU_SENSOR_U">
+      <node ref="M12" pin="E1" pinfunction="LSU_Un" pintype="passive"/>
+      <node ref="P2" pin="34" pinfunction="2H" pintype="passive"/>
+    </net>
+    <net code="134" name="/LSU_SENSOR_U{slash}PUMP_I">
+      <node ref="M12" pin="E2" pinfunction="LSU_Vm" pintype="passive"/>
+      <node ref="P2" pin="26" pinfunction="2G" pintype="passive"/>
+    </net>
+    <net code="135" name="/MAF">
+      <node ref="M1" pin="N14" pinfunction="MAP1" pintype="passive"/>
+      <node ref="M3" pin="S20" pinfunction="IN_MAP1" pintype="passive"/>
+    </net>
+    <net code="136" name="/MAP2">
+      <node ref="M1" pin="N13" pinfunction="MAP2" pintype="passive"/>
+      <node ref="M3" pin="S21" pinfunction="IN_MAP2" pintype="passive"/>
+    </net>
+    <net code="137" name="/MAP3">
+      <node ref="M1" pin="N12" pinfunction="MAP3" pintype="passive"/>
+      <node ref="M3" pin="S22" pinfunction="IN_MAP3" pintype="passive"/>
+    </net>
+    <net code="138" name="/NRESET">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="M3" pin="N24" pinfunction="nReset" pintype="passive"/>
+      <node ref="M7" pin="N6" pinfunction="nReset" pintype="passive"/>
+      <node ref="S2" pin="1" pintype="passive"/>
+    </net>
+    <net code="139" name="/O2S">
+      <node ref="M1" pin="N18" pinfunction="O2S" pintype="passive"/>
+      <node ref="M3" pin="S16" pinfunction="IN_O2S" pintype="passive"/>
+    </net>
+    <net code="140" name="/O2S2">
+      <node ref="M1" pin="N4" pinfunction="O2S2" pintype="passive"/>
+      <node ref="M3" pin="S30" pinfunction="IN_O2S2" pintype="passive"/>
+    </net>
+    <net code="141" name="/OUT_CE">
+      <node ref="D16" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D20" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="M5" pin="W3" pinfunction="OUT_LOW4_DIODE" pintype="passive"/>
+      <node ref="R39" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="142" name="/OUT_CONDENSER_FAN">
+      <node ref="M5" pin="W10" pinfunction="OUT_INJ5" pintype="passive"/>
+      <node ref="R18" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R19" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="143" name="/OUT_ECF">
+      <node ref="D19" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D23" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="M5" pin="S8" pinfunction="OUT_LOW8" pintype="passive"/>
+      <node ref="R33" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="144" name="/OUT_HIGH1">
+      <node ref="J9" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="M5" pin="W8" pinfunction="OUT_HIGH1" pintype="passive"/>
+    </net>
+    <net code="145" name="/OUT_HIGH2">
+      <node ref="J10" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="M5" pin="S9" pinfunction="OUT_HIGH2" pintype="passive"/>
+    </net>
+    <net code="146" name="/OUT_IDLE">
+      <node ref="D18" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D22" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="M5" pin="S10" pinfunction="OUT_LOW10" pintype="passive"/>
+      <node ref="M5" pin="W1" pinfunction="OUT_LOW12" pintype="passive"/>
+      <node ref="P2" pin="50" pinfunction="3W" pintype="passive"/>
+    </net>
+    <net code="147" name="/OUT_IGN1">
+      <node ref="D3" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="M2" pin="S8" pinfunction="OUT_IGN1" pintype="passive"/>
+      <node ref="R37" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="148" name="/OUT_IGN2">
+      <node ref="D4" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="M2" pin="S7" pinfunction="OUT_IGN2" pintype="passive"/>
+      <node ref="R36" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="149" name="/OUT_IGN3">
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="M2" pin="S6" pinfunction="OUT_IGN3" pintype="passive"/>
+    </net>
+    <net code="150" name="/OUT_IGN4">
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="M2" pin="S5" pinfunction="OUT_IGN4" pintype="passive"/>
+    </net>
+    <net code="151" name="/OUT_IGN5">
+      <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="M2" pin="S4" pinfunction="OUT_IGN5" pintype="passive"/>
+    </net>
+    <net code="152" name="/OUT_IGN6">
+      <node ref="J5" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="M2" pin="S3" pinfunction="OUT_IGN6" pintype="passive"/>
+    </net>
+    <net code="153" name="/OUT_IGN7">
+      <node ref="J5" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="M2" pin="S2" pinfunction="OUT_IGN7" pintype="passive"/>
+    </net>
+    <net code="154" name="/OUT_IGN8">
+      <node ref="J5" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="M2" pin="S1" pinfunction="OUT_IGN8" pintype="passive"/>
+    </net>
+    <net code="155" name="/OUT_INJ1">
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D9" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="M5" pin="S18" pinfunction="OUT_INJ1" pintype="passive"/>
+      <node ref="P2" pin="49" pinfunction="3U" pintype="passive"/>
+      <node ref="R12" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="156" name="/OUT_INJ2">
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D8" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="M5" pin="S16" pinfunction="OUT_INJ2" pintype="passive"/>
+      <node ref="P2" pin="62" pinfunction="3V" pintype="passive"/>
+      <node ref="R17" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="157" name="/OUT_INJ3">
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D7" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="M5" pin="S17" pinfunction="OUT_INJ3" pintype="passive"/>
+      <node ref="R12" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R26" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="158" name="/OUT_INJ4">
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D6" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="M5" pin="W7" pinfunction="OUT_INJ4" pintype="passive"/>
+      <node ref="R17" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R25" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="159" name="/OUT_INJ7">
+      <node ref="J9" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="M5" pin="W12" pinfunction="OUT_INJ7" pintype="passive"/>
+    </net>
+    <net code="160" name="/OUT_INJ8">
+      <node ref="J9" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="M5" pin="W11" pinfunction="OUT_INJ8" pintype="passive"/>
+    </net>
+    <net code="161" name="/OUT_LOW1_DUAL">
+      <node ref="J10" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="M5" pin="S7" pinfunction="OUT_LOW1_DUAL" pintype="passive"/>
+    </net>
+    <net code="162" name="/OUT_LOW2_DUAL">
+      <node ref="J9" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="M5" pin="W4" pinfunction="OUT_LOW2_DUAL" pintype="passive"/>
+    </net>
+    <net code="163" name="/OUT_LOW3_DUAL">
+      <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="M5" pin="W13" pinfunction="OUT_LOW3_MAIN" pintype="passive"/>
+    </net>
+    <net code="164" name="/OUT_LOW5_PULLUP">
+      <node ref="J9" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="M5" pin="W9" pinfunction="OUT_LOW5_PULLUP" pintype="passive"/>
+    </net>
+    <net code="165" name="/OUT_LOW6_PULLUP">
+      <node ref="J10" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="M5" pin="S12" pinfunction="OUT_LOW6_PULLUP" pintype="passive"/>
+    </net>
+    <net code="166" name="/OUT_LOW9">
+      <node ref="J9" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="M5" pin="W2" pinfunction="OUT_LOW9" pintype="passive"/>
+    </net>
+    <net code="167" name="/OUT_LOW11">
+      <node ref="J10" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="M5" pin="S13" pinfunction="OUT_LOW11" pintype="passive"/>
+    </net>
+    <net code="168" name="/OUT_PP1">
+      <node ref="J9" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="M5" pin="W6" pinfunction="OUT_PP1" pintype="passive"/>
+    </net>
+    <net code="169" name="/OUT_PP2">
+      <node ref="J10" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="M5" pin="S6" pinfunction="OUT_PP2" pintype="passive"/>
+    </net>
+    <net code="170" name="/OUT_PUMP">
+      <node ref="D17" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D21" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="M5" pin="S14" pinfunction="OUT_LOW7" pintype="passive"/>
+      <node ref="R43" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="171" name="/OUT_SOLENOID_A1">
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="M5" pin="S1" pinfunction="OUT_SOLENOID_A1" pintype="passive"/>
+    </net>
+    <net code="172" name="/OUT_SOLENOID_A2">
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="M5" pin="S2" pinfunction="OUT_SOLENOID_A2" pintype="passive"/>
+    </net>
+    <net code="173" name="/OUT_SOLENOID_B1">
+      <node ref="J7" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="M5" pin="S4" pinfunction="OUT_SOLENOID_B1" pintype="passive"/>
+    </net>
+    <net code="174" name="/OUT_SOLENOID_B2">
+      <node ref="J7" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="M5" pin="S5" pinfunction="OUT_SOLENOID_B2" pintype="passive"/>
+    </net>
+    <net code="175" name="/OUT_TACH">
+      <node ref="M5" pin="S15" pinfunction="OUT_INJ6" pintype="passive"/>
+      <node ref="R24" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="176" name="/PP1">
+      <node ref="M3" pin="E19" pinfunction="OUT_PWM6" pintype="passive"/>
+      <node ref="M5" pin="W28" pinfunction="PP1" pintype="passive"/>
+    </net>
+    <net code="177" name="/PP2">
+      <node ref="M3" pin="E27" pinfunction="OUT_PWM7" pintype="passive"/>
+      <node ref="M5" pin="W22" pinfunction="PP2" pintype="passive"/>
+    </net>
+    <net code="178" name="/PPS">
+      <node ref="M1" pin="N5" pinfunction="PPS" pintype="passive"/>
+      <node ref="M3" pin="S29" pinfunction="IN_PPS" pintype="passive"/>
+    </net>
+    <net code="179" name="/PUMP">
+      <node ref="M3" pin="E20" pinfunction="OUT_IO9" pintype="passive"/>
+      <node ref="M5" pin="W27" pinfunction="LOW7" pintype="passive"/>
+    </net>
+    <net code="180" name="/RES1">
+      <node ref="M1" pin="N6" pinfunction="RES1" pintype="passive"/>
+      <node ref="M3" pin="S28" pinfunction="IN_RES1" pintype="passive"/>
+    </net>
+    <net code="181" name="/RES2">
+      <node ref="M1" pin="N3" pinfunction="RES2" pintype="passive"/>
+      <node ref="M3" pin="S31" pinfunction="IN_RES2" pintype="passive"/>
+    </net>
+    <net code="182" name="/RES3">
+      <node ref="M1" pin="N11" pinfunction="RES3" pintype="passive"/>
+      <node ref="M3" pin="S23" pinfunction="IN_RES3" pintype="passive"/>
+    </net>
+    <net code="183" name="/SD_CS">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="M3" pin="N23" pinfunction="SPI2_CS" pintype="passive"/>
+      <node ref="M4" pin="V4" pinfunction="SD_CS" pintype="passive"/>
+    </net>
+    <net code="184" name="/SD_MISO">
+      <node ref="J3" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="M3" pin="N21" pinfunction="SPI2_MISO" pintype="passive"/>
+      <node ref="M4" pin="V7" pinfunction="SD_MISO" pintype="passive"/>
+    </net>
+    <net code="185" name="/SD_MOSI">
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="M3" pin="N22" pinfunction="SPI2_MOSI" pintype="passive"/>
+      <node ref="M4" pin="V5" pinfunction="SD_MOSI" pintype="passive"/>
+    </net>
+    <net code="186" name="/SD_SCK">
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="M3" pin="N20" pinfunction="SPI2_SCK" pintype="passive"/>
+      <node ref="M4" pin="V6" pinfunction="SD_SCK" pintype="passive"/>
+    </net>
+    <net code="187" name="/SENS1">
+      <node ref="M1" pin="N26" pinfunction="SENS1" pintype="passive"/>
+      <node ref="M3" pin="S8" pinfunction="IN_SENS1" pintype="passive"/>
+    </net>
+    <net code="188" name="/SENS2">
+      <node ref="M1" pin="N25" pinfunction="SENS2" pintype="passive"/>
+      <node ref="M3" pin="S9" pinfunction="IN_SENS2" pintype="passive"/>
+    </net>
+    <net code="189" name="/SENS3">
+      <node ref="M1" pin="N24" pinfunction="SENS3" pintype="passive"/>
+      <node ref="M3" pin="S10" pinfunction="IN_SENS3" pintype="passive"/>
+    </net>
+    <net code="190" name="/SENS4">
+      <node ref="M1" pin="N23" pinfunction="SENS4" pintype="passive"/>
+      <node ref="M3" pin="S11" pinfunction="IN_SENS4" pintype="passive"/>
+    </net>
+    <net code="191" name="/SOLENOID_A1">
+      <node ref="M3" pin="E14" pinfunction="OUT_PWM1" pintype="passive"/>
+      <node ref="M5" pin="W33" pinfunction="SOLENOID_A1" pintype="passive"/>
+    </net>
+    <net code="192" name="/SOLENOID_A2">
+      <node ref="M3" pin="E15" pinfunction="OUT_PWM2" pintype="passive"/>
+      <node ref="M5" pin="W32" pinfunction="SOLENOID_A2" pintype="passive"/>
+    </net>
+    <net code="193" name="/SOLENOID_B1">
+      <node ref="M3" pin="E16" pinfunction="OUT_PWM3" pintype="passive"/>
+      <node ref="M5" pin="W31" pinfunction="SOLENOID_B1" pintype="passive"/>
+    </net>
+    <net code="194" name="/SOLENOID_B2">
+      <node ref="M3" pin="E17" pinfunction="OUT_PWM4" pintype="passive"/>
+      <node ref="M5" pin="W30" pinfunction="SOLENOID_B2" pintype="passive"/>
+    </net>
+    <net code="195" name="/TPS">
+      <node ref="M1" pin="N17" pinfunction="TPS" pintype="passive"/>
+      <node ref="M3" pin="S17" pinfunction="IN_TPS" pintype="passive"/>
+    </net>
+    <net code="196" name="/UART_EXT_RX">
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="M3" pin="N7" pinfunction="UART2_RX" pintype="passive"/>
+    </net>
+    <net code="197" name="/UART_EXT_TX">
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="M3" pin="N6" pinfunction="UART2_TX" pintype="passive"/>
+    </net>
+    <net code="198" name="/USB+">
+      <node ref="J1" pin="3" pinfunction="D+" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="M3" pin="N30" pinfunction="USB1P" pintype="passive"/>
+      <node ref="P2" pin="38" pinfunction="2P" pintype="passive"/>
+    </net>
+    <net code="199" name="/USB-">
+      <node ref="J1" pin="2" pinfunction="D-" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="M3" pin="N31" pinfunction="USB1M" pintype="passive"/>
+      <node ref="P2" pin="30" pinfunction="2O" pintype="passive"/>
+    </net>
+    <net code="200" name="/VBAT">
+      <node ref="M10" pin="V2" pinfunction="VBAT" pintype="passive"/>
+      <node ref="M3" pin="N17" pinfunction="VBAT" pintype="passive"/>
+    </net>
+    <net code="201" name="/VBUS">
+      <node ref="J1" pin="1" pinfunction="VBUS" pintype="power_out"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="M3" pin="N29" pinfunction="VBUS" pintype="passive"/>
+      <node ref="P2" pin="29" pinfunction="2M" pintype="passive"/>
+    </net>
+    <net code="202" name="/VIGN">
+      <node ref="M10" pin="V5" pinfunction="VIGN" pintype="passive"/>
+      <node ref="M3" pin="S7" pinfunction="VIGN" pintype="passive"/>
+    </net>
+    <net code="203" name="/VREF2">
+      <node ref="M1" pin="S13" pinfunction="VREF2" pintype="passive"/>
+      <node ref="M9" pin="W2" pinfunction="VREF" pintype="passive"/>
+    </net>
+    <net code="204" name="/VSS">
+      <node ref="M1" pin="N20" pinfunction="VSS" pintype="passive"/>
+      <node ref="M3" pin="S14" pinfunction="IN_VSS" pintype="passive"/>
+    </net>
+    <net code="205" name="GND">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="D24" pin="2" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="GND" pintype="power_out"/>
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J3" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J4" pin="23" pinfunction="Pin_23" pintype="passive"/>
+      <node ref="J4" pin="24" pinfunction="Pin_24" pintype="passive"/>
+      <node ref="M1" pin="E1" pinfunction="GND" pintype="passive"/>
+      <node ref="M1" pin="J11" pinfunction="PULL_RES3" pintype="passive"/>
+      <node ref="M1" pin="J12" pinfunction="PULL_MAP3" pintype="passive"/>
+      <node ref="M1" pin="J13" pinfunction="PULL_MAP2" pintype="passive"/>
+      <node ref="M1" pin="J14" pinfunction="PULL_MAP1" pintype="passive"/>
+      <node ref="M1" pin="J2" pinfunction="PULL_GNDA" pintype="passive"/>
+      <node ref="M1" pin="J22" pinfunction="PULL_KNOCK" pintype="passive"/>
+      <node ref="M1" pin="J23" pinfunction="PULL_SENS4" pintype="passive"/>
+      <node ref="M1" pin="J25" pinfunction="PULL_SENS2" pintype="passive"/>
+      <node ref="M1" pin="J4" pinfunction="PULL_O2S2" pintype="passive"/>
+      <node ref="M1" pin="N2" pinfunction="GNDA" pintype="passive"/>
+      <node ref="M10" pin="S1" pinfunction="GND" pintype="passive"/>
+      <node ref="M11" pin="G" pinfunction="GND" pintype="passive"/>
+      <node ref="M12" pin="E6" pinfunction="LSU_H-" pintype="passive"/>
+      <node ref="M12" pin="G" pinfunction="GND" pintype="passive"/>
+      <node ref="M2" pin="G" pinfunction="GND" pintype="passive"/>
+      <node ref="M3" pin="S2" pinfunction="GND" pintype="passive"/>
+      <node ref="M3" pin="S32" pinfunction="GNDA" pintype="passive"/>
+      <node ref="M4" pin="G" pinfunction="GND" pintype="passive"/>
+      <node ref="M4" pin="V2" pinfunction="GND" pintype="passive"/>
+      <node ref="M4" pin="V3" pinfunction="GND" pintype="passive"/>
+      <node ref="M5" pin="G" pinfunction="GND" pintype="passive"/>
+      <node ref="M5" pin="S3" pinfunction="GND" pintype="passive"/>
+      <node ref="M6" pin="E1" pinfunction="GND" pintype="passive"/>
+      <node ref="M7" pin="G" pinfunction="GND" pintype="passive"/>
+      <node ref="M8" pin="E1" pinfunction="GND" pintype="passive"/>
+      <node ref="M9" pin="E2" pinfunction="GND" pintype="passive"/>
+      <node ref="P2" pin="39" pinfunction="3A" pintype="passive"/>
+      <node ref="P2" pin="40" pinfunction="3C" pintype="passive"/>
+      <node ref="P2" pin="52" pinfunction="3B" pintype="passive"/>
+      <node ref="P2" pin="53" pinfunction="3D" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R1" pin="3" pintype="passive"/>
+      <node ref="R1" pin="4" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R2" pin="3" pintype="passive"/>
+      <node ref="R2" pin="4" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R49" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R5" pin="3" pintype="passive"/>
+      <node ref="R5" pin="4" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="R9" pin="3" pintype="passive"/>
+      <node ref="R9" pin="4" pintype="passive"/>
+      <node ref="S2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="RESV2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="RESV1" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="GNDIO" pintype="power_in"/>
+      <node ref="U1" pin="9" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="passive"/>
+    </net>
+    <net code="206" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="R2" pin="8" pintype="passive"/>
+    </net>
+    <net code="207" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="R2" pin="5" pintype="passive"/>
+      <node ref="R2" pin="6" pintype="passive"/>
+      <node ref="R2" pin="7" pintype="passive"/>
+    </net>
+    <net code="208" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="R1" pin="8" pintype="passive"/>
+    </net>
+    <net code="209" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="R1" pin="5" pintype="passive"/>
+    </net>
+    <net code="210" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R5" pin="8" pintype="passive"/>
+    </net>
+    <net code="211" name="Net-(D11-Pad2)">
+      <node ref="D11" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="R5" pin="5" pintype="passive"/>
+    </net>
+    <net code="212" name="Net-(D12-Pad1)">
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="R6" pin="8" pintype="passive"/>
+    </net>
+    <net code="213" name="Net-(D13-Pad1)">
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="R6" pin="7" pintype="passive"/>
+    </net>
+    <net code="214" name="Net-(D14-Pad1)">
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="R6" pin="6" pintype="passive"/>
+    </net>
+    <net code="215" name="Net-(D15-Pad1)">
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="R6" pin="5" pintype="passive"/>
+    </net>
+    <net code="216" name="Net-(D16-Pad1)">
+      <node ref="D16" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="D20" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R7" pin="8" pintype="passive"/>
+    </net>
+    <net code="217" name="Net-(D17-Pad1)">
+      <node ref="D17" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="D21" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R7" pin="7" pintype="passive"/>
+    </net>
+    <net code="218" name="Net-(D18-Pad1)">
+      <node ref="D18" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="D22" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R7" pin="6" pintype="passive"/>
+    </net>
+    <net code="219" name="Net-(D19-Pad1)">
+      <node ref="D19" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="D23" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R7" pin="5" pintype="passive"/>
+    </net>
+    <net code="220" name="Net-(D26-Pad1)">
+      <node ref="D26" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="D29" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R16" pin="7" pintype="passive"/>
+    </net>
+    <net code="221" name="Net-(D26-Pad2)">
+      <node ref="D26" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D29" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+    </net>
+    <net code="222" name="Net-(D27-Pad1)">
+      <node ref="D27" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="D30" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R16" pin="6" pintype="passive"/>
+    </net>
+    <net code="223" name="Net-(D27-Pad2)">
+      <node ref="D27" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D30" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+    </net>
+    <net code="224" name="Net-(M3-PadE4)">
+      <node ref="M3" pin="E4" pinfunction="SPI1_CS1" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="~CS~/SENB" pintype="input"/>
+    </net>
+    <net code="225" name="Net-(M3-PadN25)">
+      <node ref="M3" pin="N25" pinfunction="SWCLK" pintype="passive"/>
+      <node ref="M7" pin="N5" pinfunction="SWCLK" pintype="passive"/>
+    </net>
+    <net code="226" name="Net-(M3-PadN26)">
+      <node ref="M3" pin="N26" pinfunction="SWDIO" pintype="passive"/>
+      <node ref="M7" pin="N4" pinfunction="SWDIO" pintype="passive"/>
+    </net>
+    <net code="227" name="Net-(M3-PadN27)">
+      <node ref="M3" pin="N27" pinfunction="SWO" pintype="passive"/>
+      <node ref="M7" pin="N3" pinfunction="SWO" pintype="passive"/>
+    </net>
+    <net code="228" name="Net-(M12-PadW2)">
+      <node ref="M12" pin="W2" pinfunction="CAN_VIO" pintype="passive"/>
+      <node ref="M8" pin="V2" pinfunction="CAN_VIO" pintype="passive"/>
+    </net>
+    <net code="229" name="Net-(M12-PadW3)">
+      <node ref="M12" pin="W3" pinfunction="CAN_RX" pintype="passive"/>
+      <node ref="M8" pin="V6" pinfunction="CAN_RX" pintype="passive"/>
+    </net>
+    <net code="230" name="Net-(M12-PadW4)">
+      <node ref="M12" pin="W4" pinfunction="CAN_TX" pintype="passive"/>
+      <node ref="M8" pin="V5" pinfunction="CAN_TX" pintype="passive"/>
+    </net>
+    <net code="231" name="Net-(P2-Pad5)">
+      <node ref="P2" pin="5" pinfunction="1I" pintype="passive"/>
+      <node ref="P51" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="232" name="Net-(P2-Pad6)">
+      <node ref="P2" pin="6" pinfunction="1K" pintype="passive"/>
+      <node ref="R34" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="233" name="Net-(P2-Pad10)">
+      <node ref="P2" pin="10" pinfunction="1S" pintype="passive"/>
+      <node ref="P48" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="234" name="Net-(P2-Pad18)">
+      <node ref="P2" pin="18" pinfunction="1N" pintype="passive"/>
+      <node ref="R31" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="235" name="Net-(P2-Pad20)">
+      <node ref="P2" pin="20" pinfunction="1R" pintype="passive"/>
+      <node ref="R29" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="236" name="Net-(P2-Pad21)">
+      <node ref="P2" pin="21" pinfunction="1T" pintype="passive"/>
+      <node ref="P47" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="237" name="Net-(R10-Pad2)">
+      <node ref="R10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R47" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="238" name="Net-(R18-Pad2)">
+      <node ref="R18" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R44" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="239" name="Net-(R20-Pad1)">
+      <node ref="R20" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+    </net>
+    <net code="240" name="Net-(R20-Pad2)">
+      <node ref="R20" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R32" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="241" name="Net-(R21-Pad2)">
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="R27" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="242" name="Net-(R24-Pad2)">
+      <node ref="R24" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R27" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R48" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="243" name="unconnected-(J1-Pad4)">
+      <node ref="J1" pin="4" pinfunction="ID" pintype="passive+no_connect"/>
+    </net>
+    <net code="244" name="unconnected-(J1-Pad6)">
+      <node ref="J1" pin="6" pinfunction="Shield" pintype="passive+no_connect"/>
+    </net>
+    <net code="245" name="unconnected-(J4-Pad10)">
+      <node ref="J4" pin="10" pinfunction="Pin_10" pintype="passive+no_connect"/>
+    </net>
+    <net code="246" name="unconnected-(J4-Pad12)">
+      <node ref="J4" pin="12" pinfunction="Pin_12" pintype="passive+no_connect"/>
+    </net>
+    <net code="247" name="unconnected-(J4-Pad13)">
+      <node ref="J4" pin="13" pinfunction="Pin_13" pintype="passive+no_connect"/>
+    </net>
+    <net code="248" name="unconnected-(J4-Pad14)">
+      <node ref="J4" pin="14" pinfunction="Pin_14" pintype="passive+no_connect"/>
+    </net>
+    <net code="249" name="unconnected-(J4-Pad16)">
+      <node ref="J4" pin="16" pinfunction="Pin_16" pintype="passive+no_connect"/>
+    </net>
+    <net code="250" name="unconnected-(J4-Pad18)">
+      <node ref="J4" pin="18" pinfunction="Pin_18" pintype="passive+no_connect"/>
+    </net>
+    <net code="251" name="unconnected-(J8-Pad6)">
+      <node ref="J8" pin="6" pinfunction="Pin_6" pintype="passive+no_connect"/>
+    </net>
+    <net code="252" name="unconnected-(J10-Pad6)">
+      <node ref="J10" pin="6" pinfunction="Pin_6" pintype="passive+no_connect"/>
+    </net>
+    <net code="253" name="unconnected-(J11-Pad1)">
+      <node ref="J11" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
+    </net>
+    <net code="254" name="unconnected-(J12-Pad1)">
+      <node ref="J12" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
+    </net>
+    <net code="255" name="unconnected-(J13-Pad1)">
+      <node ref="J13" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
+    </net>
+    <net code="256" name="unconnected-(J14-Pad1)">
+      <node ref="J14" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
+    </net>
+    <net code="257" name="unconnected-(J15-Pad1)">
+      <node ref="J15" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
+    </net>
+    <net code="258" name="unconnected-(J16-Pad1)">
+      <node ref="J16" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
+    </net>
+    <net code="259" name="unconnected-(J17-Pad1)">
+      <node ref="J17" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
+    </net>
+    <net code="260" name="unconnected-(J18-Pad1)">
+      <node ref="J18" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
+    </net>
+    <net code="261" name="unconnected-(M1-PadE3)">
+      <node ref="M1" pin="E3" pinfunction="WBO_O2S2" pintype="passive+no_connect"/>
+    </net>
+    <net code="262" name="unconnected-(M1-PadE4)">
+      <node ref="M1" pin="E4" pinfunction="WBO_O2S" pintype="passive+no_connect"/>
+    </net>
+    <net code="263" name="unconnected-(M1-PadJ17)">
+      <node ref="M1" pin="J17" pinfunction="PULL_CAM" pintype="passive+no_connect"/>
+    </net>
+    <net code="264" name="unconnected-(M1-PadS14)">
+      <node ref="M1" pin="S14" pinfunction="VREF1" pintype="passive+no_connect"/>
+    </net>
+    <net code="265" name="unconnected-(M3-PadN4)">
+      <node ref="M3" pin="N4" pinfunction="UART1_TX" pintype="passive+no_connect"/>
+    </net>
+    <net code="266" name="unconnected-(M3-PadN5)">
+      <node ref="M3" pin="N5" pinfunction="UART1_RX" pintype="passive+no_connect"/>
+    </net>
+    <net code="267" name="unconnected-(M3-PadN8)">
+      <node ref="M3" pin="N8" pinfunction="SPI3_CS" pintype="passive+no_connect"/>
+    </net>
+    <net code="268" name="unconnected-(M3-PadN9)">
+      <node ref="M3" pin="N9" pinfunction="SPI3_SCK" pintype="passive+no_connect"/>
+    </net>
+    <net code="269" name="unconnected-(M3-PadN10)">
+      <node ref="M3" pin="N10" pinfunction="SPI3_MISO" pintype="passive+no_connect"/>
+    </net>
+    <net code="270" name="unconnected-(M3-PadN11)">
+      <node ref="M3" pin="N11" pinfunction="SPI3_MOSI" pintype="passive+no_connect"/>
+    </net>
+    <net code="271" name="unconnected-(M3-PadN32)">
+      <node ref="M3" pin="N32" pinfunction="USBI1D" pintype="passive+no_connect"/>
+    </net>
+    <net code="272" name="unconnected-(P2-Pad23)">
+      <node ref="P2" pin="23" pinfunction="2A" pintype="passive+no_connect"/>
+    </net>
+    <net code="273" name="unconnected-(P2-Pad27)">
+      <node ref="P2" pin="27" pinfunction="2I" pintype="passive+no_connect"/>
+    </net>
+    <net code="274" name="unconnected-(P2-Pad28)">
+      <node ref="P2" pin="28" pinfunction="2K" pintype="passive+no_connect"/>
+    </net>
+    <net code="275" name="unconnected-(P2-Pad31)">
+      <node ref="P2" pin="31" pinfunction="2B" pintype="passive+no_connect"/>
+    </net>
+    <net code="276" name="unconnected-(P2-Pad35)">
+      <node ref="P2" pin="35" pinfunction="2J" pintype="passive+no_connect"/>
+    </net>
+    <net code="277" name="unconnected-(P2-Pad36)">
+      <node ref="P2" pin="36" pinfunction="2L" pintype="passive+no_connect"/>
+    </net>
+    <net code="278" name="unconnected-(P2-Pad37)">
+      <node ref="P2" pin="37" pinfunction="2N" pintype="passive+no_connect"/>
+    </net>
+    <net code="279" name="unconnected-(R1-Pad6)">
+      <node ref="R1" pin="6" pintype="passive+no_connect"/>
+    </net>
+    <net code="280" name="unconnected-(R1-Pad7)">
+      <node ref="R1" pin="7" pintype="passive+no_connect"/>
+    </net>
+    <net code="281" name="unconnected-(R5-Pad6)">
+      <node ref="R5" pin="6" pintype="passive+no_connect"/>
+    </net>
+    <net code="282" name="unconnected-(R5-Pad7)">
+      <node ref="R5" pin="7" pintype="passive+no_connect"/>
+    </net>
+    <net code="283" name="unconnected-(R16-Pad1)">
+      <node ref="R16" pin="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="284" name="unconnected-(R16-Pad4)">
+      <node ref="R16" pin="4" pintype="passive+no_connect"/>
+    </net>
+    <net code="285" name="unconnected-(R16-Pad5)">
+      <node ref="R16" pin="5" pintype="passive+no_connect"/>
+    </net>
+    <net code="286" name="unconnected-(R16-Pad8)">
+      <node ref="R16" pin="8" pintype="passive+no_connect"/>
+    </net>
+    <net code="287" name="unconnected-(R34-Pad1)">
+      <node ref="R34" pin="1" pinfunction="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="288" name="unconnected-(U1-Pad5)">
+      <node ref="U1" pin="5" pinfunction="INT1" pintype="output+no_connect"/>
+    </net>
+    <net code="289" name="unconnected-(U1-Pad6)">
+      <node ref="U1" pin="6" pinfunction="INT2" pintype="output+no_connect"/>
+    </net>
+    <net code="290" name="unconnected-(U2-Pad4)">
+      <node ref="U2" pin="4" pinfunction="V1" pintype="passive+no_connect"/>
+    </net>
+    <net code="291" name="unconnected-(U2-Pad5)">
+      <node ref="U2" pin="5" pinfunction="V2" pintype="passive+no_connect"/>
+    </net>
+    <net code="292" name="unconnected-(U2-Pad6)">
+      <node ref="U2" pin="6" pinfunction="V_EX" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
