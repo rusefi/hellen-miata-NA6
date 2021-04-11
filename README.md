@@ -1,5 +1,7 @@
 # hellen64_miataNA6_94
 
+https://github.com/rusefi/rusefi/wiki/Hellen64-Miata-NA6-94
+
 https://github.com/andreika-git/hellen-one - https://rusefi.com/forum/viewtopic.php?f=4&t=1913
 
 See https://github.com/rusefi/hellen72 https://rusefi.com/docs/pinouts/hellen/hellen72/
