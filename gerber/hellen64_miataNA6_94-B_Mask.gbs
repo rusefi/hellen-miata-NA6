@@ -1,12 +1,12 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.99.0-10192-g8d0191151d)*
-G04 #@! TF.CreationDate,2021-04-12T21:15:55+03:00*
+G04 #@! TF.CreationDate,2021-04-12T23:10:32+03:00*
 G04 #@! TF.ProjectId,hellen64_miataNA6_94,68656c6c-656e-4363-945f-6d696174614e,R0.4*
 G04 #@! TF.SameCoordinates,PX1406f40PYa852d20*
 G04 #@! TF.FileFunction,Soldermask,Bot*
 G04 #@! TF.FilePolarity,Negative*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.99.0-10192-g8d0191151d)) date 2021-04-12 21:15:55*
+G04 Created by KiCad (PCBNEW (5.99.0-10192-g8d0191151d)) date 2021-04-12 23:10:32*
 %MOMM*%
 %LPD*%
 G01*
@@ -288,8 +288,8 @@ X90500700Y125349180D03*
 X91300700Y127099180D03*
 X92100700Y125349180D03*
 D27*
-X94150700Y126224180D03*
 X86850700Y126224180D03*
+X94150700Y126224180D03*
 G04 #@! TD*
 D13*
 G04 #@! TO.C,J9*
