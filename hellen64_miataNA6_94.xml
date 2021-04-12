@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Work\rusefi\github\hellen64_miataNA6_94\hellen64_miataNA6_94.kicad_sch</source>
-    <date>09.04.2021 20:08:36</date>
+    <date>12.04.2021 21:17:52</date>
     <tool>Eeschema (5.99.0-10192-g8d0191151d)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -25,7 +25,7 @@
   </design>
   <components>
     <comp ref="C1">
-      <value>100nF</value>
+      <value>100n</value>
       <footprint>hellen-one-common:C0603</footprint>
       <fields>
         <field name="LCSC">C14663</field>
@@ -38,7 +38,7 @@
       <tstamps>0430b0de-3d04-43bb-b242-60b3811ae13e</tstamps>
     </comp>
     <comp ref="C2">
-      <value>100nF</value>
+      <value>100n</value>
       <footprint>hellen-one-common:C0603</footprint>
       <fields>
         <field name="LCSC">C14663</field>
@@ -51,7 +51,7 @@
       <tstamps>e47e7c78-59b0-46ac-9242-3c2f486cfa82</tstamps>
     </comp>
     <comp ref="C3">
-      <value>100nF</value>
+      <value>100n</value>
       <footprint>hellen-one-common:C0603</footprint>
       <fields>
         <field name="LCSC">C14663</field>
@@ -64,60 +64,52 @@
       <tstamps>5d857e95-d97f-4578-be38-fa3dad35e792</tstamps>
     </comp>
     <comp ref="D1">
-      <value>LED-COLOR-0805</value>
+      <value>LED-GREEN-0805</value>
       <footprint>hellen-one-common:LED-0805</footprint>
       <fields>
-        <field name="Comment">LED-GREEN-0805</field>
         <field name="LCSC">C2297</field>
       </fields>
       <libsource lib="hellen-one-common" part="LED" description="WHITE LED"/>
       <property name="LCSC" value="C2297"/>
-      <property name="Comment" value="LED-GREEN-0805"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>de2ce4ca-d6bd-4540-915d-0de7f61572ea</tstamps>
     </comp>
     <comp ref="D2">
-      <value>LED-COLOR-0805</value>
+      <value>LED-GREEN-0805</value>
       <footprint>hellen-one-common:LED-0805</footprint>
       <fields>
-        <field name="Comment">LED-GREEN-0805</field>
         <field name="LCSC">C2297</field>
       </fields>
       <libsource lib="hellen-one-common" part="LED" description="WHITE LED"/>
       <property name="LCSC" value="C2297"/>
-      <property name="Comment" value="LED-GREEN-0805"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>426d0b4f-cae4-4ad7-a9b6-4b8226ee7039</tstamps>
     </comp>
     <comp ref="D3">
-      <value>LED_0603</value>
+      <value>LED-BLUE-0603</value>
       <footprint>hellen-one-common:LED-0603</footprint>
       <fields>
-        <field name="Comment">LED-BLUE-0603</field>
         <field name="LCSC">C72041</field>
       </fields>
       <libsource lib="hellen-one-common" part="LED_0603" description=""/>
       <property name="LCSC" value="C72041"/>
-      <property name="Comment" value="LED-BLUE-0603"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>45d8c7f1-b59d-4424-aa7f-470108b5743e</tstamps>
     </comp>
     <comp ref="D4">
-      <value>LED_0603</value>
+      <value>LED-BLUE-0603</value>
       <footprint>hellen-one-common:LED-0603</footprint>
       <fields>
-        <field name="Comment">LED-BLUE-0603</field>
         <field name="LCSC">C72041</field>
       </fields>
       <libsource lib="hellen-one-common" part="LED_0603" description=""/>
       <property name="LCSC" value="C72041"/>
-      <property name="Comment" value="LED-BLUE-0603"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -137,90 +129,78 @@
       <tstamps>005a2ec4-486e-4e75-bf38-c08ed2701508</tstamps>
     </comp>
     <comp ref="D6">
-      <value>LED_0603</value>
+      <value>LED-RED-0603</value>
       <footprint>hellen-one-common:LED-0603</footprint>
       <fields>
-        <field name="Comment">LED-RED-0603</field>
         <field name="LCSC">C2286</field>
       </fields>
       <libsource lib="hellen-one-common" part="LED_0603" description=""/>
       <property name="LCSC" value="C2286"/>
-      <property name="Comment" value="LED-RED-0603"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a97a4ce0-6e9d-405d-9ea9-0c97c858353b</tstamps>
     </comp>
     <comp ref="D7">
-      <value>LED_0603</value>
+      <value>LED-RED-0603</value>
       <footprint>hellen-one-common:LED-0603</footprint>
       <fields>
-        <field name="Comment">LED-RED-0603</field>
         <field name="LCSC">C2286</field>
       </fields>
       <libsource lib="hellen-one-common" part="LED_0603" description=""/>
       <property name="LCSC" value="C2286"/>
-      <property name="Comment" value="LED-RED-0603"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>95a2af8c-453f-422a-b525-b74bab555973</tstamps>
     </comp>
     <comp ref="D8">
-      <value>LED_0603</value>
+      <value>LED-RED-0603</value>
       <footprint>hellen-one-common:LED-0603</footprint>
       <fields>
-        <field name="Comment">LED-RED-0603</field>
         <field name="LCSC">C2286</field>
       </fields>
       <libsource lib="hellen-one-common" part="LED_0603" description=""/>
       <property name="LCSC" value="C2286"/>
-      <property name="Comment" value="LED-RED-0603"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f9e7fe5e-a389-402d-9068-03f420772551</tstamps>
     </comp>
     <comp ref="D9">
-      <value>LED_0603</value>
+      <value>LED-RED-0603</value>
       <footprint>hellen-one-common:LED-0603</footprint>
       <fields>
-        <field name="Comment">LED-RED-0603</field>
         <field name="LCSC">C2286</field>
       </fields>
       <libsource lib="hellen-one-common" part="LED_0603" description=""/>
       <property name="LCSC" value="C2286"/>
-      <property name="Comment" value="LED-RED-0603"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>dda915e0-8197-45c1-ba5e-650f9c98f0b2</tstamps>
     </comp>
     <comp ref="D10">
-      <value>LED_0603</value>
-      <footprint>hellen-one-common:LED-0603</footprint>
-      <fields>
-        <field name="Comment">LED-GREEN-0603</field>
-        <field name="LCSC">C72043</field>
-      </fields>
-      <libsource lib="hellen-one-common" part="LED_0603" description=""/>
-      <property name="LCSC" value="C72043"/>
-      <property name="Comment" value="LED-GREEN-0603"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>d82e063f-36b7-4e6b-b4bf-1b0383a1434d</tstamps>
-    </comp>
-    <comp ref="D11">
-      <value>LED-COLOR-0805</value>
+      <value>LED-GREEN-0805</value>
       <footprint>hellen-one-common:LED-0805</footprint>
       <fields>
-        <field name="Comment">LED-GREEN-0805</field>
         <field name="LCSC">C2297</field>
       </fields>
       <libsource lib="hellen-one-common" part="LED" description="WHITE LED"/>
       <property name="LCSC" value="C2297"/>
-      <property name="Comment" value="LED-GREEN-0805"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f1e04e9-ba09-4c49-824a-d7c38d96f31c</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>LED-GREEN-0805</value>
+      <footprint>hellen-one-common:LED-0805</footprint>
+      <fields>
+        <field name="LCSC">C2297</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="LED" description="WHITE LED"/>
+      <property name="LCSC" value="C2297"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -279,60 +259,52 @@
       <tstamps>b3392e4e-cbf1-4d2d-a62d-25dbd93569cc</tstamps>
     </comp>
     <comp ref="D16">
-      <value>LED_0603</value>
+      <value>LED-WHITE-0603</value>
       <footprint>hellen-one-common:LED-0603</footprint>
       <fields>
-        <field name="Comment">LED-WHITE-0603</field>
         <field name="LCSC">C2290</field>
       </fields>
       <libsource lib="hellen-one-common" part="LED_0603" description=""/>
       <property name="LCSC" value="C2290"/>
-      <property name="Comment" value="LED-WHITE-0603"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>9d9e92a5-5515-48bb-a34e-0276c2576f12</tstamps>
     </comp>
     <comp ref="D17">
-      <value>LED_0603</value>
+      <value>LED-WHITE-0603</value>
       <footprint>hellen-one-common:LED-0603</footprint>
       <fields>
-        <field name="Comment">LED-WHITE-0603</field>
         <field name="LCSC">C2290</field>
       </fields>
       <libsource lib="hellen-one-common" part="LED_0603" description=""/>
       <property name="LCSC" value="C2290"/>
-      <property name="Comment" value="LED-WHITE-0603"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>11422bdb-8a1d-4522-a94c-3bf39be2c507</tstamps>
     </comp>
     <comp ref="D18">
-      <value>LED_0603</value>
+      <value>LED-WHITE-0603</value>
       <footprint>hellen-one-common:LED-0603</footprint>
       <fields>
-        <field name="Comment">LED-WHITE-0603</field>
         <field name="LCSC">C2290</field>
       </fields>
       <libsource lib="hellen-one-common" part="LED_0603" description=""/>
       <property name="LCSC" value="C2290"/>
-      <property name="Comment" value="LED-WHITE-0603"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>278ff8a9-4134-43d8-bb69-c36e67173722</tstamps>
     </comp>
     <comp ref="D19">
-      <value>LED_0603</value>
+      <value>LED-WHITE-0603</value>
       <footprint>hellen-one-common:LED-0603</footprint>
       <fields>
-        <field name="Comment">LED-WHITE-0603</field>
         <field name="LCSC">C2290</field>
       </fields>
       <libsource lib="hellen-one-common" part="LED_0603" description=""/>
       <property name="LCSC" value="C2290"/>
-      <property name="Comment" value="LED-WHITE-0603"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -391,7 +363,7 @@
       <tstamps>7a017f77-e109-4114-8574-a3bca21ebc02</tstamps>
     </comp>
     <comp ref="D24">
-      <value>D_TVS_Array_4</value>
+      <value>SRV05-4-P-T7</value>
       <footprint>hellen-one-common:SOT23-6</footprint>
       <fields>
         <field name="LCSC">C85364</field>
@@ -404,30 +376,26 @@
       <tstamps>44ec3c18-4322-44c0-b9c2-d190992bc10c</tstamps>
     </comp>
     <comp ref="D26">
-      <value>LED_0603</value>
+      <value>LED-WHITE-0603</value>
       <footprint>hellen-one-common:LED-0603</footprint>
       <fields>
-        <field name="Comment">LED-WHITE-0603</field>
         <field name="LCSC">C2290</field>
       </fields>
       <libsource lib="hellen-one-common" part="LED_0603" description=""/>
       <property name="LCSC" value="C2290"/>
-      <property name="Comment" value="LED-WHITE-0603"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f096d8de-e91a-4419-adc0-d9abde139fd8</tstamps>
     </comp>
     <comp ref="D27">
-      <value>LED_0603</value>
+      <value>LED-WHITE-0603</value>
       <footprint>hellen-one-common:LED-0603</footprint>
       <fields>
-        <field name="Comment">LED-WHITE-0603</field>
         <field name="LCSC">C2290</field>
       </fields>
       <libsource lib="hellen-one-common" part="LED_0603" description=""/>
       <property name="LCSC" value="C2290"/>
-      <property name="Comment" value="LED-WHITE-0603"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -485,6 +453,42 @@
       <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>cdd8f5f5-f75b-417b-8555-805ef5c38350</tstamps>
+    </comp>
+    <comp ref="G4">
+      <value>PROTO_AREA</value>
+      <footprint>hellen-one-common:PROTO_AREA</footprint>
+      <libsource lib="hellen-one-common" part="PROTO_AREA" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca7f0f71-254b-457d-a03e-af86362680ba</tstamps>
+    </comp>
+    <comp ref="G5">
+      <value>PROTO_AREA</value>
+      <footprint>hellen-one-common:PROTO_AREA</footprint>
+      <libsource lib="hellen-one-common" part="PROTO_AREA" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38327dcb-7771-4eee-bcdd-3287e7601ae1</tstamps>
+    </comp>
+    <comp ref="G6">
+      <value>PROTO_AREA</value>
+      <footprint>hellen-one-common:PROTO_AREA</footprint>
+      <libsource lib="hellen-one-common" part="PROTO_AREA" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bac1677b-ab2a-4a72-aa08-8fb098bbb804</tstamps>
+    </comp>
+    <comp ref="G7">
+      <value>PROTO_AREA</value>
+      <footprint>hellen-one-common:PROTO_AREA</footprint>
+      <libsource lib="hellen-one-common" part="PROTO_AREA" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b7d36b44-1b06-43e7-b718-709881397026</tstamps>
     </comp>
     <comp ref="J1">
       <value>USB_B_Mini</value>
@@ -670,6 +674,46 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>297cb064-b85c-4512-9bd4-e6a9315f74ca</tstamps>
     </comp>
+    <comp ref="J19">
+      <value>Conn_01x01</value>
+      <footprint>TestPoint:TestPoint_Pad_D2.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c69e9f7-b55c-4581-a735-a2fe0d5311f2</tstamps>
+    </comp>
+    <comp ref="J20">
+      <value>Conn_01x01</value>
+      <footprint>TestPoint:TestPoint_Pad_D2.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>86aa08ec-ac22-4b4f-978a-f0dfa4efbeed</tstamps>
+    </comp>
+    <comp ref="J21">
+      <value>Conn_01x01</value>
+      <footprint>TestPoint:TestPoint_Pad_D2.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64b5829f-77fe-4119-bf06-5fc7496939a7</tstamps>
+    </comp>
+    <comp ref="J22">
+      <value>Conn_01x01</value>
+      <footprint>TestPoint:TestPoint_Pad_D2.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54b9d574-7a50-4fc6-aee0-f23a99c25de5</tstamps>
+    </comp>
     <comp ref="M1">
       <value>Module-input-0.1</value>
       <footprint>hellen-one-input-0.1:input</footprint>
@@ -695,7 +739,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>b97f6d8b-ab00-4f6e-923f-1a10aadc2e78c3f3a610-1e4e-437f-9a01-66c9af7d2af4ec9edfab-e667-437a-b9cf-45eac676962ab6169874-3754-4d71-849b-a9e1d0cd948c</tstamps>
+      <tstamps>c3f3a610-1e4e-437f-9a01-66c9af7d2af4b97f6d8b-ab00-4f6e-923f-1a10aadc2e78ec9edfab-e667-437a-b9cf-45eac676962ab6169874-3754-4d71-849b-a9e1d0cd948c</tstamps>
     </comp>
     <comp ref="M4">
       <value>Module-sd-0.1</value>
@@ -796,7 +840,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>795890df-a6bd-4dfa-9f2a-3a4a16e2521dc0df41d0-9820-47d3-a152-f0ffc6d8b5601b56c00b-60da-490b-b4d1-bf16e46a6558</tstamps>
+      <tstamps>c0df41d0-9820-47d3-a152-f0ffc6d8b560795890df-a6bd-4dfa-9f2a-3a4a16e2521d1b56c00b-60da-490b-b4d1-bf16e46a6558</tstamps>
     </comp>
     <comp ref="P22">
       <value>Pad</value>
@@ -979,135 +1023,117 @@
       <tstamps>aaaef47a-227e-400c-ba1f-2493900eacc7</tstamps>
     </comp>
     <comp ref="R1">
-      <value>Res_Array_4</value>
+      <value>470</value>
       <footprint>hellen-one-common:R0603-4</footprint>
       <fields>
-        <field name="Comment">470</field>
         <field name="LCSC">C25510</field>
       </fields>
       <libsource lib="hellen-one-common" part="Res_Array_4" description="Resistor"/>
       <property name="LCSC" value="C25510"/>
-      <property name="Comment" value="470"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0600dd87-6f7f-46de-80ee-f42da1aa3147</tstamps>
     </comp>
     <comp ref="R2">
-      <value>Res_Array_4</value>
+      <value>470</value>
       <footprint>hellen-one-common:R0603-4</footprint>
       <fields>
-        <field name="Comment">470</field>
         <field name="LCSC">C25510</field>
       </fields>
       <libsource lib="hellen-one-common" part="Res_Array_4" description="Resistor"/>
       <property name="LCSC" value="C25510"/>
-      <property name="Comment" value="470"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>99affe89-7566-4260-88eb-ae5b701b53d7</tstamps>
     </comp>
     <comp ref="R3">
-      <value>Res</value>
+      <value>4.7k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
-        <field name="Comment">4.7k</field>
         <field name="LCSC">C23162</field>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23162"/>
-      <property name="Comment" value="4.7k"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4e2da074-66e5-4ba8-834b-f9e3ed1d166a</tstamps>
     </comp>
     <comp ref="R4">
-      <value>Res</value>
+      <value>1k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
-        <field name="Comment">1k</field>
         <field name="LCSC">C21190</field>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C21190"/>
-      <property name="Comment" value="1k"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>df784fdb-fb2c-4fd0-bb21-48d95d4841df</tstamps>
     </comp>
     <comp ref="R5">
-      <value>Res_Array_4</value>
+      <value>4.7k</value>
       <footprint>hellen-one-common:R0603-4</footprint>
       <fields>
-        <field name="Comment">4.7k</field>
         <field name="LCSC">C1980</field>
       </fields>
       <libsource lib="hellen-one-common" part="Res_Array_4" description="Resistor"/>
       <property name="LCSC" value="C1980"/>
-      <property name="Comment" value="4.7k"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d1fb63b6-3849-4516-8dd5-4c05294e9e3c</tstamps>
     </comp>
     <comp ref="R6">
-      <value>Res_Array_4</value>
+      <value>4.7k</value>
       <footprint>hellen-one-common:R0603-4</footprint>
       <fields>
-        <field name="Comment">4.7k</field>
         <field name="LCSC">C1980</field>
       </fields>
       <libsource lib="hellen-one-common" part="Res_Array_4" description="Resistor"/>
       <property name="LCSC" value="C1980"/>
-      <property name="Comment" value="4.7k"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>9f14f47e-b778-4a91-b1fc-1af37d1963ea</tstamps>
     </comp>
     <comp ref="R7">
-      <value>Res_Array_4</value>
+      <value>4.7k</value>
       <footprint>hellen-one-common:R0603-4</footprint>
       <fields>
-        <field name="Comment">4.7k</field>
         <field name="LCSC">C1980</field>
       </fields>
       <libsource lib="hellen-one-common" part="Res_Array_4" description="Resistor"/>
       <property name="LCSC" value="C1980"/>
-      <property name="Comment" value="4.7k"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>748616ae-58a7-48a4-bf40-2ce97386df41</tstamps>
     </comp>
     <comp ref="R8">
-      <value>Res_Array_4</value>
+      <value>10k</value>
       <footprint>hellen-one-common:R0603-4</footprint>
       <fields>
-        <field name="Comment">10k</field>
         <field name="LCSC">C29718</field>
       </fields>
       <libsource lib="hellen-one-common" part="Res_Array_4" description="Resistor"/>
       <property name="LCSC" value="C29718"/>
-      <property name="Comment" value="10k"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>fdd1632e-5936-4ab6-a665-02b90ae21695</tstamps>
     </comp>
     <comp ref="R9">
-      <value>Res_Array_4</value>
+      <value>680k</value>
       <footprint>hellen-one-common:R0603-4</footprint>
       <fields>
-        <field name="Comment">680k</field>
         <field name="LCSC">C145776</field>
       </fields>
       <libsource lib="hellen-one-common" part="Res_Array_4" description="Resistor"/>
       <property name="LCSC" value="C145776"/>
-      <property name="Comment" value="680k"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1153,45 +1179,39 @@
       <tstamps>7c57a5fa-3bb1-40e8-bb0d-27ce4d41695f</tstamps>
     </comp>
     <comp ref="R14">
-      <value>Res</value>
+      <value>0</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
-        <field name="Comment">0</field>
         <field name="LCSC">C21189</field>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C21189"/>
-      <property name="Comment" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>323e46b3-b8f1-4ea8-bb6b-c8441098e3fa</tstamps>
     </comp>
     <comp ref="R15">
-      <value>Res</value>
+      <value>0</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
-        <field name="Comment">0</field>
         <field name="LCSC">C21189</field>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C21189"/>
-      <property name="Comment" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>466d0dfd-4435-4623-ae14-1f4329cc69e0</tstamps>
     </comp>
     <comp ref="R16">
-      <value>Res_Array_4</value>
+      <value>470</value>
       <footprint>hellen-one-common:R0603-4</footprint>
       <fields>
-        <field name="Comment">470</field>
         <field name="LCSC">C25510</field>
       </fields>
       <libsource lib="hellen-one-common" part="Res_Array_4" description="Resistor"/>
       <property name="LCSC" value="C25510"/>
-      <property name="Comment" value="470"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1250,45 +1270,39 @@
       <tstamps>47a2b4f2-552a-492d-a820-2d2d74ef3f36</tstamps>
     </comp>
     <comp ref="R21">
-      <value>Res</value>
+      <value>1k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
-        <field name="Comment">1k</field>
         <field name="LCSC">C21190</field>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C21190"/>
-      <property name="Comment" value="1k"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d41c3d6f-0ee5-42a6-8495-84471b976697</tstamps>
     </comp>
     <comp ref="R22">
-      <value>Res</value>
+      <value>10k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
-        <field name="Comment">10k</field>
         <field name="LCSC">C25804</field>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C25804"/>
-      <property name="Comment" value="10k"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>472b8b94-9d69-4181-bab2-5e85c9031d3c</tstamps>
     </comp>
     <comp ref="R23">
-      <value>Res</value>
+      <value>10k</value>
       <footprint>hellen-one-common:R0603</footprint>
       <fields>
-        <field name="Comment">10k</field>
         <field name="LCSC">C25804</field>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C25804"/>
-      <property name="Comment" value="10k"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen64_miataNA6_94.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -2052,6 +2066,30 @@
         <field name="Footprint">hellen-one-common:LOGO</field>
       </fields>
     </libpart>
+    <libpart lib="hellen-one-common" part="PROTO_AREA">
+      <fields>
+        <field name="Reference">G</field>
+        <field name="Value">PROTO_AREA</field>
+        <field name="Footprint">hellen-one-common:PROTO_AREA</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="7" name="" type="passive"/>
+        <pin num="8" name="" type="passive"/>
+        <pin num="9" name="" type="passive"/>
+        <pin num="10" name="" type="passive"/>
+        <pin num="11" name="" type="passive"/>
+        <pin num="12" name="" type="passive"/>
+        <pin num="13" name="" type="passive"/>
+        <pin num="14" name="" type="passive"/>
+        <pin num="15" name="" type="passive"/>
+      </pins>
+    </libpart>
     <libpart lib="hellen-one-common" part="Pad">
       <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
       <docs>~</docs>
@@ -2601,6 +2639,7 @@
     <net code="1" name="+3V3">
       <node ref="C3" pin="2" pintype="passive"/>
       <node ref="D2" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="J21" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J4" pin="19" pinfunction="Pin_19" pintype="passive"/>
       <node ref="M3" pin="N16" pinfunction="V33" pintype="passive"/>
@@ -2617,6 +2656,7 @@
     <net code="3" name="+5V">
       <node ref="D1" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="D24" pin="5" pintype="passive"/>
+      <node ref="J20" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J4" pin="21" pinfunction="Pin_21" pintype="passive"/>
       <node ref="J4" pin="22" pinfunction="Pin_22" pintype="passive"/>
       <node ref="M1" pin="E2" pinfunction="V5" pintype="passive"/>
@@ -2665,6 +2705,7 @@
       <node ref="M3" pin="W9" pinfunction="IGN_V5" pintype="passive"/>
     </net>
     <net code="6" name="+12V">
+      <node ref="J19" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J4" pin="20" pinfunction="Pin_20" pintype="passive"/>
       <node ref="M10" pin="V1" pinfunction="V12" pintype="passive"/>
       <node ref="M11" pin="V1" pinfunction="V12" pintype="passive"/>
@@ -2759,59 +2800,59 @@
       <node ref="P2" pin="22" pinfunction="1V" pintype="passive"/>
       <node ref="R28" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="27" name="/2F">
+    <net code="27" name="/3F">
       <node ref="P2" pin="54" pinfunction="3F" pintype="passive"/>
       <node ref="R49" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="28" name="/2H">
+    <net code="28" name="/3H">
       <node ref="P2" pin="55" pinfunction="3H" pintype="passive"/>
       <node ref="P56" pin="1" pinfunction="Pin_1" pintype="passive"/>
     </net>
-    <net code="29" name="/2I">
+    <net code="29" name="/3I">
       <node ref="P2" pin="43" pinfunction="3I" pintype="passive"/>
       <node ref="R48" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="30" name="/2J">
+    <net code="30" name="/3J">
       <node ref="P2" pin="56" pinfunction="3J" pintype="passive"/>
       <node ref="P55" pin="1" pinfunction="Pin_1" pintype="passive"/>
     </net>
-    <net code="31" name="/2L">
+    <net code="31" name="/3L">
       <node ref="P2" pin="57" pinfunction="3L" pintype="passive"/>
       <node ref="P54" pin="1" pinfunction="Pin_1" pintype="passive"/>
     </net>
-    <net code="32" name="/2M">
+    <net code="32" name="/3M">
       <node ref="P2" pin="45" pinfunction="3M" pintype="passive"/>
       <node ref="R47" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="33" name="/2N">
+    <net code="33" name="/3N">
       <node ref="P2" pin="58" pinfunction="3N" pintype="passive"/>
       <node ref="R46" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="34" name="/2O">
+    <net code="34" name="/3O">
       <node ref="P2" pin="46" pinfunction="3O" pintype="passive"/>
       <node ref="R45" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="35" name="/2R">
+    <net code="35" name="/3R">
       <node ref="P2" pin="60" pinfunction="3R" pintype="passive"/>
       <node ref="P53" pin="1" pinfunction="Pin_1" pintype="passive"/>
     </net>
-    <net code="36" name="/2S">
+    <net code="36" name="/3S">
       <node ref="P2" pin="48" pinfunction="3S" pintype="passive"/>
       <node ref="R44" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="37" name="/2T">
+    <net code="37" name="/3T">
       <node ref="P2" pin="61" pinfunction="3T" pintype="passive"/>
       <node ref="R43" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="38" name="/2X">
+    <net code="38" name="/3X">
       <node ref="P2" pin="63" pinfunction="3X" pintype="passive"/>
       <node ref="P52" pin="1" pinfunction="Pin_1" pintype="passive"/>
     </net>
-    <net code="39" name="/2Y">
+    <net code="39" name="/3Y">
       <node ref="P2" pin="51" pinfunction="3Y" pintype="passive"/>
       <node ref="R26" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="40" name="/2Z">
+    <net code="40" name="/3Z">
       <node ref="P2" pin="64" pinfunction="3Z" pintype="passive"/>
       <node ref="R25" pin="2" pinfunction="2" pintype="passive"/>
     </net>
@@ -3537,6 +3578,7 @@
       <node ref="J1" pin="5" pinfunction="GND" pintype="power_out"/>
       <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J22" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J3" pin="6" pinfunction="Pin_6" pintype="passive"/>
       <node ref="J4" pin="23" pinfunction="Pin_23" pintype="passive"/>
       <node ref="J4" pin="24" pinfunction="Pin_24" pintype="passive"/>
@@ -3683,231 +3725,331 @@
       <node ref="D30" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="R15" pin="2" pintype="passive"/>
     </net>
-    <net code="224" name="Net-(M3-PadE4)">
+    <net code="224" name="Net-(G4-Pad1)">
+      <node ref="G4" pin="1" pintype="passive"/>
+      <node ref="G4" pin="11" pintype="passive"/>
+      <node ref="G4" pin="6" pintype="passive"/>
+    </net>
+    <net code="225" name="Net-(G4-Pad10)">
+      <node ref="G4" pin="10" pintype="passive"/>
+      <node ref="G4" pin="15" pintype="passive"/>
+      <node ref="G4" pin="5" pintype="passive"/>
+    </net>
+    <net code="226" name="Net-(G4-Pad12)">
+      <node ref="G4" pin="12" pintype="passive"/>
+      <node ref="G4" pin="2" pintype="passive"/>
+      <node ref="G4" pin="7" pintype="passive"/>
+    </net>
+    <net code="227" name="Net-(G4-Pad13)">
+      <node ref="G4" pin="13" pintype="passive"/>
+      <node ref="G4" pin="3" pintype="passive"/>
+      <node ref="G4" pin="8" pintype="passive"/>
+    </net>
+    <net code="228" name="Net-(G4-Pad14)">
+      <node ref="G4" pin="14" pintype="passive"/>
+      <node ref="G4" pin="4" pintype="passive"/>
+      <node ref="G4" pin="9" pintype="passive"/>
+    </net>
+    <net code="229" name="Net-(G5-Pad1)">
+      <node ref="G5" pin="1" pintype="passive"/>
+      <node ref="G5" pin="11" pintype="passive"/>
+      <node ref="G5" pin="6" pintype="passive"/>
+    </net>
+    <net code="230" name="Net-(G5-Pad10)">
+      <node ref="G5" pin="10" pintype="passive"/>
+      <node ref="G5" pin="15" pintype="passive"/>
+      <node ref="G5" pin="5" pintype="passive"/>
+    </net>
+    <net code="231" name="Net-(G5-Pad12)">
+      <node ref="G5" pin="12" pintype="passive"/>
+      <node ref="G5" pin="2" pintype="passive"/>
+      <node ref="G5" pin="7" pintype="passive"/>
+    </net>
+    <net code="232" name="Net-(G5-Pad13)">
+      <node ref="G5" pin="13" pintype="passive"/>
+      <node ref="G5" pin="3" pintype="passive"/>
+      <node ref="G5" pin="8" pintype="passive"/>
+    </net>
+    <net code="233" name="Net-(G5-Pad14)">
+      <node ref="G5" pin="14" pintype="passive"/>
+      <node ref="G5" pin="4" pintype="passive"/>
+      <node ref="G5" pin="9" pintype="passive"/>
+    </net>
+    <net code="234" name="Net-(G6-Pad1)">
+      <node ref="G6" pin="1" pintype="passive"/>
+      <node ref="G6" pin="11" pintype="passive"/>
+      <node ref="G6" pin="6" pintype="passive"/>
+    </net>
+    <net code="235" name="Net-(G6-Pad10)">
+      <node ref="G6" pin="10" pintype="passive"/>
+      <node ref="G6" pin="15" pintype="passive"/>
+      <node ref="G6" pin="5" pintype="passive"/>
+    </net>
+    <net code="236" name="Net-(G6-Pad12)">
+      <node ref="G6" pin="12" pintype="passive"/>
+      <node ref="G6" pin="2" pintype="passive"/>
+      <node ref="G6" pin="7" pintype="passive"/>
+    </net>
+    <net code="237" name="Net-(G6-Pad13)">
+      <node ref="G6" pin="13" pintype="passive"/>
+      <node ref="G6" pin="3" pintype="passive"/>
+      <node ref="G6" pin="8" pintype="passive"/>
+    </net>
+    <net code="238" name="Net-(G6-Pad14)">
+      <node ref="G6" pin="14" pintype="passive"/>
+      <node ref="G6" pin="4" pintype="passive"/>
+      <node ref="G6" pin="9" pintype="passive"/>
+    </net>
+    <net code="239" name="Net-(G7-Pad1)">
+      <node ref="G7" pin="1" pintype="passive"/>
+      <node ref="G7" pin="11" pintype="passive"/>
+      <node ref="G7" pin="6" pintype="passive"/>
+    </net>
+    <net code="240" name="Net-(G7-Pad10)">
+      <node ref="G7" pin="10" pintype="passive"/>
+      <node ref="G7" pin="15" pintype="passive"/>
+      <node ref="G7" pin="5" pintype="passive"/>
+    </net>
+    <net code="241" name="Net-(G7-Pad12)">
+      <node ref="G7" pin="12" pintype="passive"/>
+      <node ref="G7" pin="2" pintype="passive"/>
+      <node ref="G7" pin="7" pintype="passive"/>
+    </net>
+    <net code="242" name="Net-(G7-Pad13)">
+      <node ref="G7" pin="13" pintype="passive"/>
+      <node ref="G7" pin="3" pintype="passive"/>
+      <node ref="G7" pin="8" pintype="passive"/>
+    </net>
+    <net code="243" name="Net-(G7-Pad14)">
+      <node ref="G7" pin="14" pintype="passive"/>
+      <node ref="G7" pin="4" pintype="passive"/>
+      <node ref="G7" pin="9" pintype="passive"/>
+    </net>
+    <net code="244" name="Net-(M3-PadE4)">
       <node ref="M3" pin="E4" pinfunction="SPI1_CS1" pintype="passive"/>
       <node ref="U1" pin="10" pinfunction="~CS~/SENB" pintype="input"/>
     </net>
-    <net code="225" name="Net-(M3-PadN25)">
+    <net code="245" name="Net-(M3-PadN25)">
       <node ref="M3" pin="N25" pinfunction="SWCLK" pintype="passive"/>
       <node ref="M7" pin="N5" pinfunction="SWCLK" pintype="passive"/>
     </net>
-    <net code="226" name="Net-(M3-PadN26)">
+    <net code="246" name="Net-(M3-PadN26)">
       <node ref="M3" pin="N26" pinfunction="SWDIO" pintype="passive"/>
       <node ref="M7" pin="N4" pinfunction="SWDIO" pintype="passive"/>
     </net>
-    <net code="227" name="Net-(M3-PadN27)">
+    <net code="247" name="Net-(M3-PadN27)">
       <node ref="M3" pin="N27" pinfunction="SWO" pintype="passive"/>
       <node ref="M7" pin="N3" pinfunction="SWO" pintype="passive"/>
     </net>
-    <net code="228" name="Net-(M12-PadW2)">
+    <net code="248" name="Net-(M12-PadW2)">
       <node ref="M12" pin="W2" pinfunction="CAN_VIO" pintype="passive"/>
       <node ref="M8" pin="V2" pinfunction="CAN_VIO" pintype="passive"/>
     </net>
-    <net code="229" name="Net-(M12-PadW3)">
+    <net code="249" name="Net-(M12-PadW3)">
       <node ref="M12" pin="W3" pinfunction="CAN_RX" pintype="passive"/>
       <node ref="M8" pin="V6" pinfunction="CAN_RX" pintype="passive"/>
     </net>
-    <net code="230" name="Net-(M12-PadW4)">
+    <net code="250" name="Net-(M12-PadW4)">
       <node ref="M12" pin="W4" pinfunction="CAN_TX" pintype="passive"/>
       <node ref="M8" pin="V5" pinfunction="CAN_TX" pintype="passive"/>
     </net>
-    <net code="231" name="Net-(P2-Pad5)">
+    <net code="251" name="Net-(P2-Pad5)">
       <node ref="P2" pin="5" pinfunction="1I" pintype="passive"/>
       <node ref="P51" pin="1" pinfunction="Pin_1" pintype="passive"/>
     </net>
-    <net code="232" name="Net-(P2-Pad6)">
+    <net code="252" name="Net-(P2-Pad6)">
       <node ref="P2" pin="6" pinfunction="1K" pintype="passive"/>
       <node ref="R34" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="233" name="Net-(P2-Pad10)">
+    <net code="253" name="Net-(P2-Pad10)">
       <node ref="P2" pin="10" pinfunction="1S" pintype="passive"/>
       <node ref="P48" pin="1" pinfunction="Pin_1" pintype="passive"/>
     </net>
-    <net code="234" name="Net-(P2-Pad18)">
+    <net code="254" name="Net-(P2-Pad18)">
       <node ref="P2" pin="18" pinfunction="1N" pintype="passive"/>
       <node ref="R31" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="235" name="Net-(P2-Pad20)">
+    <net code="255" name="Net-(P2-Pad20)">
       <node ref="P2" pin="20" pinfunction="1R" pintype="passive"/>
       <node ref="R29" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="236" name="Net-(P2-Pad21)">
+    <net code="256" name="Net-(P2-Pad21)">
       <node ref="P2" pin="21" pinfunction="1T" pintype="passive"/>
       <node ref="P47" pin="1" pinfunction="Pin_1" pintype="passive"/>
     </net>
-    <net code="237" name="Net-(R10-Pad2)">
+    <net code="257" name="Net-(R10-Pad2)">
       <node ref="R10" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="R47" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="238" name="Net-(R18-Pad2)">
+    <net code="258" name="Net-(R18-Pad2)">
       <node ref="R18" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="R44" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="239" name="Net-(R20-Pad1)">
+    <net code="259" name="Net-(R20-Pad1)">
       <node ref="R20" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="R23" pin="2" pintype="passive"/>
     </net>
-    <net code="240" name="Net-(R20-Pad2)">
+    <net code="260" name="Net-(R20-Pad2)">
       <node ref="R20" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="R32" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="241" name="Net-(R21-Pad2)">
+    <net code="261" name="Net-(R21-Pad2)">
       <node ref="R21" pin="2" pintype="passive"/>
       <node ref="R27" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="242" name="Net-(R24-Pad2)">
+    <net code="262" name="Net-(R24-Pad2)">
       <node ref="R24" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="R27" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="R48" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="243" name="unconnected-(J1-Pad4)">
+    <net code="263" name="unconnected-(J1-Pad4)">
       <node ref="J1" pin="4" pinfunction="ID" pintype="passive+no_connect"/>
     </net>
-    <net code="244" name="unconnected-(J1-Pad6)">
+    <net code="264" name="unconnected-(J1-Pad6)">
       <node ref="J1" pin="6" pinfunction="Shield" pintype="passive+no_connect"/>
     </net>
-    <net code="245" name="unconnected-(J4-Pad10)">
+    <net code="265" name="unconnected-(J4-Pad10)">
       <node ref="J4" pin="10" pinfunction="Pin_10" pintype="passive+no_connect"/>
     </net>
-    <net code="246" name="unconnected-(J4-Pad12)">
+    <net code="266" name="unconnected-(J4-Pad12)">
       <node ref="J4" pin="12" pinfunction="Pin_12" pintype="passive+no_connect"/>
     </net>
-    <net code="247" name="unconnected-(J4-Pad13)">
+    <net code="267" name="unconnected-(J4-Pad13)">
       <node ref="J4" pin="13" pinfunction="Pin_13" pintype="passive+no_connect"/>
     </net>
-    <net code="248" name="unconnected-(J4-Pad14)">
+    <net code="268" name="unconnected-(J4-Pad14)">
       <node ref="J4" pin="14" pinfunction="Pin_14" pintype="passive+no_connect"/>
     </net>
-    <net code="249" name="unconnected-(J4-Pad16)">
+    <net code="269" name="unconnected-(J4-Pad16)">
       <node ref="J4" pin="16" pinfunction="Pin_16" pintype="passive+no_connect"/>
     </net>
-    <net code="250" name="unconnected-(J4-Pad18)">
+    <net code="270" name="unconnected-(J4-Pad18)">
       <node ref="J4" pin="18" pinfunction="Pin_18" pintype="passive+no_connect"/>
     </net>
-    <net code="251" name="unconnected-(J8-Pad6)">
+    <net code="271" name="unconnected-(J8-Pad6)">
       <node ref="J8" pin="6" pinfunction="Pin_6" pintype="passive+no_connect"/>
     </net>
-    <net code="252" name="unconnected-(J10-Pad6)">
+    <net code="272" name="unconnected-(J10-Pad6)">
       <node ref="J10" pin="6" pinfunction="Pin_6" pintype="passive+no_connect"/>
     </net>
-    <net code="253" name="unconnected-(J11-Pad1)">
+    <net code="273" name="unconnected-(J11-Pad1)">
       <node ref="J11" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
     </net>
-    <net code="254" name="unconnected-(J12-Pad1)">
+    <net code="274" name="unconnected-(J12-Pad1)">
       <node ref="J12" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
     </net>
-    <net code="255" name="unconnected-(J13-Pad1)">
+    <net code="275" name="unconnected-(J13-Pad1)">
       <node ref="J13" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
     </net>
-    <net code="256" name="unconnected-(J14-Pad1)">
+    <net code="276" name="unconnected-(J14-Pad1)">
       <node ref="J14" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
     </net>
-    <net code="257" name="unconnected-(J15-Pad1)">
+    <net code="277" name="unconnected-(J15-Pad1)">
       <node ref="J15" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
     </net>
-    <net code="258" name="unconnected-(J16-Pad1)">
+    <net code="278" name="unconnected-(J16-Pad1)">
       <node ref="J16" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
     </net>
-    <net code="259" name="unconnected-(J17-Pad1)">
+    <net code="279" name="unconnected-(J17-Pad1)">
       <node ref="J17" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
     </net>
-    <net code="260" name="unconnected-(J18-Pad1)">
+    <net code="280" name="unconnected-(J18-Pad1)">
       <node ref="J18" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
     </net>
-    <net code="261" name="unconnected-(M1-PadE3)">
+    <net code="281" name="unconnected-(M1-PadE3)">
       <node ref="M1" pin="E3" pinfunction="WBO_O2S2" pintype="passive+no_connect"/>
     </net>
-    <net code="262" name="unconnected-(M1-PadE4)">
+    <net code="282" name="unconnected-(M1-PadE4)">
       <node ref="M1" pin="E4" pinfunction="WBO_O2S" pintype="passive+no_connect"/>
     </net>
-    <net code="263" name="unconnected-(M1-PadJ17)">
+    <net code="283" name="unconnected-(M1-PadJ17)">
       <node ref="M1" pin="J17" pinfunction="PULL_CAM" pintype="passive+no_connect"/>
     </net>
-    <net code="264" name="unconnected-(M1-PadS14)">
+    <net code="284" name="unconnected-(M1-PadS14)">
       <node ref="M1" pin="S14" pinfunction="VREF1" pintype="passive+no_connect"/>
     </net>
-    <net code="265" name="unconnected-(M3-PadN4)">
+    <net code="285" name="unconnected-(M3-PadN4)">
       <node ref="M3" pin="N4" pinfunction="UART1_TX" pintype="passive+no_connect"/>
     </net>
-    <net code="266" name="unconnected-(M3-PadN5)">
+    <net code="286" name="unconnected-(M3-PadN5)">
       <node ref="M3" pin="N5" pinfunction="UART1_RX" pintype="passive+no_connect"/>
     </net>
-    <net code="267" name="unconnected-(M3-PadN8)">
+    <net code="287" name="unconnected-(M3-PadN8)">
       <node ref="M3" pin="N8" pinfunction="SPI3_CS" pintype="passive+no_connect"/>
     </net>
-    <net code="268" name="unconnected-(M3-PadN9)">
+    <net code="288" name="unconnected-(M3-PadN9)">
       <node ref="M3" pin="N9" pinfunction="SPI3_SCK" pintype="passive+no_connect"/>
     </net>
-    <net code="269" name="unconnected-(M3-PadN10)">
+    <net code="289" name="unconnected-(M3-PadN10)">
       <node ref="M3" pin="N10" pinfunction="SPI3_MISO" pintype="passive+no_connect"/>
     </net>
-    <net code="270" name="unconnected-(M3-PadN11)">
+    <net code="290" name="unconnected-(M3-PadN11)">
       <node ref="M3" pin="N11" pinfunction="SPI3_MOSI" pintype="passive+no_connect"/>
     </net>
-    <net code="271" name="unconnected-(M3-PadN32)">
+    <net code="291" name="unconnected-(M3-PadN32)">
       <node ref="M3" pin="N32" pinfunction="USBI1D" pintype="passive+no_connect"/>
     </net>
-    <net code="272" name="unconnected-(P2-Pad23)">
+    <net code="292" name="unconnected-(P2-Pad23)">
       <node ref="P2" pin="23" pinfunction="2A" pintype="passive+no_connect"/>
     </net>
-    <net code="273" name="unconnected-(P2-Pad27)">
+    <net code="293" name="unconnected-(P2-Pad27)">
       <node ref="P2" pin="27" pinfunction="2I" pintype="passive+no_connect"/>
     </net>
-    <net code="274" name="unconnected-(P2-Pad28)">
+    <net code="294" name="unconnected-(P2-Pad28)">
       <node ref="P2" pin="28" pinfunction="2K" pintype="passive+no_connect"/>
     </net>
-    <net code="275" name="unconnected-(P2-Pad31)">
+    <net code="295" name="unconnected-(P2-Pad31)">
       <node ref="P2" pin="31" pinfunction="2B" pintype="passive+no_connect"/>
     </net>
-    <net code="276" name="unconnected-(P2-Pad35)">
+    <net code="296" name="unconnected-(P2-Pad35)">
       <node ref="P2" pin="35" pinfunction="2J" pintype="passive+no_connect"/>
     </net>
-    <net code="277" name="unconnected-(P2-Pad36)">
+    <net code="297" name="unconnected-(P2-Pad36)">
       <node ref="P2" pin="36" pinfunction="2L" pintype="passive+no_connect"/>
     </net>
-    <net code="278" name="unconnected-(P2-Pad37)">
+    <net code="298" name="unconnected-(P2-Pad37)">
       <node ref="P2" pin="37" pinfunction="2N" pintype="passive+no_connect"/>
     </net>
-    <net code="279" name="unconnected-(R1-Pad6)">
+    <net code="299" name="unconnected-(R1-Pad6)">
       <node ref="R1" pin="6" pintype="passive+no_connect"/>
     </net>
-    <net code="280" name="unconnected-(R1-Pad7)">
+    <net code="300" name="unconnected-(R1-Pad7)">
       <node ref="R1" pin="7" pintype="passive+no_connect"/>
     </net>
-    <net code="281" name="unconnected-(R5-Pad6)">
+    <net code="301" name="unconnected-(R5-Pad6)">
       <node ref="R5" pin="6" pintype="passive+no_connect"/>
     </net>
-    <net code="282" name="unconnected-(R5-Pad7)">
+    <net code="302" name="unconnected-(R5-Pad7)">
       <node ref="R5" pin="7" pintype="passive+no_connect"/>
     </net>
-    <net code="283" name="unconnected-(R16-Pad1)">
+    <net code="303" name="unconnected-(R16-Pad1)">
       <node ref="R16" pin="1" pintype="passive+no_connect"/>
     </net>
-    <net code="284" name="unconnected-(R16-Pad4)">
+    <net code="304" name="unconnected-(R16-Pad4)">
       <node ref="R16" pin="4" pintype="passive+no_connect"/>
     </net>
-    <net code="285" name="unconnected-(R16-Pad5)">
+    <net code="305" name="unconnected-(R16-Pad5)">
       <node ref="R16" pin="5" pintype="passive+no_connect"/>
     </net>
-    <net code="286" name="unconnected-(R16-Pad8)">
+    <net code="306" name="unconnected-(R16-Pad8)">
       <node ref="R16" pin="8" pintype="passive+no_connect"/>
     </net>
-    <net code="287" name="unconnected-(R34-Pad1)">
+    <net code="307" name="unconnected-(R34-Pad1)">
       <node ref="R34" pin="1" pinfunction="1" pintype="passive+no_connect"/>
     </net>
-    <net code="288" name="unconnected-(U1-Pad5)">
+    <net code="308" name="unconnected-(U1-Pad5)">
       <node ref="U1" pin="5" pinfunction="INT1" pintype="output+no_connect"/>
     </net>
-    <net code="289" name="unconnected-(U1-Pad6)">
+    <net code="309" name="unconnected-(U1-Pad6)">
       <node ref="U1" pin="6" pinfunction="INT2" pintype="output+no_connect"/>
     </net>
-    <net code="290" name="unconnected-(U2-Pad4)">
+    <net code="310" name="unconnected-(U2-Pad4)">
       <node ref="U2" pin="4" pinfunction="V1" pintype="passive+no_connect"/>
     </net>
-    <net code="291" name="unconnected-(U2-Pad5)">
+    <net code="311" name="unconnected-(U2-Pad5)">
       <node ref="U2" pin="5" pinfunction="V2" pintype="passive+no_connect"/>
     </net>
-    <net code="292" name="unconnected-(U2-Pad6)">
+    <net code="312" name="unconnected-(U2-Pad6)">
       <node ref="U2" pin="6" pinfunction="V_EX" pintype="passive+no_connect"/>
     </net>
   </nets>
