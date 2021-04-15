@@ -67,14 +67,14 @@
         "clearance|85454360|144745120|03d9d407-6dcb-471e-bcec-8466b3497708|161207b6-7168-4fbd-886a-a5ec0a66efd5",
         "clearance|86104360|143220120|22b49414-c43a-4ac5-86cf-39b83750257a|afdbd167-becb-4f4f-a346-12748d6bad1c",
         "clearance|86104360|143370120|3b71bf8d-8fc1-4573-8491-96c7b3994509|22b49414-c43a-4ac5-86cf-39b83750257a",
-        "copper_edge_clearance|107432227|51061195|853244b8-9af2-49f2-b94d-37098bad925c|2bdf114c-49f2-4895-a278-853bbafcc6ef",
-        "copper_edge_clearance|107850700|49625820|142abb75-965b-4e8c-ae56-70b1c5890df0|2bdf114c-49f2-4895-a278-853bbafcc6ef",
-        "copper_edge_clearance|107850700|49625820|8d845ebb-78fd-45d7-b34a-9ee5a1ec8233|2bdf114c-49f2-4895-a278-853bbafcc6ef",
-        "copper_edge_clearance|107883210|49186130|6b417e9a-cef2-4218-ac1f-114c1c24df52|2bdf114c-49f2-4895-a278-853bbafcc6ef",
-        "copper_edge_clearance|114704512|50949603|825c5b4d-e005-43f6-a352-366dcb180015|7d83c33c-861b-4702-b0f4-476018e9d32b",
-        "copper_edge_clearance|115150700|49625820|0f7ae676-0785-4d95-b72d-ecdae2957a66|7d83c33c-861b-4702-b0f4-476018e9d32b",
-        "copper_edge_clearance|115150700|50925820|308b6c7b-a8ff-4ff5-a7b4-b24782331135|7d83c33c-861b-4702-b0f4-476018e9d32b",
-        "copper_edge_clearance|115418367|49285078|062d1364-85b3-434b-a924-e9f6eece52de|7d83c33c-861b-4702-b0f4-476018e9d32b"
+        "copper_edge_clearance|106235310|70617490|6b417e9a-cef2-4218-ac1f-114c1c24df52|2bdf114c-49f2-4895-a278-853bbafcc6ef",
+        "copper_edge_clearance|106334258|63082333|062d1364-85b3-434b-a924-e9f6eece52de|7d83c33c-861b-4702-b0f4-476018e9d32b",
+        "copper_edge_clearance|106675000|63350000|0f7ae676-0785-4d95-b72d-ecdae2957a66|7d83c33c-861b-4702-b0f4-476018e9d32b",
+        "copper_edge_clearance|106675000|70650000|142abb75-965b-4e8c-ae56-70b1c5890df0|2bdf114c-49f2-4895-a278-853bbafcc6ef",
+        "copper_edge_clearance|106675000|70650000|8d845ebb-78fd-45d7-b34a-9ee5a1ec8233|2bdf114c-49f2-4895-a278-853bbafcc6ef",
+        "copper_edge_clearance|107975000|63350000|308b6c7b-a8ff-4ff5-a7b4-b24782331135|7d83c33c-861b-4702-b0f4-476018e9d32b",
+        "copper_edge_clearance|107998783|63796188|825c5b4d-e005-43f6-a352-366dcb180015|7d83c33c-861b-4702-b0f4-476018e9d32b",
+        "copper_edge_clearance|108110375|71068473|853244b8-9af2-49f2-b94d-37098bad925c|2bdf114c-49f2-4895-a278-853bbafcc6ef"
       ],
       "meta": {
         "filename": "board_design_settings.json",
