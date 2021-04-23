@@ -61,6 +61,9 @@
         }
       ],
       "drc_exclusions": [
+        "clearance|155900000|160125000|51c738b4-e611-47f4-a7cd-9305df4eab8b|ad95f2a1-a337-4099-b926-20daaba4ce96",
+        "clearance|157300000|158625000|57bc8027-f917-47c7-a3dd-64c3bddfcab3|19cd75f9-ed10-4640-ace3-5dc7767385c1",
+        "clearance|157350000|159775000|e8ffcdc6-612a-4594-b07c-31a57d484aa3|4eacf72c-53ad-4386-a06e-470382efc758",
         "clearance|84579360|143220120|fcdb4dc3-e8a0-4851-8fb7-083b25caec29|aa9a5028-9da1-4600-96ae-ddf1d8333785",
         "clearance|84579360|144220120|1268b671-bf93-44dc-8348-d1ed8068f673|07392564-fed4-4bf6-b5dd-268940968413",
         "clearance|84954360|144720120|07392564-fed4-4bf6-b5dd-268940968413|03d9d407-6dcb-471e-bcec-8466b3497708",
@@ -109,7 +112,7 @@
         "silk_overlap": "error",
         "skew_out_of_range": "error",
         "too_many_vias": "error",
-        "track_dangling": "warning",
+        "track_dangling": "error",
         "track_width": "error",
         "tracks_crossing": "error",
         "unconnected_items": "error",
@@ -183,9 +186,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      "multiple_net_names|4559300|1333500|f309b743-5943-4ef3-b085-7aa85e078d46|c1f487b9-5ffd-4005-8e7e-4eb284071f08"
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
@@ -374,7 +375,7 @@
       "label_dangling": "error",
       "lib_symbol_issues": "warning",
       "multiple_net_names": "warning",
-      "net_not_bus_member": "warning",
+      "net_not_bus_member": "ignore",
       "no_connect_connected": "warning",
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
