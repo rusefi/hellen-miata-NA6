@@ -1,4 +1,4 @@
-29075485724083
+32316586133211
 hellen-one-common
 C0603
 
@@ -27,6 +27,13 @@ LED-0805
 0
 2
 2
+hellen-one-common
+LGA-12_2x2mm_P0.5mm
+LGA12
+lga land grid array
+0
+12
+12
 hellen-one-common
 LOGO
 
@@ -104,6 +111,13 @@ SMD-2_2.9x3.9x1.7
 0
 2
 2
+hellen-one-common
+SO20POWER
+PowerSO20
+
+0
+23
+23
 hellen-one-common
 SOD-323
 
