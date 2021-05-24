@@ -13001,7 +13001,7 @@
 
   (symbol (lib_id "hellen-one-common:Jumper-Pad-Pad") (at 138.43 95.25 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
-    (uuid 01d7b856-7fa4-4bd1-bd13-360a1b8cb953)
+    (uuid b11d84a6-ce80-4162-a9e3-bf3ac88f2cdb)
     (property "Reference" "R18" (id 0) (at 133.6539 94.2785 0)
       (effects (font (size 1.016 1.016)))
     )
@@ -13014,14 +13014,16 @@
     (property "Datasheet" "" (id 3) (at 138.43 95.25 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "MyCommnet" "DNP" (id 5) (at 138.43 95.25 0))
-    (pin "1" (uuid 996a8e9a-7e2c-4922-b4cf-79f8cf0a8777))
-    (pin "2" (uuid 78125907-1410-49ee-b0fa-f17cee5929e3))
+    (property "LCSC" " C17477" (id 4) (at 138.43 99.06 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 8d076d34-d56f-4994-af9d-d772c6d44b35))
+    (pin "2" (uuid 20197744-81e8-448c-9ea6-4d6e6c720e13))
   )
 
   (symbol (lib_id "hellen-one-common:Jumper-Pad-Pad") (at 138.43 102.87 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
-    (uuid b11d84a6-ce80-4162-a9e3-bf3ac88f2cdb)
+    (uuid 01d7b856-7fa4-4bd1-bd13-360a1b8cb953)
     (property "Reference" "R45" (id 0) (at 133.6539 101.8985 0)
       (effects (font (size 1.016 1.016)))
     )
@@ -13034,11 +13036,9 @@
     (property "Datasheet" "" (id 3) (at 138.43 102.87 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" " C17477" (id 4) (at 138.43 106.68 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 8d076d34-d56f-4994-af9d-d772c6d44b35))
-    (pin "2" (uuid 20197744-81e8-448c-9ea6-4d6e6c720e13))
+    (property "MyCommnet" "DNP" (id 5) (at 138.43 102.87 0))
+    (pin "1" (uuid 996a8e9a-7e2c-4922-b4cf-79f8cf0a8777))
+    (pin "2" (uuid 78125907-1410-49ee-b0fa-f17cee5929e3))
   )
 
   (symbol (lib_id "hellen-one-common:Jumper-Pad-Pad") (at 142.24 118.11 0) (mirror y) (unit 1)
@@ -16285,7 +16285,7 @@
     (path "/8f2ff3b3-d118-47a1-bb02-efe78bc23eee"
       (reference "R17") (unit 1) (value "Jumper-Pad-Pad") (footprint "hellen-one-common:PAD-0805-PAD")
     )
-    (path "/01d7b856-7fa4-4bd1-bd13-360a1b8cb953"
+    (path "/b11d84a6-ce80-4162-a9e3-bf3ac88f2cdb"
       (reference "R18") (unit 1) (value "Jumper-Pad-Pad") (footprint "hellen-one-common:PAD-0805-PAD")
     )
     (path "/47a2b4f2-552a-492d-a820-2d2d74ef3f36"
@@ -16360,7 +16360,7 @@
     (path "/4c88e3a3-db8b-43d1-bfe5-fc33c887c02f"
       (reference "R44") (unit 1) (value "Jumper-Pad-Pad") (footprint "hellen-one-common:PAD-0805-PAD")
     )
-    (path "/b11d84a6-ce80-4162-a9e3-bf3ac88f2cdb"
+    (path "/01d7b856-7fa4-4bd1-bd13-360a1b8cb953"
       (reference "R45") (unit 1) (value "Jumper-Pad-Pad") (footprint "hellen-one-common:PAD-0805-PAD")
     )
     (path "/a656c6b3-7b76-4ee5-b47c-b768d1adbc1a"
