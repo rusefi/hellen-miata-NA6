@@ -1,5 +1,7 @@
 # hellen64_miataNA6_94
 
+Product Manager @BeerMoneyMotorsports
+
 Issue tracker https://github.com/rusefi/hellenNA6_issues
 
 User documentation https://github.com/rusefi/rusefi/wiki/Hellen64-Miata-NA6-94
