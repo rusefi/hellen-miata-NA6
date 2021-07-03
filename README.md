@@ -16,3 +16,5 @@ https://github.com/andreika-git/hellen-one
 # BOM
 
 https://github.com/andreika-git/hellen-one/wiki/MAP-sensor-hardware
+
+Case cover bolts: M4/0.7mm countersunk Philips, 9mm thread length
