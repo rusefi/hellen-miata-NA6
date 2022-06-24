@@ -2,14 +2,14 @@
 <export version="E">
   <design>
     <source>G:\RADIO\PROJECTS\S3EFI\Hellen\src\!release\!hellen-boards\commercial_products\hellen_NA6_94\hellen64_NA6_94.kicad_sch</source>
-    <date>23/06/2022 10:40:33</date>
+    <date>24/06/2022 17:08:57</date>
     <tool>Eeschema (6.0.1)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>hellen64 NA6 94</title>
         <company>rusEFI</company>
         <rev>С</rev>
-        <date>2022-06-23</date>
+        <date>2022-06-24</date>
         <source>hellen64_NA6_94.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -1059,7 +1059,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen64_NA6_94.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>a6bf355d-1d5f-4e79-8e3f-45e3bddf3ceb 915d735b-9683-4d94-8b0d-1fa27ebac489 a7d95f89-5755-415c-ab05-3cba0bcc1e6a 5f1c7f30-e456-4e5e-847b-c87579bb1a4c</tstamps>
+      <tstamps>a7d95f89-5755-415c-ab05-3cba0bcc1e6a a6bf355d-1d5f-4e79-8e3f-45e3bddf3ceb 915d735b-9683-4d94-8b0d-1fa27ebac489 5f1c7f30-e456-4e5e-847b-c87579bb1a4c</tstamps>
     </comp>
     <comp ref="M4">
       <value>Module-sd-0.1</value>
@@ -1168,7 +1168,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen64_NA6_94.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>c0df41d0-9820-47d3-a152-f0ffc6d8b560 4aa5975a-686d-4000-acd3-f3ba1beba9e2 795890df-a6bd-4dfa-9f2a-3a4a16e2521d 1b56c00b-60da-490b-b4d1-bf16e46a6558</tstamps>
+      <tstamps>c0df41d0-9820-47d3-a152-f0ffc6d8b560 795890df-a6bd-4dfa-9f2a-3a4a16e2521d 4aa5975a-686d-4000-acd3-f3ba1beba9e2 1b56c00b-60da-490b-b4d1-bf16e46a6558</tstamps>
     </comp>
     <comp ref="P3">
       <value>Pad</value>
@@ -2357,7 +2357,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen64_NA6_94.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>ca5a3657-25e2-4020-a043-a7026e9204ac c43c9d4a-5fad-42c9-a7c6-3c2ef0041169 4fc00b0e-4906-49b6-906e-53ecedee471b</tstamps>
+      <tstamps>c43c9d4a-5fad-42c9-a7c6-3c2ef0041169 ca5a3657-25e2-4020-a043-a7026e9204ac 4fc00b0e-4906-49b6-906e-53ecedee471b</tstamps>
     </comp>
     <comp ref="U4">
       <value>LPS25HB</value>
@@ -2401,8 +2401,38 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2b5996c8-c1a3-421c-89d7-18a551c304a3</tstamps>
     </comp>
+    <comp ref="U7">
+      <value>MPXH6400A</value>
+      <footprint>hellen-one-common:MPXH6400A-SSOP8</footprint>
+      <fields>
+        <field name="LCSC">C511770</field>
+      </fields>
+      <libsource lib="" part="MPX4_MAP_1" description=""/>
+      <property name="LCSC" value="C511770"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen64_NA6_94.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b9979076-3600-40a5-8d36-93f7a5930242</tstamps>
+    </comp>
   </components>
   <libparts>
+    <libpart lib="" part="MPX4_MAP_1">
+      <fields>
+        <field name="Reference">U?</field>
+        <field name="Value">MPX4_MAP_1</field>
+        <field name="Footprint">rusefi_lib:MPX-4_MAP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="Vs" type="passive"/>
+        <pin num="3" name="GND" type="passive"/>
+        <pin num="4" name="Vout" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="7" name="" type="passive"/>
+        <pin num="8" name="" type="passive"/>
+      </pins>
+    </libpart>
     <libpart lib="178780-1" part="178780-1">
       <docs>DOCUMENTATION</docs>
       <footprints>
@@ -3643,6 +3673,7 @@
       <node ref="R54" pin="2" pintype="passive"/>
       <node ref="R55" pin="2" pintype="passive"/>
       <node ref="U2" pin="3" pinfunction="VCC" pintype="passive"/>
+      <node ref="U7" pin="2" pinfunction="Vs" pintype="passive"/>
     </net>
     <net code="5" name="+5VAS">
       <node ref="C22" pin="2" pintype="passive"/>
@@ -4117,6 +4148,7 @@
     <net code="107" name="/IN_MAP3">
       <node ref="M1" pin="S19" pinfunction="IN_MAP3" pintype="passive"/>
       <node ref="U2" pin="1" pinfunction="VOUT" pintype="passive"/>
+      <node ref="U7" pin="4" pinfunction="Vout" pintype="passive"/>
     </net>
     <net code="108" name="/IN_O2S">
       <node ref="M1" pin="S9" pinfunction="IN_O2S" pintype="passive"/>
@@ -4671,6 +4703,7 @@
       <node ref="U5" pin="SLUG3" pinfunction="SLUG@3" pintype="power_in"/>
       <node ref="U6" pin="3" pinfunction="GND" pintype="power_in"/>
       <node ref="U6" pin="9" pinfunction="GND" pintype="power_in"/>
+      <node ref="U7" pin="3" pinfunction="GND" pintype="passive"/>
     </net>
     <net code="209" name="Net-(BT1-Pad1)">
       <node ref="BT1" pin="1" pinfunction="+" pintype="passive"/>
@@ -5244,6 +5277,21 @@
     </net>
     <net code="353" name="unconnected-(U6-Pad6)">
       <node ref="U6" pin="6" pintype="no_connect"/>
+    </net>
+    <net code="354" name="unconnected-(U7-Pad1)">
+      <node ref="U7" pin="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="355" name="unconnected-(U7-Pad5)">
+      <node ref="U7" pin="5" pintype="passive+no_connect"/>
+    </net>
+    <net code="356" name="unconnected-(U7-Pad6)">
+      <node ref="U7" pin="6" pintype="passive+no_connect"/>
+    </net>
+    <net code="357" name="unconnected-(U7-Pad7)">
+      <node ref="U7" pin="7" pintype="passive+no_connect"/>
+    </net>
+    <net code="358" name="unconnected-(U7-Pad8)">
+      <node ref="U7" pin="8" pintype="passive+no_connect"/>
     </net>
   </nets>
 </export>
