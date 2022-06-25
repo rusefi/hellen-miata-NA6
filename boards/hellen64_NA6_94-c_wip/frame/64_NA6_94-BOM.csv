@@ -86,7 +86,7 @@ Comment,Designator,Footprint,LCSC Part #
 "Conn_01x06","J27","PinHeader_1x06_P2.54mm_Vertical",""
 "Module:input/0.1","M1","input",""
 "Module:ign8/0.2","M2","ign8",""
-"Module:mcu144/0.6","M3","mcu",""
+"Module:mcu/0.6","M3","mcu",""
 "Module:sd/0.1","M4","sd",""
 "Module:output/0.3","M5","output",""
 "Module:dinput4/0.1","M6","dinput4",""
