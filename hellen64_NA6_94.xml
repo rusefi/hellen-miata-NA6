@@ -2,14 +2,14 @@
 <export version="E">
   <design>
     <source>G:\RADIO\PROJECTS\S3EFI\Hellen\src\!release\!hellen-boards\commercial_products\hellen_NA6_94\hellen64_NA6_94.kicad_sch</source>
-    <date>25/06/2022 09:26:58</date>
+    <date>24/08/2022 16:53:26</date>
     <tool>Eeschema (6.0.1)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>hellen64 NA6 94</title>
         <company>rusEFI</company>
-        <rev>С</rev>
-        <date>2022-06-25</date>
+        <rev>D</rev>
+        <date>2022-08-24</date>
         <source>hellen64_NA6_94.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -1053,13 +1053,13 @@
       <tstamps>91b56abf-9ad5-4be8-a5c5-2398d74dccc7</tstamps>
     </comp>
     <comp ref="M3">
-      <value>Module-mcu-0.6</value>
+      <value>Module-mcu144-0.6</value>
       <footprint>hellen-one-mcu-0.5:mcu</footprint>
       <libsource lib="hellen-one-mcu-0.5" part="Module-mcu-0.5" description="Hellen One MCU Module"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="hellen64_NA6_94.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>a6bf355d-1d5f-4e79-8e3f-45e3bddf3ceb a7d95f89-5755-415c-ab05-3cba0bcc1e6a 915d735b-9683-4d94-8b0d-1fa27ebac489 5f1c7f30-e456-4e5e-847b-c87579bb1a4c</tstamps>
+      <tstamps>915d735b-9683-4d94-8b0d-1fa27ebac489 a6bf355d-1d5f-4e79-8e3f-45e3bddf3ceb a7d95f89-5755-415c-ab05-3cba0bcc1e6a 5f1c7f30-e456-4e5e-847b-c87579bb1a4c</tstamps>
     </comp>
     <comp ref="M4">
       <value>Module-sd-0.1</value>

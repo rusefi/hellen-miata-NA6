@@ -86,7 +86,7 @@
 "Conn_01x06","J27","Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical",""
 "Module-input-0.1","M1","hellen-one-input-0.1:input",""
 "Module-ign8-0.2","M2","hellen-one-ign8-0.2:ign8",""
-"Module-mcu-0.6","M3","hellen-one-mcu-0.5:mcu",""
+"Module-mcu144-0.6","M3","hellen-one-mcu-0.5:mcu",""
 "Module-sd-0.1","M4","hellen-one-sd-0.1:sd",""
 "Module-output-0.3","M5","hellen-one-output-0.3:output",""
 "Module-dinput4-0.1","M6","hellen-one-dinput4-0.1:dinput4",""

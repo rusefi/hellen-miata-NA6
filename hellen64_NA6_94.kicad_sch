@@ -6,8 +6,8 @@
 
   (title_block
     (title "hellen64 NA6 94")
-    (date "2022-06-25")
-    (rev "С")
+    (date "2022-08-24")
+    (rev "D")
     (company "rusEFI")
     (comment 7 "http://rusefi.com/s/hellenNA6")
   )
@@ -17327,7 +17327,7 @@
     (property "Reference" "M3" (id 0) (at 418.4651 203.7091 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "Module-mcu-0.6" (id 1) (at 418.4651 206.0078 0)
+    (property "Value" "Module-mcu144-0.6" (id 1) (at 418.4651 206.0078 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "hellen-one-mcu-0.5:mcu" (id 2) (at 420.37 207.01 0)
@@ -18732,7 +18732,7 @@
     (property "Reference" "M3" (id 0) (at 418.4651 65.2791 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "Module-mcu-0.6" (id 1) (at 418.4651 67.5778 0)
+    (property "Value" "Module-mcu144-0.6" (id 1) (at 418.4651 67.5778 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "hellen-one-mcu-0.5:mcu" (id 2) (at 435.61 68.58 0)
@@ -19270,7 +19270,7 @@
     (in_bom yes) (on_board yes)
     (uuid a6bf355d-1d5f-4e79-8e3f-45e3bddf3ceb)
     (property "Reference" "M3" (id 0) (at 445.9605 65.2738 0))
-    (property "Value" "Module-mcu-0.6" (id 1) (at 451.0405 67.5725 0))
+    (property "Value" "Module-mcu144-0.6" (id 1) (at 451.0405 67.5725 0))
     (property "Footprint" "hellen-one-mcu-0.5:mcu" (id 2) (at 435.61 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -19420,7 +19420,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a7d95f89-5755-415c-ab05-3cba0bcc1e6a)
     (property "Reference" "M3" (id 0) (at 473.71 215.1338 0))
-    (property "Value" "Module-mcu-0.6" (id 1) (at 473.71 217.4325 0))
+    (property "Value" "Module-mcu144-0.6" (id 1) (at 473.71 217.4325 0))
     (property "Footprint" "hellen-one-mcu-0.5:mcu" (id 2) (at 455.93 218.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -22752,16 +22752,16 @@
       (reference "M2") (unit 1) (value "Module-ign8-0.2") (footprint "hellen-one-ign8-0.2:ign8")
     )
     (path "/a6bf355d-1d5f-4e79-8e3f-45e3bddf3ceb"
-      (reference "M3") (unit 1) (value "Module-mcu-0.6") (footprint "hellen-one-mcu-0.5:mcu")
+      (reference "M3") (unit 1) (value "Module-mcu144-0.6") (footprint "hellen-one-mcu-0.5:mcu")
     )
     (path "/915d735b-9683-4d94-8b0d-1fa27ebac489"
-      (reference "M3") (unit 2) (value "Module-mcu-0.6") (footprint "hellen-one-mcu-0.5:mcu")
+      (reference "M3") (unit 2) (value "Module-mcu144-0.6") (footprint "hellen-one-mcu-0.5:mcu")
     )
     (path "/5f1c7f30-e456-4e5e-847b-c87579bb1a4c"
-      (reference "M3") (unit 3) (value "Module-mcu-0.6") (footprint "hellen-one-mcu-0.5:mcu")
+      (reference "M3") (unit 3) (value "Module-mcu144-0.6") (footprint "hellen-one-mcu-0.5:mcu")
     )
     (path "/a7d95f89-5755-415c-ab05-3cba0bcc1e6a"
-      (reference "M3") (unit 4) (value "Module-mcu-0.6") (footprint "hellen-one-mcu-0.5:mcu")
+      (reference "M3") (unit 4) (value "Module-mcu144-0.6") (footprint "hellen-one-mcu-0.5:mcu")
     )
     (path "/46c92d79-ab77-4cea-933a-f95fdcee2757"
       (reference "M4") (unit 1) (value "Module-sd-0.1") (footprint "hellen-one-sd-0.1:sd")

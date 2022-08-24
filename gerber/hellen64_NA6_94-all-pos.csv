@@ -75,7 +75,7 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "J27","Conn_01x06","PinHeader_1x06_P2.54mm_Vertical",103.851680,97.005340,-90.000000,top
 "M1","Module-input-0.1","input",115.937640,75.585021,180.000000,top
 "M2","Module-ign8-0.2","ign8",125.901151,33.722075,180.000000,top
-"M3","Module-mcu-0.6","mcu",116.068541,58.463843,180.000000,top
+"M3","Module-mcu144-0.6","mcu",116.068541,58.463843,180.000000,top
 "M4","Module-sd-0.1","sd",72.043541,4.220033,0.000000,top
 "M5","Module-output-0.3","output",57.716540,72.656720,180.000000,top
 "M6","Module-dinput4-0.1","dinput4",83.826692,61.355340,90.000000,top
