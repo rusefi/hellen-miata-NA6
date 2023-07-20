@@ -1,7 +1,3 @@
-# Team
-
-Product Manager @BeerMoneyMotorsports
-
 # hellen64_miataNA6_94
 
 Issue tracker https://github.com/rusefi/hellenNA6_issues
